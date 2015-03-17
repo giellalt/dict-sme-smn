@@ -7,512 +7,76 @@ beaivvádat-:piäiváá	beaivvádat-
 dahku-:rahtum	dahku-	
 loitontaa:mečidiđ	loitontaa	
 kuuluttaa:kulluuttiđ	kuuluttaa	
-doaba:tuávádâh	doaba	 <l pos="N">doaba</l>
-spábba:pállu	spábba	 <l pos="N">spábba</l>
-eananspábba:eennâmpállu	eananspábba	 <l pos="N">eananspábba</l>
-snuiba:koibâ	snuiba	 <l pos="N">snuiba</l>
-galba:kolbâ	galba	 <l pos="N">galba</l>
-galba:käibi	galba	 <l pos="N">galba</l>
-johtalusgalba:jotolâhmerkkâ	johtalusgalba	 <l pos="N">johtalusgalba</l>
-silba:silbâ	silba	 <l pos="N">silba</l>
-eallisilba:elleesilbâ	eallisilba	 <l pos="N">eallisilba</l>
-bomba:pommi	bomba	 <l pos="N">bomba</l>
 guohca:havrâ-	guohca	 <l pos="A">guohca</l>
-gáica:kaiccâ	gáica	 <l pos="N">gáica</l>
-vierca:vierccâ	vierca	 <l pos="N">vierca</l>
-buoidda:puoidâ	buoidda	 <l pos="N">buoidda</l>
-ridda:sibžádâh	ridda	 <l pos="N">ridda</l>
-dáidda:taaiđâ	dáidda	 <l pos="N">dáidda</l>
-govvadáidda:kovetaaiđâ	govvadáidda	 <l pos="N">govvadáidda</l>
-váidda:sujâttâs	váidda	 <l pos="N">váidda</l>
-gieldda:kiäldu	gieldda	 <l pos="N">gieldda</l>
-bindda:pačarâs	bindda	 <l pos="N">bindda</l>
-luodda:rađe	luodda	 <l pos="N">luodda</l>
-boardda:porthááh	boardda	 <l pos="N">boardda</l>
-jurdda:juurdâ	jurdda	 <l pos="N">jurdda</l>
-rudda:njados	rudda	 <l pos="N">rudda</l>
-gavdda:njuođâ	gavdda	 <l pos="N">gavdda</l>
-čoavdda:čoovdâ	čoavdda	 <l pos="N">čoavdda</l>
-bivdda:táttum	bivdda	 <l pos="N">bivdda</l>
-duvdda:räijejeijee	duvdda	 <l pos="N">duvdda</l>
 čuvdda:šliämu	čuvdda	 <l pos="A">čuvdda</l>
-hávdda:haavdâ	hávdda	 <l pos="N">hávdda</l>
-ládda:leemnâ	ládda	 <l pos="N">ládda</l>
-nieida:nieidâ	nieida	 <l pos="N">nieida</l>
-boaresnieida:puárisnieidâ	boaresnieida	 <l pos="N">boaresnieida</l>
-siida:pajesijdâ	siida	 <l pos="N">siida</l>
-muolda:mulde	muolda	 <l pos="N">muolda</l>
-boanda:eennâmviljâleijee	boanda	 <l pos="N">boanda</l>
-foanda:ruttârááju	foanda	 <l pos="N">foanda</l>
-luhčadávda:čuávjitavdâ	luhčadávda	 <l pos="N">luhčadávda</l>
-čoavjedávda:čuávjitavdâ	čoavjedávda	 <l pos="N">čoavjedávda</l>
-golgodávda:njuámmootavdâ	golgodávda	 <l pos="N">golgodávda</l>
-vuovssanasdávda:vyeksimtavdâ	vuovssanasdávda	 <l pos="N">vuovssanasdávda</l>
-borasdávda:puurâs	borasdávda	 <l pos="N">borasdávda</l>
-fiskesdávda:fiskistavdâ	fiskesdávda	 <l pos="N">fiskesdávda</l>
-hávda:havdâ	hávda	 <l pos="N">hávda</l>
-skárfa:skarfâ	skárfa	 <l pos="N">skárfa</l>
 bidjat_veadjaga:täsitiäduttiđ	bidjat_veadjaga	
 dađistaga:kuuloold	dađistaga	 <l pos="Adv">dađistaga</l>
 šiega:nánnáá	šiega	 <l pos="A">šiega</l>
 šiega:siivvâd	šiega	 <l pos="A">šiega</l>
-álgga:aalgâ	álgga	 <l pos="N">álgga</l>
-vuogga:vuoggâ	vuogga	 <l pos="N">vuogga</l>
-ealga:sorvâ	ealga	 <l pos="N">ealga</l>
-čalbmeguolga:čalmeroomâs	čalbmeguolga	 <l pos="N">čalbmeguolga</l>
-snuolga:snuolgâ	snuolga	 <l pos="N">snuolga</l>
-čolga:čulgâ	čolga	 <l pos="N">čolga</l>
-válga:suárváš	válga	 <l pos="N">válga</l>
-toga:juná	toga	 <l pos="N">toga</l>
-juoga:miinii	juoga	 <l pos="N">juoga</l>
-juoga:čäcijyehhee	juoga	 <l pos="N">juoga</l>
-dearga:ruzze	dearga	 <l pos="N">dearga</l>
-guorga:kuorgâ	guorga	 <l pos="N">guorga</l>
-árga:argâ	árga	 <l pos="N">árga</l>
-vuossárga:vuossargâ	vuossárga	 <l pos="N">vuossárga</l>
-čivga:vielpis	čivga	 <l pos="N">čivga</l>
-nieidačivga:nieidâpärni	nieidačivga	 <l pos="N">nieidačivga</l>
-čuovga:čuovâ	čuovga	 <l pos="N">čuovga</l>
-johtalusčuovga:jotolâhčuovâ	johtalusčuovga	 <l pos="N">johtalusčuovga</l>
-čáhcerávga:vuáŋŋáš	čáhcerávga	 <l pos="N">čáhcerávga</l>
-fága:aamnâs	fága	 <l pos="N">fága</l>
-lága:juávhudâh	lága	 <l pos="N">lága</l>
-reaŋga:reŋgâ	reaŋga	 <l pos="N">reaŋga</l>
-seaŋga:seŋgâ	seaŋga	 <l pos="N">seaŋga</l>
-betoŋga:beetoon	betoŋga	 <l pos="N">betoŋga</l>
-veaja:vyestitiäddu	veaja	 <l pos="N">veaja</l>
 friddja:rijjâ	friddja	 <l pos="A">friddja</l>
 friddja:rijjâ	friddja	 <l pos="A">friddja</l>
-idja:ijjâ	idja	 <l pos="N">idja</l>
-geografiija:eennâmtieđâ	geografiija	 <l pos="N">geografiija</l>
-biografiija:eellimkerdi	biografiija	 <l pos="N">biografiija</l>
-teologiija:teologia	teologiija	 <l pos="N">teologiija</l>
-energiija:energia	energiija	 <l pos="N">energiija</l>
-kemiija:kemia	kemiija	 <l pos="N">kemiija</l>
-kopiija:kopio	kopiija	 <l pos="N">kopiija</l>
-poesiija:tihtâvuotâ	poesiija	 <l pos="N">poesiija</l>
-politiija:poolis	politiija	 <l pos="N">politiija</l>
-doarjja:toorjâ	doarjja	 <l pos="N">doarjja</l>
-doaibmadoarjja:áigápuátutoorjâ	doaibmadoarjja	 <l pos="N">doaibmadoarjja</l>
-viellja:viljâ	viellja	 <l pos="N">viellja</l>
-medálja:miitaal	medálja	 <l pos="N">medálja</l>
-detálja:ovtâskâsčyegis	detálja	 <l pos="N">detálja</l>
-sátnja:viermisaaŋâ	sátnja	 <l pos="N">sátnja</l>
-gavja:kovjâ	gavja	 <l pos="N">gavja</l>
-veahka:viehâ	veahka	 <l pos="N">veahka</l>
-bargoveahka:pargoviehâ	bargoveahka	 <l pos="N">bargoveahka</l>
-giehka:kiehâ	giehka	 <l pos="N">giehka</l>
-golbmačiehka:kulmâhâš	golbmačiehka	 <l pos="N">golbmačiehka</l>
-láhka:njäähi	láhka	 <l pos="N">láhka</l>
-vuođđoláhka:vuáđulaahâ	vuođđoláhka	 <l pos="N">vuođđoláhka</l>
-máhka:immeev	máhka	 <l pos="N">máhka</l>
-sáhka:hástu	sáhka	 <l pos="N">sáhka</l>
-sáhka:saahâ	sáhka	 <l pos="N">sáhka</l>
-baika:poškâ	baika	 <l pos="N">baika</l>
 eaika:tammi	eaika	
-biika:soođâ	biika	 <l pos="N">biika</l>
-davviriika:tave-eennâm	davviriika	 <l pos="N">davviriika</l>
-olgoriika:olgoeennâm	olgoriika	 <l pos="N">olgoriika</l>
 gonagasriika:kunâgâskodde	gonagasriika	
-čuoika:čuoškâ	čuoika	 <l pos="N">čuoika</l>
-čuoika:čuoškâ	čuoika	 <l pos="N">čuoika</l>
 vakka:kijssá	vakka	
-čiekka:čiegâ	čiekka	 <l pos="N">čiekka</l>
-bleahkka:lekkâ	bleahkka	 <l pos="N">bleahkka</l>
-bleahkka:peldi	bleahkka	 <l pos="N">bleahkka</l>
-seahkka:sekkâ	seahkka	 <l pos="N">seahkka</l>
-koahkka:kokkâ	koahkka	 <l pos="N">koahkka</l>
-bihkka:pikkâ	bihkka	 <l pos="N">bihkka</l>
-republihkka:täsiväldi	republihkka	 <l pos="N">republihkka</l>
-fabrihkka:fabrik	fabrihkka	 <l pos="N">fabrihkka</l>
-musihkka:muusik	musihkka	 <l pos="N">musihkka</l>
-politihkka:politijkká	politihkka	 <l pos="N">politihkka</l>
-narkotihkka:narkotiik	narkotihkka	 <l pos="N">narkotihkka</l>
-dearbastihkka:heeilâr	dearbastihkka	 <l pos="N">dearbastihkka</l>
-plastihkka:lastik	plastihkka	 <l pos="N">plastihkka</l>
-statistihkka:lovottâh	statistihkka	 <l pos="N">statistihkka</l>
-akustihkka:akustiik	akustihkka	 <l pos="N">akustihkka</l>
 dohkka:teelaak	dohkka	
-lohkka:lukkâ	lohkka	 <l pos="N">lohkka</l>
-barohkka:baarook	barohkka	 <l pos="N">barohkka</l>
-báhkka:pakkeet	báhkka	 <l pos="N">báhkka</l>
-cealkka:ceelhâ	cealkka	 <l pos="N">cealkka</l>
-plokka:avra	plokka	 <l pos="N">plokka</l>
 gaskka:koskân	gaskka	 <l pos="Adv">gaskka</l>
-joatkka:kuhádâs	joatkka	 <l pos="N">joatkka</l>
-gietkka:kietkâm	gietkka	 <l pos="N">gietkka</l>
-rátkka:pygálys	rátkka	 <l pos="N">rátkka</l>
-dulka:tulkkâ	dulka	 <l pos="N">dulka</l>
-hálka:ruokkâ	hálka	 <l pos="N">hálka</l>
-kálka:kalkkâ	kálka	 <l pos="N">kálka</l>
-tallearka:taldrik	tallearka	 <l pos="N">tallearka</l>
-ovdamearka:ovdâmerkkâ	ovdamearka	 <l pos="N">ovdamearka</l>
-dávdamearka:tavdâmerkkâ	dávdamearka	 <l pos="N">dávdamearka</l>
-poastamearka:postâmerkkâ	poastamearka	 <l pos="N">poastamearka</l>
-dovdomearka:tobdomerkkâ	dovdomearka	 <l pos="N">dovdomearka</l>
 purka:porge	purka	
-árka:arkkâ	árka	 <l pos="N">árka</l>
-párka:muorâstâh	párka	 <l pos="N">párka</l>
-beaska:turkkâ	beaska	 <l pos="N">beaska</l>
-leaska:leskâ	leaska	 <l pos="N">leaska</l>
-gaska:koskâ	gaska	 <l pos="N">gaska</l>
-boska:puurrâmrääsi	boska	 <l pos="N">boska</l>
-stáloboska:stáálupoccee	stáloboska	 <l pos="N">stáloboska</l>
-buoska:juŋkká	buoska	 <l pos="N">buoska</l>
-buoska:puoskâ	buoska	 <l pos="N">buoska</l>
-duotka:kuámui	duotka	 <l pos="N">duotka</l>
-cuovka:cuovkkâloho	cuovka	 <l pos="N">cuovka</l>
-lávka:lavkkâ	lávka	 <l pos="N">lávka</l>
-spárvabeaŋka:sorvi	spárvabeaŋka	 <l pos="N">spárvabeaŋka</l>
-siŋka:siŋkkâ	siŋka	 <l pos="N">siŋka</l>
-muŋka:muŋkki	muŋka	 <l pos="N">muŋka</l>
 ala:oolâ	ala	 <l pos="Adv">ala</l>
 rantamatala:fiärvá	rantamatala	
-seaila:seilâ	seaila	 <l pos="N">seaila</l>
-biila:avdo	biila	 <l pos="N">biila</l>
 inhabiila:iästulâš	inhabiila	
-tabealla:tavlustâh	tabealla	 <l pos="N" type="G3">tabealla</l>
-sealla:sellâ	sealla	 <l pos="N">sealla</l>
-hotealla:hooteel	hotealla	 <l pos="N" type="G3">hotealla</l>
 jalla:jollâ	jalla	 <l pos="A">jalla</l>
 jalla:káigáá	jalla	 <l pos="A">jalla</l>
-giella:kielâ	giella	 <l pos="N">giella</l>
-giella:kielâ	giella	 <l pos="N">giella</l>
-latiinnagiella:läättin	latiinnagiella	 <l pos="N">latiinnagiella</l>
-girjegiella:kirjekielâ	girjegiella	 <l pos="N">girjegiella</l>
-áhkkilsámegiella:äkkilsämikielâ	áhkkilsámegiella	 <l pos="N">áhkkilsámegiella</l>
-eatnigiella:eenikielâ	eatnigiella	 <l pos="N">eatnigiella</l>
-unnitlohkogiella:ucceeblovokielâ	unnitlohkogiella	 <l pos="N">unnitlohkogiella</l>
-miella:mielâ	miella	 <l pos="N">miella</l>
-spiella:jielâ	spiella	 <l pos="N">spiella</l>
 kuoleskella:jamâdiđ	kuoleskella	
-dolla:tullâ	dolla	 <l pos="N">dolla</l>
-nulla:nollá	nulla	 <l pos="N">nulla</l>
 nášuvnnalávlla:aalmuglâšlaavlâ	nášuvnnalávlla	
-njálla:njaalâ	njálla	 <l pos="N">njálla</l>
-metálla:meetaal	metálla	 <l pos="N">metálla</l>
-symbola:symbol	symbola	 <l pos="N">symbola</l>
-idola:jiellâh	idola	 <l pos="N">idola</l>
-seavla:sihtâ	seavla	 <l pos="N">seavla</l>
-bievla:pievlâ	bievla	 <l pos="N">bievla</l>
-skuvla:škovlâ	skuvla	 <l pos="N">skuvla</l>
-joatkkaskuvla:luvâttuh	joatkkaskuvla	 <l pos="N">joatkkaskuvla</l>
-joatkkaskuvla:áámmátškovlâ	joatkkaskuvla	 <l pos="N">joatkkaskuvla</l>
-allaskuvla:ollâškovlâ	allaskuvla	 <l pos="N">allaskuvla</l>
-fidnoallaskuvla:áámmátollâškovlâ	fidnoallaskuvla	 <l pos="N">fidnoallaskuvla</l>
-rihppaskuvla:rippâškovlâ	rihppaskuvla	 <l pos="N">rihppaskuvla</l>
-nuoraidskuvla:pajetääsi	nuoraidskuvla	 <l pos="N">nuoraidskuvla</l>
-mánáidskuvla:vyelitääsi	mánáidskuvla	 <l pos="N">mánáidskuvla</l>
-vuođđoskuvla:vuáđuškovlâ	vuođđoskuvla	 <l pos="N">vuođđoskuvla</l>
-álbmotskuvla:aalmugškovlâ	álbmotskuvla	 <l pos="N">álbmotskuvla</l>
-čuvla:haamit	čuvla	 <l pos="N">čuvla</l>
-čuvla:vuálppu	čuvla	 <l pos="N">čuvla</l>
-hávla:havlâ	hávla	 <l pos="N">hávla</l>
-gála:kaalâ	gála	 <l pos="N">gála</l>
-materiála:amnâstâh	materiála	 <l pos="N">materiála</l>
-materiála:materiaal	materiála	 <l pos="N">materiála</l>
-linjála:vijváin	linjála	 <l pos="N">linjála</l>
 vokála:vookaal	vokála	
-signála:signaal	signála	 <l pos="N">signála</l>
 kardinála:kardinaal	kardinála	
-originála:ärbisääni	originála	 <l pos="N">originála</l>
 liberála:rijjâmielâlâš	liberála	 <l pos="A">liberála</l>
-minerála:mineraal	minerála	 <l pos="N">minerála</l>
-spirála:spiiraal	spirála	 <l pos="N">spirála</l>
-áigečála:äigipajelostâ	áigečála	 <l pos="N">áigečála</l>
-bajilčála:paječaalâ	bajilčála	 <l pos="N">bajilčála</l>
-doaibma:toimâ	doaibma	 <l pos="N">doaibma</l>
 albma:olmâ	albma	 <l pos="A">albma</l>
-filbma:elleekove	filbma	 <l pos="N">filbma</l>
-čuolbma:čuolmâ	čuolbma	 <l pos="N">čuolbma</l>
-hálbma:olgâ	hálbma	 <l pos="N">hálbma</l>
-sálbma:salmâ	sálbma	 <l pos="N">sálbma</l>
-fuorbma:vuormâ	fuorbma	 <l pos="N">fuorbma</l>
-čorbma:čurmâ	čorbma	 <l pos="N">čorbma</l>
-skábma:skammâ	skábma	 <l pos="N">skábma</l>
-tema:teema	tema	 <l pos="N">tema</l>
 seamma:siämmáš	seamma	 <l pos="Adv">seamma</l>
-namma:nommâ	namma	 <l pos="N">namma</l>
-ovdanamma:ovdânommâ	ovdanamma	 <l pos="N">ovdanamma</l>
-kumma:näppi	kumma	 <l pos="N">kumma</l>
-grámma:grammâ	grámma	 <l pos="N">grámma</l>
-prográmma:ohjelm	prográmma	 <l pos="N">prográmma</l>
-atoma:aatoom	atoma	 <l pos="N">atoma</l>
-liepma:liemâ	liepma	 <l pos="N">liepma</l>
-duopma:tavetuomâ	duopma	 <l pos="N">duopma</l>
-hupma:hullân	hupma	 <l pos="N">hupma</l>
-bisma:pispe	bisma	 <l pos="N">bisma</l>
-earkebisma:arkkâpispe	earkebisma	 <l pos="N">earkebisma</l>
-organisma:orgaanvuáhádâh	organisma	 <l pos="N">organisma</l>
-rekláma:mááinus	rekláma	 <l pos="N">rekláma</l>
-eana:eennâm	eana	 <l pos="N" vmax="3">eana</l>
-liidna:kiärdu	liidna	 <l pos="N">liidna</l>
-alumiidna:alumin	alumiidna	 <l pos="N">alumiidna</l>
-margariidna:margarin	margariidna	 <l pos="N">margariidna</l>
-skriidna:čukke	skriidna	 <l pos="N">skriidna</l>
-appelsiidna:appelsin	appelsiidna	 <l pos="N">appelsiidna</l>
 áidna:áinoo	áidna	 <l pos="A">áidna</l>
-toardna:tornâ	toardna	 <l pos="N">toardna</l>
 čuovgatoardna:čuovâtornâ	čuovgatoardna	
-suordna:saarni	suordna	 <l pos="N">suordna</l>
-skorpiovdna:skorpion	skorpiovdna	 <l pos="N">skorpiovdna</l>
-vovdna:vávnu	vovdna	 <l pos="N">vovdna</l>
-delegašuvdna:väldikodde	delegašuvdna	 <l pos="N">delegašuvdna</l>
-publikašuvdna:almostittem	publikašuvdna	 <l pos="N">publikašuvdna</l>
-kombinašuvdna:kuálus	kombinašuvdna	 <l pos="N">kombinašuvdna</l>
-komposišuvdna:nuottâ	komposišuvdna	 <l pos="N">komposišuvdna</l>
-funkšuvdna:funktio	funkšuvdna	 <l pos="N">funkšuvdna</l>
-oksygena:happi	oksygena	 <l pos="N">oksygena</l>
 fenomena:almoon	fenomena	
-peanna:pennâ	peanna	 <l pos="N">peanna</l>
 kuonna:kuonâ	kuonna	 <l pos="A">kuonna</l>
-juotna:juonâ	juotna	 <l pos="N">juotna</l>
-váibmosuotna:váimusuonâ	váibmosuotna	 <l pos="N">váibmosuotna</l>
-vuotna:vuonâ	vuotna	 <l pos="N">vuotna</l>
-orgána:orgaan	orgána	 <l pos="N">orgána</l>
-hálddašanorgána:haldâttâsorgaan	hálddašanorgána	 <l pos="N">hálddašanorgána</l>
-plána:vuávám	plána	 <l pos="N">plána</l>
-doaibmaplána:toimâvuávám	doaibmaplána	 <l pos="N">doaibmaplána</l>
-diibmoplána:äigitavlu	diibmoplána	 <l pos="N">diibmoplána</l>
-banána:baanaan	banána	 <l pos="N">banána</l>
-gihpa:mappi	gihpa	 <l pos="N">gihpa</l>
-guohpa:kuopâ	guohpa	 <l pos="N">guohpa</l>
-pumpa:pumppu	pumpa	 <l pos="N">pumpa</l>
-dámpa:lievlâtamppâ	dámpa	 <l pos="N">dámpa</l>
-giellaoahppa:kielâoppâ	giellaoahppa	 <l pos="N">giellaoahppa</l>
-siehppa:sieppâ	siehppa	 <l pos="N">siehppa</l>
-rihppa:rippâ	rihppa	 <l pos="N">rihppa</l>
-prinsihppa:prinsiip	prinsihppa	 <l pos="N">prinsihppa</l>
-dohppa:tuppâ	dohppa	 <l pos="N">dohppa</l>
-báhppa:pappâ	báhppa	 <l pos="N">báhppa</l>
-bakteara:bakteer	bakteara	 <l pos="N">bakteara</l>
 mearragiera:merâtääsi	mearragiera	
-leaira:leirâ	leaira	 <l pos="N">leaira</l>
-mearra:meerâ	mearra	 <l pos="N">mearra</l>
 váldomearra:váldumeerâ	váldomearra	
-varra:vorrâ	varra	 <l pos="N">varra</l>
-nierra:nierâuáivi	nierra	 <l pos="N">nierra</l>
-snuhrra:škorijdem	snuhrra	 <l pos="N">snuhrra</l>
 birra:pirrâ	birra	 <l pos="Po">birra</l>
 birra:pirrâluvâi	birra	 <l pos="Po">birra</l>
 birra:pirrâluvâi	birra	 <l pos="Po">birra</l>
-juovlamuorra:juovlâkuosâ	juovlamuorra	 <l pos="N">juovlamuorra</l>
-smáhkkomuorra:oivârâš	smáhkkomuorra	 <l pos="N">smáhkkomuorra</l>
 nuorra:nuorâ	nuorra	 <l pos="A">nuorra</l>
-bárra:parâkodde	bárra	 <l pos="N">bárra</l>
 várra:vissâ	várra	 <l pos="Adv">várra</l>
-inšenevra:insiner	inšenevra	 <l pos="N">inšenevra</l>
-stivra:stivrâ	stivra	 <l pos="N">stivra</l>
-gielddastivra:kieldâstivrâ	gielddastivra	 <l pos="N">gielddastivra</l>
-gielddastivra:kundáhaldâttâs	gielddastivra	 <l pos="N">gielddastivra</l>
-gávpotstivra:kaavpugstivrâ	gávpotstivra	 <l pos="N">gávpotstivra</l>
-muvra:muvrâ	muvra	 <l pos="N">muvra</l>
-struktuvra:rááhtus	struktuvra	 <l pos="N">struktuvra</l>
-kantuvra:toimâttâh	kantuvra	 <l pos="N">kantuvra</l>
-beatnatrávra:jävriruáhu	beatnatrávra	 <l pos="N">beatnatrávra</l>
-prosedyra:vyehi	prosedyra	 <l pos="N">prosedyra</l>
 masa:kuus	masa	 <l pos="Adv">masa</l>
-aviisa:aavis	aviisa	 <l pos="N">aviisa</l>
 sisa:siisâ	sisa	 <l pos="Adv">sisa</l>
 sisa:siisâ	sisa	 <l pos="Adv">sisa</l>
-čiksa:čikšâ	čiksa	 <l pos="N">čiksa</l>
-poastaboksa:postâloová	poastaboksa	 <l pos="N">poastaboksa</l>
 ortodoksa:ortodoksilâš	ortodoksa	 <l pos="A">ortodoksa</l>
-guoksa:kuopsâ	guoksa	 <l pos="N">guoksa</l>
-válsa:valssâ	válsa	 <l pos="N">válsa</l>
-bronsa:pronssi	bronsa	 <l pos="N">bronsa</l>
-dánsa:tanssâ	dánsa	 <l pos="N">dánsa</l>
-balánsa:täsitiäddu	balánsa	 <l pos="N">balánsa</l>
-ambulánsa:pyecceiauto	ambulánsa	 <l pos="N">ambulánsa</l>
 gosa:kuus	gosa	 <l pos="Adv">gosa</l>
 gosa:kuus	gosa	 <l pos="Adv">gosa</l>
-stálubursa:pođgee	stálubursa	 <l pos="N">stálubursa</l>
-kursa:kurssâ	kursa	 <l pos="N">kursa</l>
-prinseassa:prinses	prinseassa	 <l pos="N">prinseassa</l>
-toassa:rasijâš	toassa	 <l pos="N">toassa</l>
 molssa:molsom	molssa	
 kierossa:ponjen	kierossa	
-luossa:luosâ	luossa	 <l pos="N">luossa</l>
-ruossa:ratkuuttâh	ruossa	 <l pos="N" type="G3">ruossa</l>
-bavssa:poovsâ	bavssa	 <l pos="N">bavssa</l>
-lovssa:luocci	lovssa	 <l pos="N">lovssa</l>
-gássa:kaasu	gássa	 <l pos="N" type="G3">gássa</l>
-gássa:kassa	gássa	 <l pos="N" type="G3">gássa</l>
-pássa:passâ	pássa	 <l pos="N" type="G3">pássa</l>
 jata:joddee	jata	
-bahta:pottâ	bahta	 <l pos="N">bahta</l>
-gollebahta:kollepottâ	gollebahta	 <l pos="N">gollebahta</l>
-alfabehta:puustaveh	alfabehta	 <l pos="N">alfabehta</l>
-profehta:proofeet	profehta	 <l pos="N">profehta</l>
-fiehta:stuorrâviettuu	fiehta	 <l pos="N">fiehta</l>
-vuoktafiehta:uccâviettuš	vuoktafiehta	 <l pos="N">vuoktafiehta</l>
-miehta:mietâ	miehta	 <l pos="N">miehta</l>
-planehta:plaaneet	planehta	 <l pos="N">planehta</l>
 konkrehta:konkreetlâš	konkrehta	 <l pos="A">konkrehta</l>
-universitehta:ollâopâttâh	universitehta	 <l pos="N">universitehta</l>
-fáŋgavuohta:faŋgâvuotâ	fáŋgavuohta	 <l pos="N">fáŋgavuohta</l>
-vielljavuohta:viljâvuotâ	vielljavuohta	 <l pos="N">vielljavuohta</l>
-gaskavuohta:koskâvuotâ	gaskavuohta	 <l pos="N">gaskavuohta</l>
-suolavuohta:suolâvuotâ	suolavuohta	 <l pos="N">suolavuohta</l>
-nuorravuohta:nuorâvuotâ	nuorravuohta	 <l pos="N">nuorravuohta</l>
-duohtavuohta:tuotâvuotâ	duohtavuohta	 <l pos="N">duohtavuohta</l>
-oktavuohta:ohtâvuotâ	oktavuohta	 <l pos="N">oktavuohta</l>
-buorrevuohta:pyerivuotâ	buorrevuohta	 <l pos="N">buorrevuohta</l>
-geafivuohta:kievhivuotâ	geafivuohta	 <l pos="N">geafivuohta</l>
-álkivuohta:älkkeevuotâ	álkivuohta	 <l pos="N">álkivuohta</l>
-eadnivuohta:ennivuotâ	eadnivuohta	 <l pos="N">eadnivuohta</l>
-bassivuohta:pasevuotâ	bassivuohta	 <l pos="N">bassivuohta</l>
-veahkkáivuohta:iššáávuotâ	veahkkáivuohta	 <l pos="N">veahkkáivuohta</l>
-dárkilvuohta:tärkkivuotâ	dárkilvuohta	 <l pos="N">dárkilvuohta</l>
-johtilvuohta:liähtu	johtilvuohta	 <l pos="N">johtilvuohta</l>
-sihkarvuohta:torvolâšvuotâ	sihkarvuohta	 <l pos="N">sihkarvuohta</l>
-sihkarvuohta:visesvuotâ	sihkarvuohta	 <l pos="N">sihkarvuohta</l>
-borgárvuohta:aalmugjeessânvuotâ	borgárvuohta	 <l pos="N">borgárvuohta</l>
-oskkáldasvuohta:oskolâšvuotâ	oskkáldasvuohta	 <l pos="N">oskkáldasvuohta</l>
-geatnegasvuohta:kenigâsvuotâ	geatnegasvuohta	 <l pos="N">geatnegasvuohta</l>
-ávdugasvuohta:avdâgâsvuotâ	ávdugasvuohta	 <l pos="N">ávdugasvuohta</l>
-árbmugasvuohta:ármugâsvuotâ	árbmugasvuohta	 <l pos="N">árbmugasvuohta</l>
-iehčanasvuohta:jiečânâsvuotâ	iehčanasvuohta	 <l pos="N">iehčanasvuohta</l>
-divrrasvuohta:tivrâsvuotâ	divrrasvuohta	 <l pos="N">divrrasvuohta</l>
-jienahisvuohta:jávuttemesvuotâ	jienahisvuohta	 <l pos="N">jienahisvuohta</l>
-bargguhisvuohta:pargottesvuotâ	bargguhisvuohta	 <l pos="N">bargguhisvuohta</l>
-ráhkisvuohta:rähisvuotâ	ráhkisvuohta	 <l pos="N">ráhkisvuohta</l>
-ollisvuohta:ubâlâšvuotâ	ollisvuohta	 <l pos="N">ollisvuohta</l>
-boarisvuohta:puárisvuotâ	boarisvuohta	 <l pos="N">boarisvuohta</l>
-váttisvuohta:čuolmâ	váttisvuohta	 <l pos="N">váttisvuohta</l>
-čiegusvuohta:syeligâsvuotâ	čiegusvuohta	 <l pos="N">čiegusvuohta</l>
-vuoigatvuohta:vuoigâdvuotâ	vuoigatvuohta	 <l pos="N">vuoigatvuohta</l>
-iešmearridanvuoigatvuohta:jiešmeridemvuoigâdvuotâ	iešmearridanvuoigatvuohta	 <l pos="N">iešmearridanvuoigatvuohta</l>
-seavdnjatvuohta:sevŋâdâs	seavdnjatvuohta	 <l pos="N">seavdnjatvuohta</l>
-jaskatvuohta:jávuttemesvuotâ	jaskatvuohta	 <l pos="N">jaskatvuohta</l>
-ahkitvuohta:ahheevvuotâ	ahkitvuohta	 <l pos="N">ahkitvuohta</l>
-ustitvuohta:ustevvuotâ	ustitvuohta	 <l pos="N">ustitvuohta</l>
-udjuvuohta:uinevuotâ	udjuvuohta	 <l pos="N">udjuvuohta</l>
 gomuvuohta:komovuotâ	gomuvuohta	
-miellahttuvuohta:jeessânvuotâ	miellahttuvuohta	 <l pos="N">miellahttuvuohta</l>
-mánnávuohta:pärnivuotâ	mánnávuohta	 <l pos="N">mánnávuohta</l>
-ovttamielalašvuohta:oovtâmielâlâšvuotâ	ovttamielalašvuohta	 <l pos="N">ovttamielalašvuohta</l>
-kristtalašvuohta:ristâosko	kristtalašvuohta	 <l pos="N">kristtalašvuohta</l>
-gelbbolašvuohta:tohálâšvuotâ	gelbbolašvuohta	 <l pos="N">gelbbolašvuohta</l>
-barggolašvuohta:pargolâšvuotâ	barggolašvuohta	 <l pos="N">barggolašvuohta</l>
-álbmotlašvuohta:aalmuglâšvuotâ	álbmotlašvuohta	 <l pos="N">álbmotlašvuohta</l>
-girjjálašvuohta:kirjálâšvuotâ	girjjálašvuohta	 <l pos="N">girjjálašvuohta</l>
-čáppagirjjálašvuohta:čaabâkirjálâšvuotâ	čáppagirjjálašvuohta	 <l pos="N">čáppagirjjálašvuohta</l>
-gierdavašvuohta:killeelvuotâ	gierdavašvuohta	 <l pos="N">gierdavašvuohta</l>
-dearvvašvuohta:tiervâsvuotâ	dearvvašvuohta	 <l pos="N">dearvvašvuohta</l>
-jugešvuohta:juhheevuotâ	jugešvuohta	 <l pos="N">jugešvuohta</l>
 absoluhta:absoluutlâš	absoluhta	
-ruhta:ruttâ	ruhta	 <l pos="N">ruhta</l>
-veahkkeruhta:išeruttâ	veahkkeruhta	 <l pos="N">veahkkeruhta</l>
-advokáhta:äššivyeijee	advokáhta	 <l pos="N" vmax="2">advokáhta</l>
-saláhta:saalaat	saláhta	 <l pos="N" vmax="2">saláhta</l>
-stáhta:staatâ	stáhta	 <l pos="N">stáhta</l>
 priváhta:ovtâskâs	priváhta	 <l pos="A">priváhta</l>
-kreakta:paskos	kreakta	 <l pos="N">kreakta</l>
-veakta:leeibâšk	veakta	 <l pos="N">veakta</l>
 geaidnolakta:lohtâ	geaidnolakta	
-jiekta:čirgottâs	jiekta	 <l pos="N">jiekta</l>
-miekta:miehtâluhtee	miekta	 <l pos="N">miekta</l>
-likta:lihtâ	likta	 <l pos="N">likta</l>
-okta:ohtâ	okta	 <l pos="N">okta</l>
-sokta:suptâ	sokta	 <l pos="N">sokta</l>
-dukta:suvle	dukta	 <l pos="N">dukta</l>
-ákta:čájáttâs	ákta	 <l pos="N">ákta</l>
 abstrákta:abstraktâ	abstrákta	 <l pos="A">abstrákta</l>
-sákta:säppi	sákta	 <l pos="N">sákta</l>
-tákta:tahtâ	tákta	 <l pos="N">tákta</l>
-skoalta:nuorttâlâš	skoalta	 <l pos="N">skoalta</l>
-studeanta:pajeuáppee	studeanta	 <l pos="N">studeanta</l>
-dokumeanta:äššikirje	dokumeanta	 <l pos="N">dokumeanta</l>
-proseanta:prooseent	proseanta	 <l pos="N">proseanta</l>
-pateanta:patent	pateanta	 <l pos="N">pateanta</l>
-adveanta:advent	adveanta	 <l pos="N">adveanta</l>
-minta:minttu	minta	 <l pos="N">minta</l>
-elefánta:elefantti	elefánta	 <l pos="N">elefánta</l>
-bliánta:lajopennâ	bliánta	 <l pos="N" vmax="2">bliánta</l>
 šlánta:šlantti	šlánta	
-pánta:panttâ	pánta	 <l pos="N">pánta</l>
-barta:tuuvááš	barta	 <l pos="N">barta</l>
-konsearta:oovdânpyehtim	konsearta	 <l pos="N">konsearta</l>
-vuodjinkoarta:vyeijimkorttâ	vuodjinkoarta	 <l pos="N">vuodjinkoarta</l>
 satakerta:čeksâ	satakerta	
-kárta:kárttá	kárta	 <l pos="N">kárta</l>
-kvárta:varttâ	kvárta	 <l pos="N">kvárta</l>
-kvárta:varttâ	kvárta	 <l pos="N">kvárta</l>
-jeasta:hijvá	jeasta	 <l pos="N">jeasta</l>
-poasta:postâ	poasta	 <l pos="N">poasta</l>
-e-poasta:šleđgâpostâ	e-poasta	 <l pos="N">e-poasta</l>
-journalista:toimâtteijee	journalista	 <l pos="N">journalista</l>
 mista:vahâgist	mista	 <l pos="Adv">mista</l>
 komponista:nyettejeijee	komponista	
-jurista:juuriist	jurista	 <l pos="N">jurista</l>
-teaksta:tekstâ	teaksta	 <l pos="N">teaksta</l>
-láhkateaksta:lahâtekstâ	láhkateaksta	 <l pos="N">láhkateaksta</l>
-ruosta:ruostâ	ruosta	 <l pos="N">ruosta</l>
 obersta:eeveerst	obersta	
 fásta:staađâ	fásta	 <l pos="A">fásta</l>
-rakeahtta:raakeet	rakeahtta	 <l pos="N">rakeahtta</l>
-kaseahtta:kasseet	kaseahtta	 <l pos="N">kaseahtta</l>
-šloahtta:lanne	šloahtta	 <l pos="N">šloahtta</l>
-skuohtta:paccâm	skuohtta	 <l pos="N">skuohtta</l>
-ruohtta:áptu	ruohtta	 <l pos="N">ruohtta</l>
-ođđabeairuohtta:uđđâvuođáptu	ođđabeairuohtta	 <l pos="N">ođđabeairuohtta</l>
-valuhtta:vaaluut	valuhtta	 <l pos="N">valuhtta</l>
-minuhtta:miinut	minuhtta	 <l pos="N">minuhtta</l>
-bargoheaitta:jasko	bargoheaitta	 <l pos="N">bargoheaitta</l>
 ruutimitta:mottâ	ruutimitta	
 hertta:herttâ	hertta	
-miestta:miestâ	miestta	 <l pos="N">miestta</l>
-dovtta:tuhtuu	dovtta	 <l pos="N">dovtta</l>
-áhpedovtta:merâtuhtuu	áhpedovtta	 <l pos="N">áhpedovtta</l>
-buvtta:puovtâ	buvtta	 <l pos="N">buvtta</l>
-mátta:maadâ	mátta	 <l pos="N">mátta</l>
-mátta:roppâ	mátta	 <l pos="N">mátta</l>
-sátta:vuolgâttâs	sátta	 <l pos="N">sátta</l>
 madaltua:cuáhuđ	madaltua	
-baikabava:činehumtavdâ	baikabava	 <l pos="N">baikabava</l>
 poava:paavi	poava	
 vaikuttava:hormiš	vaikuttava	
-diva:loppiittâs	diva	 <l pos="N">diva</l>
-arkiiva:arkkâdâh	arkiiva	 <l pos="N">arkiiva</l>
 progressiiva:ovdánemmielâlâš	progressiiva	
 negatiiva:negatiivlâš	negatiiva	 <l pos="A">negatiiva</l>
-adjektiiva:adjektijvâ	adjektiiva	 <l pos="N">adjektiiva</l>
-perspektiiva:uáinu	perspektiiva	 <l pos="N">perspektiiva</l>
-lokomotiiva:kessee	lokomotiiva	 <l pos="N">lokomotiiva</l>
-gealva:kavlin	gealva	 <l pos="N">gealva</l>
-skruva:sruuvâ	skruva	 <l pos="N">skruva</l>
-neavva:avžuuttâs	neavva	 <l pos="N">neavva</l>
-hoavva:haavi	hoavva	 <l pos="N">hoavva</l>
-doaivva:tuáivu	doaivva	 <l pos="N">doaivva</l>
-vivva:ristalge	vivva	 <l pos="N">vivva</l>
-govva:kove	govva	 <l pos="N">govva</l>
-ovdagovva:ovdâkove	ovdagovva	 <l pos="N">ovdagovva</l>
-čuovgagovva:čuovâkove	čuovgagovva	 <l pos="N">čuovgagovva</l>
-juovva:säärgis	juovva	 <l pos="N">juovva</l>
-mihttolávva:mittokaava	mihttolávva	 <l pos="N">mihttolávva</l>
-šláva:uárji	šláva	 <l pos="N">šláva</l>
-kráva:siäpulâs	kráva	 <l pos="N">kráva</l>
-sávza:savzâ	sávza	 <l pos="N">sávza</l>
-gazza:kozzâ	gazza	 <l pos="N">gazza</l>
-badjebáza:paijeelpáácu	badjebáza	 <l pos="N">badjebáza</l>
-vuolláibáza:vuálápáácu	vuolláibáza	 <l pos="N">vuolláibáza</l>
 arméa:suátiviehâ	arméa	
 bahča:poččâ	bahča	 <l pos="A">bahča</l>
 bahča:poččâ	bahča	 <l pos="A">bahča</l>
-čakča:čohčâ	čakča	 <l pos="N">čakča</l>
 čađa:čoođâ	čađa	 <l pos="Po">čađa</l>
-dieđa:tieđâ	dieđa	 <l pos="N">dieđa</l>
-dálkkasdieđa:talhâstieđâ	dálkkasdieđa	 <l pos="N">dálkkasdieđa</l>
-giđđa:kiđđâ	giđđa	 <l pos="N">giđđa</l>
-luođđa:luođâ	luođđa	 <l pos="N">luođđa</l>
-jiekŋa:jieŋâ	jiekŋa	 <l pos="N">jiekŋa</l>
-lákcajiekŋa:lahcâjieŋâ	lákcajiekŋa	 <l pos="N">lákcajiekŋa</l>
-čikŋa:čiŋŋâ	čikŋa	 <l pos="N">čikŋa</l>
-jokŋa:juŋŋâ	jokŋa	 <l pos="N">jokŋa</l>
-šuokŋa:nuottâ	šuokŋa	 <l pos="N">šuokŋa</l>
 oránša:ooraans	oránša	 <l pos="A">oránša</l>
-guovža:kuobžâ	guovža	 <l pos="N">guovža</l>
 gaskkohagaid:koskâttuvâi	gaskkohagaid	 <l pos="Adv">gaskkohagaid</l>
 gaskkohagaid:koskâttuvâi	gaskkohagaid	 <l pos="Adv">gaskkohagaid</l>
 nago..._de:väri	nago..._de	
@@ -521,17 +85,14 @@ olggobealde:ulguubeln	olggobealde	 <l pos="Adv">olggobealde</l>
 bajábealde:paajaabeln	bajábealde	 <l pos="Po">bajábealde</l>
 leat_miela_mielde:mielâstuttiđ	leat_miela_mielde	
 vuolde:vyeleeld	vuolde	 <l pos="Po">vuolde</l>
-gáffe:kähvi	gáffe	 <l pos="N">gáffe</l>
 ollege:ollágin	ollege	 <l pos="Adv">ollege</l>
 ollege:ollágin	ollege	 <l pos="Adv">ollege</l>
 ollege:ollágin	ollege	 <l pos="Adv">ollege</l>
-seargge:siergi	seargge	 <l pos="N">seargge</l>
 giige:kihheen	giige	 <l pos="Pron" type="Indef">giige</l>
 dálge:tääl-uv	dálge	 <l pos="Adv">dálge</l>
 goasge:ain	goasge	
 dieđusge:tiäđust-uv	dieđusge	 <l pos="Adv">dieđusge</l>
 goabbáge:kuábbáš-uv	goabbáge	 <l pos="Pron" type="Indef">goabbáge</l>
-heŋge:kuárvi	heŋge	 <l pos="N">heŋge</l>
 nie:tienuuvt	nie	 <l pos="Adv">nie</l>
 nie:tienuuvt	nie	 <l pos="Adv">nie</l>
 juoga_saje:kostnii	juoga_saje	
@@ -539,8 +100,6 @@ sihke:sehe	sihke	 <l pos="Adv">sihke</l>
 sihke:sehe	sihke	 <l pos="Adv">sihke</l>
 ale:ele	ale	 <l pos="V">ale</l>
 váile:vááijuv	váile	 <l pos="Adv">váile</l>
-vivvabealle:vivvâ	vivvabealle	 <l pos="N">vivvabealle</l>
-eadnebealle:ennipeeli	eadnebealle	 <l pos="N">eadnebealle</l>
 galle:kalle	galle	 <l pos="Adv">galle</l>
 oalle:melgâd	oalle	 <l pos="Adv">oalle</l>
 skolle:skool	skolle	 <l pos="Interj">skolle</l>
@@ -576,143 +135,29 @@ dorvvuheapme:torvottem	dorvvuheapme	 <l pos="A">dorvvuheapme</l>
 dorvvuheapme:šlunde	dorvvuheapme	 <l pos="A">dorvvuheapme</l>
 mánáheapme:pärnittem	mánáheapme	 <l pos="A">mánáheapme</l>
 odne:onne	odne	 <l pos="Adv">odne</l>
-benne:penni	benne	 <l pos="N">benne</l>
-gumpe:kumppi	gumpe	 <l pos="N">gumpe</l>
-sirpe:sirppi	sirpe	 <l pos="N">sirpe</l>
-mearkabiire:vittápirrâdâh	mearkabiire	 <l pos="N">mearkabiire</l>
-skire:lädikuávská	skire	 <l pos="N">skire</l>
-evre:evri	evre	 <l pos="N">evre</l>
-háse:haasi	háse	 <l pos="N">háse</l>
-láse:laasâ	láse	 <l pos="N">láse</l>
-láse:laasâ	láse	 <l pos="N">láse</l>
 nu_ahte:mottoomnáál	nu_ahte	
 dihte:keežild	dihte	 <l pos="Po">dihte</l>
-guite:kuittâ	guite	 <l pos="N">guite</l>
 ikte:jieht	ikte	 <l pos="Adv">ikte</l>
 bokte:peht	bokte	 <l pos="Adv">bokte</l>
-sente:sentti	sente	 <l pos="N">sente</l>
-gonte:konttâ	gonte	 <l pos="N">gonte</l>
-dorte:tortti	dorte	 <l pos="N">dorte</l>
-baste:pastem	baste	 <l pos="N">baste</l>
-čoarvebaste:čuárvipastem	čoarvebaste	 <l pos="N">čoarvebaste</l>
 siste:siste	siste	 <l pos="Adv">siste</l>
 siste:siste	siste	 <l pos="Adv">siste</l>
-báiste:paistpánnu	báiste	 <l pos="N">báiste</l>
 datte:nuuvttii	datte	 <l pos="A">datte</l>
-dorve:torvi	dorve	 <l pos="N">dorve</l>
 hárve:harvii	hárve	 <l pos="Adv">hárve</l>
 beallai:pel	beallai	 <l pos="Po">beallai</l>
 vuollai:vyelnivuotâ	vuollai	 <l pos="Po">vuollai</l>
-soabbi:čuoigâmsuábbi	soabbi	 <l pos="N">soabbi</l>
-ruobbi:ryebbi	ruobbi	 <l pos="N">ruobbi</l>
-leaibi:leibi	leaibi	 <l pos="N">leaibi</l>
-seaibi:seibi	seaibi	 <l pos="N">seaibi</l>
-niibi:nijbe	niibi	 <l pos="N">niibi</l>
-ráhkaniibi:rahânijbe	ráhkaniibi	 <l pos="N">ráhkaniibi</l>
-láibi:leibi	láibi	 <l pos="N">láibi</l>
-vuodjaláibi:vuojâleibi	vuodjaláibi	 <l pos="N">vuodjaláibi</l>
-bealbi:čäcinjuolâs	bealbi	 <l pos="N">bealbi</l>
-holbi:olbe	holbi	 <l pos="N">holbi</l>
 hálbi:hälbi	hálbi	 <l pos="A">hálbi</l>
-vuorbi:vyerbi	vuorbi	 <l pos="N">vuorbi</l>
-árbi:ärbi	árbi	 <l pos="N">árbi</l>
-meahcci:meccikuávlu	meahcci	 <l pos="N">meahcci</l>
-luonddumeahcci:luándumecci	luonddumeahcci	 <l pos="N">luonddumeahcci</l>
-goahcci:kuáccee	goahcci	 <l pos="N">goahcci</l>
-galbarihcci:kolbâcuábui	galbarihcci	 <l pos="N">galbarihcci</l>
 buohcci:pyeccee	buohcci	 <l pos="A" type="NomAg">buohcci</l>
 addi:adelâš	addi	 <l pos="A">addi</l>
-haddi:hadde	haddi	 <l pos="N">haddi</l>
-bargoaddi:pargoadeleijee	bargoaddi	 <l pos="N" type="NomAg">bargoaddi</l>
-gieddi:kieddi	gieddi	 <l pos="N">gieddi</l>
-goddi:kodde	goddi	 <l pos="N" type="NomAg">goddi</l>
-bismagoddi:pispekodde	bismagoddi	 <l pos="N">bismagoddi</l>
-báhppagoddi:pappâkodde	báhppagoddi	 <l pos="N">báhppagoddi</l>
-sáttagoddi:váldustivrâ	sáttagoddi	 <l pos="N">sáttagoddi</l>
-lávdegoddi:lävdikodde	lávdegoddi	 <l pos="N">lávdegoddi</l>
-giellalávdegoddi:kielâlävdikodde	giellalávdegoddi	 <l pos="N">giellalávdegoddi</l>
-báikegoddi:päikkikodde	báikegoddi	 <l pos="N">báikegoddi</l>
-searvegoddi:servikodde	searvegoddi	 <l pos="N">searvegoddi</l>
 eanangoddi:eennâmkodde	eanangoddi	
 beaivvášgoddi:piäiváškodde	beaivvášgoddi	
-loddi:lodde	loddi	 <l pos="N">loddi</l>
-idjaloddi:ijjâlodde	idjaloddi	 <l pos="N">idjaloddi</l>
-čáhceloddi:viettuu	čáhceloddi	 <l pos="N">čáhceloddi</l>
-beaiveloddi:piäivááloddááš	beaiveloddi	 <l pos="N">beaiveloddi</l>
-bárbmoloddi:kesilodde	bárbmoloddi	 <l pos="N">bárbmoloddi</l>
-soddi:puzzânjuolâ	soddi	 <l pos="N">soddi</l>
-guoddi:kyeddee	guoddi	 <l pos="N" type="NomAg">guoddi</l>
-suddi:sudde	suddi	 <l pos="N">suddi</l>
-báddi:päddi	báddi	 <l pos="N">báddi</l>
-gáddi:riddo	gáddi	 <l pos="N">gáddi</l>
-gáddi:riddo	gáddi	 <l pos="N">gáddi</l>
-mearragáddi:merâriddo	mearragáddi	 <l pos="N">mearragáddi</l>
-ráddi:räddi	ráddi	 <l pos="N">ráddi</l>
-noaidi:nuáidi	noaidi	 <l pos="N">noaidi</l>
-noaidi:nuáidi	noaidi	 <l pos="N">noaidi</l>
-sieidi:sieidi	sieidi	 <l pos="N">sieidi</l>
-maŋŋebuoidi:pottâčuáli	maŋŋebuoidi	 <l pos="N">maŋŋebuoidi</l>
-áidi:äiđi	áidi	 <l pos="N">áidi</l>
-báidi:päiđi	báidi	 <l pos="N">báidi</l>
-ullobáidi:tikkur	ullobáidi	 <l pos="N">ullobáidi</l>
-sisbáidi:siskelpäiđi	sisbáidi	 <l pos="N">sisbáidi</l>
-sáidi:säiđi	sáidi	 <l pos="N">sáidi</l>
-šaldi:šalde	šaldi	 <l pos="N">šaldi</l>
-veahkaváldi:viehâväldi	veahkaváldi	 <l pos="N">veahkaváldi</l>
-eiseváldi:esiväldi	eiseváldi	 <l pos="N">eiseváldi</l>
-eiseváldi:virgeomâhâš	eiseváldi	 <l pos="N">eiseváldi</l>
-ealageardi:kevâttâs	ealageardi	 <l pos="N">ealageardi</l>
 áibmogeardi:áimukerdi	áibmogeardi	
-girdi:kirdee	girdi	 <l pos="N" type="NomAg">girdi</l>
-girdi:kirdemmaašin	girdi	 <l pos="N" type="NomAg">girdi</l>
-ordi:šorde	ordi	 <l pos="N">ordi</l>
-gárdi:kärdi	gárdi	 <l pos="N">gárdi</l>
 šaddogárdi:muorâkärdi	šaddogárdi	
-beavdi:pevdi	beavdi	 <l pos="N">beavdi</l>
-njeavdi:saavzâsino	njeavdi	 <l pos="N">njeavdi</l>
-bivdi:miäcásteijee	bivdi	 <l pos="N" type="NomAg">bivdi</l>
-bivdi:pivdee	bivdi	 <l pos="N" type="NomAg">bivdi</l>
-áššedovdi:äššitobdee	áššedovdi	 <l pos="N" type="NomAg">áššedovdi</l>
-guovdi:piätukyevdi	guovdi	 <l pos="N">guovdi</l>
-ruovdi:ryevdi	ruovdi	 <l pos="N">ruovdi</l>
-suovdi:syevđi	suovdi	 <l pos="N">suovdi</l>
-vuovdi:vyebdee	vuovdi	 <l pos="N" type="NomAg">vuovdi</l>
-goahccevuovdi:kuácceevyevdi	goahccevuovdi	 <l pos="N">goahccevuovdi</l>
-arvevuovdi:arvemecci	arvevuovdi	 <l pos="N">arvevuovdi</l>
-čuvdi:čuijooh	čuvdi	 <l pos="N">čuvdi</l>
-dávdi:täbđi	dávdi	 <l pos="N">dávdi</l>
-hávdi:hävdi	hávdi	 <l pos="N">hávdi</l>
-lávdi:lyevi	lávdi	 <l pos="N">lávdi</l>
-čeabetnávdi:čevenävdi	čeabetnávdi	 <l pos="N">čeabetnávdi</l>
-rávdi:rävdee	rávdi	 <l pos="N">rávdi</l>
 hei:o	hei	 <l pos="Interj">hei</l>
-skuolfi:oppuu	skuolfi	 <l pos="N">skuolfi</l>
-márfi:märfi	márfi	 <l pos="N">márfi</l>
-jeaggi:suánju	jeaggi	 <l pos="N">jeaggi</l>
-diggi:äšši	diggi	 <l pos="N">diggi</l>
-riggi:ruŋgo	riggi	 <l pos="N">riggi</l>
-doggi:togge	doggi	 <l pos="N">doggi</l>
-roggi:vyemi	roggi	 <l pos="N">roggi</l>
-duoggi:tyeggi	duoggi	 <l pos="N">duoggi</l>
-fággi:fäggi	fággi	 <l pos="N">fággi</l>
 dáigi:täigi	dáigi	 <l pos="A">dáigi</l>
 geađgeáigi:keđgiäigi	geađgeáigi	
-jagiáigi:iveäigi	jagiáigi	 <l pos="N">jagiáigi</l>
-ohcanáigi:uuccâmäigi	ohcanáigi	 <l pos="N">ohcanáigi</l>
-barganáigi:pargoäigi	barganáigi	 <l pos="N">barganáigi</l>
-bealgi:jyelgipelgi	bealgi	 <l pos="N">bealgi</l>
-bealgi:pelgi	bealgi	 <l pos="N">bealgi</l>
-vealgi:velgi	vealgi	 <l pos="N">vealgi</l>
 golgi:voohâd	golgi	 <l pos="A">golgi</l>
-juolgi:vuálááš	juolgi	 <l pos="N">juolgi</l>
 čiehččalogi:čiččâmlov	čiehččalogi	 <l pos="Num">čiehččalogi</l>
 gákcilogi:kähcilov	gákcilogi	 <l pos="Num">gákcilogi</l>
-bargi:pargee	bargi	 <l pos="N" type="NomAg">bargi</l>
-kántorbargi:toimâttâhpargee	kántorbargi	 <l pos="N" type="NomAg">kántorbargi</l>
-virgi:virge	virgi	 <l pos="N">virgi</l>
-suorgi:syergi	suorgi	 <l pos="N">suorgi</l>
-bivgi:ohra	bivgi	 <l pos="N">bivgi</l>
-čoađgi:čuáđgi	čoađgi	 <l pos="N">čoađgi</l>
 ruuhi:kárccu	ruuhi	
 ii:ij	ii	 <l pos="V">ii</l>
 tiidii:passaa	tiidii	 <l pos="A">tiidii</l>
@@ -730,331 +175,49 @@ oktii:oohtân	oktii	 <l pos="Adv">oktii</l>
 oktii:oohtân	oktii	 <l pos="Adv">oktii</l>
 suddat_oktii:suddâluđ	suddat_oktii	
 guktii:kuohtii	guktii	 <l pos="Adv">guktii</l>
-soadji:suájá	soadji	 <l pos="N">soadji</l>
-soadji:suájá	soadji	 <l pos="N">soadji</l>
-sadji:saje	sadji	 <l pos="N">sadji</l>
-deaivvadansadji:littosaje	deaivvadansadji	 <l pos="N">deaivvadansadji</l>
-bargosadji:pargosaje	bargosadji	 <l pos="N">bargosadji</l>
-viessosadji:tontti	viessosadji	 <l pos="N">viessosadji</l>
-lágideaddji:uárnejeijee	lágideaddji	 <l pos="N" type="NomAg">lágideaddji</l>
-bilkideaddji:pilkkár	bilkideaddji	 <l pos="N">bilkideaddji</l>
-sárdnideaddji:särnideijee	sárdnideaddji	 <l pos="N">sárdnideaddji</l>
-vánddardeaddji:kolgolâš	vánddardeaddji	 <l pos="N" type="NomAg">vánddardeaddji</l>
-geavaheaddji:kevttee	geavaheaddji	 <l pos="N" type="NomAg">geavaheaddji</l>
-hárjeheaddji:hárjuttâllee	hárjeheaddji	 <l pos="N" type="NomAg">hárjeheaddji</l>
-hárjeheaddji:välmejeijee	hárjeheaddji	 <l pos="N" type="NomAg">hárjeheaddji</l>
-árbejeaddji:ärbejeijee	árbejeaddji	 <l pos="N">árbejeaddji</l>
-čorgejeaddji:čorgejeijee	čorgejeaddji	 <l pos="N">čorgejeaddji</l>
-plánejeaddji:sundáttâllee	plánejeaddji	 <l pos="N" type="NomAg">plánejeaddji</l>
-ráđđejeaddji:haldâšeijee	ráđđejeaddji	 <l pos="N">ráđđejeaddji</l>
-ráđđejeaddji:räđđejeijee	ráđđejeaddji	 <l pos="N">ráđđejeaddji</l>
-máhttájeaddji:máttááttâspärni	máhttájeaddji	 <l pos="N" type="NomAg">máhttájeaddji</l>
-guldaleaddji:kuldâleijee	guldaleaddji	 <l pos="N" type="NomAg">guldaleaddji</l>
-jorgaleaddji:jurgâleijee	jorgaleaddji	 <l pos="N" type="NomAg">jorgaleaddji</l>
-gilvaleaddji:kištottâllee	gilvaleaddji	 <l pos="N" type="NomAg">gilvaleaddji</l>
-bálvaleaddji:palvâleijee	bálvaleaddji	 <l pos="N" type="NomAg">bálvaleaddji</l>
-mátkkošteaddji:mađhâšeijee	mátkkošteaddji	 <l pos="N" type="NomAg">mátkkošteaddji</l>
-vuoddji:vuojâdeijee	vuoddji	 <l pos="N" type="NomAg">vuoddji</l>
-vuoddji:vyeijee	vuoddji	 <l pos="N" type="NomAg">vuoddji</l>
-modji:moje	modji	 <l pos="N">modji</l>
-bádji:páájá	bádji	 <l pos="N">bádji</l>
-áiggeádji:puđâldâs	áiggeádji	 <l pos="N">áiggeádji</l>
-rádji:rääji	rádji	 <l pos="N">rádji</l>
-elrávdnji:šleđgâ	elrávdnji	 <l pos="N">elrávdnji</l>
-girji:kirje	girji	 <l pos="N">girji</l>
-girji:reivâ	girji	 <l pos="N">girji</l>
-beavdegirji:pevdikirje	beavdegirji	 <l pos="N">beavdegirji</l>
-sátnegirji:sänikirje	sátnegirji	 <l pos="N">sátnegirji</l>
-oahppogirji:oppâkirje	oahppogirji	 <l pos="N">oahppogirji</l>
-nákkosgirji:náguskirje	nákkosgirji	 <l pos="N">nákkosgirji</l>
-eatnanmuorji:mansikka	eatnanmuorji	 <l pos="N">eatnanmuorji</l>
-gáranasmuorji:káránâsjuŋŋâ	gáranasmuorji	 <l pos="N">gáranasmuorji</l>
-rievssatmuorji:káránâsmyerji	rievssatmuorji	 <l pos="N">rievssatmuorji</l>
-čoavji:maavâ	čoavji	 <l pos="N">čoavji</l>
-čoavji:čuávji	čoavji	 <l pos="N">čoavji</l>
-ahki:ahe	ahki	 <l pos="N">ahki</l>
-heahki:hágá	heahki	 <l pos="N">heahki</l>
-seahki:huávri	seahki	 <l pos="N">seahki</l>
-seahki:suuvrâs	seahki	 <l pos="N">seahki</l>
-ođđajahki:uđđâihe	ođđajahki	 <l pos="N">ođđajahki</l>
-čuohtejahki:čyeti-ihe	čuohtejahki	 <l pos="N">čuohtejahki</l>
-logijahki:ihelohe	logijahki	 <l pos="N">logijahki</l>
 álgojahki:álguihe	álgojahki	
-eallinahki:eellimäigi	eallinahki	 <l pos="N">eallinahki</l>
-soahki:suáhi	soahki	 <l pos="N">soahki</l>
-roašmevihki:spiitaal	roašmevihki	 <l pos="N">roašmevihki</l>
-láhttenvuohki:vuáválâšvuotâ	láhttenvuohki	 <l pos="N">láhttenvuohki</l>
-eallinvuohki:eellimutke	eallinvuohki	 <l pos="N">eallinvuohki</l>
-čállinvuohki:čäällimvyehi	čállinvuohki	 <l pos="N">čállinvuohki</l>
-bargovuohki:pargovyehi	bargovuohki	 <l pos="N">bargovuohki</l>
-liiki:liške	liiki	 <l pos="N">liiki</l>
-čoahkkebáiki:čuákkipäikki	čoahkkebáiki	 <l pos="N">čoahkkebáiki</l>
 láiki:läški	láiki	 <l pos="A">láiki</l>
-vearrodahkki:rikolâš	vearrodahkki	 <l pos="N" type="NomAg">vearrodahkki</l>
-deahkki:tekki	deahkki	 <l pos="N">deahkki</l>
-heahteveahkki:vuosâiše	heahteveahkki	 <l pos="N">heahteveahkki</l>
-jiehkki:jieŋâdâh	jiehkki	 <l pos="N">jiehkki</l>
-miehkki:miekki	miehkki	 <l pos="N">miehkki</l>
-dihkki:tikke	dihkki	 <l pos="N">dihkki</l>
-dihkki:tikke	dihkki	 <l pos="N">dihkki</l>
-lohkki:lohhee	lohkki	 <l pos="N" type="NomAg">lohkki</l>
-mohkki:mokkemätki	mohkki	 <l pos="N">mohkki</l>
-mohkki:vieski	mohkki	 <l pos="N">mohkki</l>
-juohkki:jyehhee	juohkki	 <l pos="N">juohkki</l>
-báhkki:päkki	báhkki	 <l pos="N">báhkki</l>
-dáhkki:káttu	dáhkki	 <l pos="N">dáhkki</l>
-dáhkki:täkki	dáhkki	 <l pos="N">dáhkki</l>
-almmenáhkki:almenäkki	almmenáhkki	 <l pos="N">almmenáhkki</l>
-geahppamielki:keppâmielkki	geahppamielki	 <l pos="N">geahppamielki</l>
-loahppemielki:pime	loahppemielki	 <l pos="N">loahppemielki</l>
-silki:silkke	silki	 <l pos="N">silki</l>
-dálki:áimu	dálki	 <l pos="N">dálki</l>
 hearki:herkki	hearki	 <l pos="A">hearki</l>
-márki:märkki	márki	 <l pos="N">márki</l>
-geatki:ketki	geatki	 <l pos="N">geatki</l>
-muotki:kuátku	muotki	 <l pos="N">muotki</l>
-dutki:totkee	dutki	 <l pos="N" type="NomAg">dutki</l>
-njavki:snáittu	njavki	 <l pos="N">njavki</l>
-lávki:lävkki	lávki	 <l pos="N">lávki</l>
-lávki:siipuul	lávki	 <l pos="N">lávki</l>
-ruški:ruške	ruški	 <l pos="N">ruški</l>
-gihli:kihle	gihli	 <l pos="N">gihli</l>
-doavhli:čäcivätti	doavhli	 <l pos="N">doavhli</l>
 oassebealli:uásipeeli	oassebealli	
-vuolábealli:vyelipeeli	vuolábealli	 <l pos="N">vuolábealli</l>
-mealli:meeli	mealli	 <l pos="N">mealli</l>
-mealli:pyeidivepsi	mealli	 <l pos="N">mealli</l>
-biebmoealli:jiellâh	biebmoealli	 <l pos="N" type="NomAg">biebmoealli</l>
 luonddusealli:luánduvárásâš	luonddusealli	
-doalli:cuápcil	doalli	 <l pos="N" type="NomAg">doalli</l>
-čoalli:čuáli	čoalli	 <l pos="N">čoalli</l>
-mielli:juhâtermi	mielli	 <l pos="N" type="G3">mielli</l>
-bargodilli:pargotile	bargodilli	 <l pos="N">bargodilli</l>
-náittosdilli:näimilitto	náittosdilli	 <l pos="N">náittosdilli</l>
-gilli:sijdâ	gilli	 <l pos="N">gilli</l>
 silli:sillee	silli	 <l pos="A">silli</l>
-golli:kolle	golli	 <l pos="N" type="G3">golli</l>
-mearraguolli:merâkyeli	mearraguolli	 <l pos="N">mearraguolli</l>
-vuoncáfálli:jierssee	vuoncáfálli	 <l pos="N">vuoncáfálli</l>
-hálli:sárnoo	hálli	 <l pos="N">hálli</l>
-málli:määli	málli	 <l pos="N">málli</l>
-válli:vyernis	válli	 <l pos="N">válli</l>
-čálli:čällee	čálli	 <l pos="N" type="NomAg">čálli</l>
-čálli:čällee	čálli	 <l pos="N" type="NomAg">čálli</l>
 suoli:syele	suoli	 <l pos="Adv">suoli</l>
 vuoli:vyele	vuoli	
-stivli:stivlee	stivli	 <l pos="N">stivli</l>
-skávli:päiski	skávli	 <l pos="N">skávli</l>
-lávli:nyevvi	lávli	 <l pos="N">lávli</l>
 doaibmi:aktijvâlâš	doaibmi	 <l pos="A">doaibmi</l>
-guoibmi:ávuskyeimi	guoibmi	 <l pos="N">guoibmi</l>
 áigeguoibmi:áigálâš	áigeguoibmi	
-áibmi:šordeäimi	áibmi	 <l pos="N">áibmi</l>
-gáibmi:käimi	gáibmi	 <l pos="N">gáibmi</l>
-albmi:alme	albmi	 <l pos="N">albmi</l>
-healbmi:helmi	healbmi	 <l pos="N">healbmi</l>
-čalbmi:jivečalme	čalbmi	 <l pos="N">čalbmi</l>
-máilbmi:maailm	máilbmi	 <l pos="N">máilbmi</l>
 julbmi:julme	julbmi	
-submi:summe	submi	 <l pos="N">submi</l>
-ruhtasubmi:ruttâsumme	ruhtasubmi	 <l pos="N">ruhtasubmi</l>
-jábmi:jämmee	jábmi	 <l pos="N" type="NomAg">jábmi</l>
 loimi:čuožâ	loimi	
 turvekammi:lavnjekuáti	turvekammi	
-luomi:lyeme	luomi	 <l pos="N">luomi</l>
-juogadeapmi:jyehim	juogadeapmi	 <l pos="N">juogadeapmi</l>
 ráhkadeapmi:valmâštâs	ráhkadeapmi	
-ruhtadeapmi:ruttâdem	ruhtadeapmi	 <l pos="N">ruhtadeapmi</l>
-buvttadeapmi:puovtâdâs	buvttadeapmi	 <l pos="N">buvttadeapmi</l>
-nuoskkideapmi:nuáskádâs	nuoskkideapmi	 <l pos="N">nuoskkideapmi</l>
-mihtideapmi:mittedem	mihtideapmi	 <l pos="N">mihtideapmi</l>
-gáržžideapmi:raijiittâs	gáržžideapmi	 <l pos="N">gáržžideapmi</l>
-suonjardeapmi:suonjârdem	suonjardeapmi	 <l pos="N">suonjardeapmi</l>
-ávvudeapmi:juhle	ávvudeapmi	 <l pos="N">ávvudeapmi</l>
-riegádeapmi:šoddâm	riegádeapmi	 <l pos="N">riegádeapmi</l>
 vihaheapmi:vihkâm	vihaheapmi	 <l pos="A">vihaheapmi</l>
 láhkaásaheapmi:lahâasâttem	láhkaásaheapmi	
-geavaheapmi:anamâš	geavaheapmi	 <l pos="N">geavaheapmi</l>
-čađaheapmi:čođâldâs	čađaheapmi	 <l pos="N">čađaheapmi</l>
 dáistaleapmi:tuáru	dáistaleapmi	
-geahččaleapmi:iskos	geahččaleapmi	 <l pos="N">geahččaleapmi</l>
-geahččaleapmi:keččâlem	geahččaleapmi	 <l pos="N">geahččaleapmi</l>
-bajásčuožžileapmi:pajaspajanem	bajásčuožžileapmi	 <l pos="N">bajásčuožžileapmi</l>
 loktaneapmi:čimmâ	loktaneapmi	
-báhtareapmi:patârem	báhtareapmi	 <l pos="N">báhtareapmi</l>
-caggaseapmi:iästu	caggaseapmi	 <l pos="N">caggaseapmi</l>
-jienasteapmi:jienâstâs	jienasteapmi	 <l pos="N">jienasteapmi</l>
-álbmotjienasteapmi:aalmugjienâstem	álbmotjienasteapmi	 <l pos="N">álbmotjienasteapmi</l>
-buhtisteapmi:putástâs	buhtisteapmi	 <l pos="N">buhtisteapmi</l>
 hilbošeapmi:pile	hilbošeapmi	
-guopmi:kyemi	guopmi	 <l pos="N">guopmi</l>
-oidojupmi:mielâstumvuotâ	oidojupmi	 <l pos="N">oidojupmi</l>
-ovttastupmi:siärvádâh	ovttastupmi	 <l pos="N">ovttastupmi</l>
 menestupmi:miänástus	menestupmi	
-bálkkašupmi:pálhášume	bálkkašupmi	 <l pos="N">bálkkašupmi</l>
-beahttašupmi:pettâšume	beahttašupmi	 <l pos="N">beahttašupmi</l>
-fuomášupmi:huámmášume	fuomášupmi	 <l pos="N">fuomášupmi</l>
-hápmi:häämi	hápmi	 <l pos="N">hápmi</l>
-hápmi:orroom	hápmi	 <l pos="N">hápmi</l>
-sápmi:sämieennâm	sápmi	 <l pos="N">sápmi</l>
-sápmi:sämmilâš	sápmi	 <l pos="N">sápmi</l>
-sápmi:säämi	sápmi	 <l pos="N">sápmi</l>
-davvisápmi:orjâlâš	davvisápmi	 <l pos="N">davvisápmi</l>
-badni:pannee	badni	 <l pos="N">badni</l>
-sealgeeadni:selgienni	sealgeeadni	 <l pos="N">sealgeeadni</l>
-risteadni:ristenni	risteadni	 <l pos="N">risteadni</l>
 vadni:vannee	vadni	 <l pos="A">vadni</l>
 čadni:čannee	čadni	 <l pos="A">čadni</l>
-idni:tavekaasirääsi	idni	 <l pos="N">idni</l>
-seaidni:seini	seaidni	 <l pos="N">seaidni</l>
-veaidni:váddu	veaidni	 <l pos="N">veaidni</l>
-oaidni:vahtâ	oaidni	 <l pos="N">oaidni</l>
-beavdeliidni:pevdilijne	beavdeliidni	 <l pos="N">beavdeliidni</l>
-spiidni:šahe	spiidni	 <l pos="N">spiidni</l>
-viidni:viini	viidni	 <l pos="N">viidni</l>
-viidni:vijne	viidni	 <l pos="N">viidni</l>
-njoammelsuoidni:njuámmilhuášši	njoammelsuoidni	 <l pos="N">njoammelsuoidni</l>
-bohccosuoidni:jävrihuášši	bohccosuoidni	 <l pos="N">bohccosuoidni</l>
-suoldni:omo	suoldni	 <l pos="N">suoldni</l>
-bodni:vyelikerdi	bodni	 <l pos="N">bodni</l>
-bierdni:pierni	bierdni	 <l pos="N">bierdni</l>
-gordni:valje	gordni	 <l pos="N">gordni</l>
-gonagasbárdni:prinssâ	gonagasbárdni	 <l pos="N">gonagasbárdni</l>
-sárdni:särni	sárdni	 <l pos="N">sárdni</l>
-gudni:kunnee	gudni	 <l pos="N">gudni</l>
-heavdni:evni	heavdni	 <l pos="N">heavdni</l>
-sávdni:sävni	sávdni	 <l pos="N">sávdni</l>
-manni:mannee	manni	 <l pos="N">manni</l>
-manni:mannee	manni	 <l pos="N">manni</l>
-ovddasmanni:oovdâstmannee	ovddasmanni	 <l pos="N" type="NomAg">ovddasmanni</l>
-monni:mane	monni	 <l pos="N">monni</l>
-njunni:turbe	njunni	 <l pos="N">njunni</l>
-fylkkamánni:eennâmhiärrá	fylkkamánni	 <l pos="N">fylkkamánni</l>
-leansmánni:komserjâs	leansmánni	 <l pos="N">leansmánni</l>
-datni:tane	datni	 <l pos="N">datni</l>
-gálojeatni:káluenni	gálojeatni	 <l pos="N">gálojeatni</l>
-gálojeatni:káluenni	gálojeatni	 <l pos="N">gálojeatni</l>
-gálojeatni:káluenni	gálojeatni	 <l pos="N">gálojeatni</l>
-áhčešeatni:njiviččenkálgu	áhčešeatni	 <l pos="N">áhčešeatni</l>
-spatni:spane	spatni	 <l pos="N">spatni</l>
-bátni:pääni	bátni	 <l pos="N">bátni</l>
-máttabátni:madâpääni	máttabátni	 <l pos="N">máttabátni</l>
-árvosátni:árvusääni	árvosátni	 <l pos="N">árvosátni</l>
 hoi:ai	hoi	 <l pos="Interj">hoi</l>
-mánoheahpi:mánuttep	mánoheahpi	 <l pos="N">mánoheahpi</l>
-lohpi:lope	lohpi	 <l pos="N">lohpi</l>
-huksenlohpi:huksimlope	huksenlohpi	 <l pos="N">huksenlohpi</l>
-vuodjinlohpi:vyeijimlope	vuodjinlohpi	 <l pos="N">vuodjinlohpi</l>
-suhpi:supe	suhpi	 <l pos="N">suhpi</l>
 sáttoáhpi:ääpi	sáttoáhpi	
-leahppi:uuvsâh	leahppi	 <l pos="N">leahppi</l>
 čeahppi:ápálâš	čeahppi	 <l pos="A">čeahppi</l>
-gollečeahppi:kollečeppi	gollečeahppi	 <l pos="N">gollečeahppi</l>
-oahppi:uáppee	oahppi	 <l pos="N" type="NomAg">oahppi</l>
-oahppi:uáppee	oahppi	 <l pos="N" type="NomAg">oahppi</l>
-diehppi:tieppi	diehppi	 <l pos="N">diehppi</l>
-diehppi:tieppi	diehppi	 <l pos="N">diehppi</l>
-vuoktačuohppi:vuoptâčeppi	vuoktačuohppi	 <l pos="N" type="NomAg">vuoktačuohppi</l>
-gávpi:kavpâšem	gávpi	 <l pos="N">gávpi</l>
-girjegávpi:kirjekävppi	girjegávpi	 <l pos="N">girjegávpi</l>
-borramušgávpi:pivtâskävppi	borramušgávpi	 <l pos="N">borramušgávpi</l>
-rušpi:porkkan	rušpi	 <l pos="N">rušpi</l>
-earri:uási	earri	 <l pos="N">earri</l>
-mearri:tuárvi	mearri	 <l pos="N">mearri</l>
-oarri:uárree	oarri	 <l pos="N" type="G3">oarri</l>
-skierri:skierri	skierri	 <l pos="N">skierri</l>
-sieđgaskierri:sämisieđgâ	sieđgaskierri	 <l pos="N">sieđgaskierri</l>
-hirri:valdâttâh	hirri	 <l pos="N">hirri</l>
-hurri:hurečuhčá	hurri	 <l pos="N">hurri</l>
-lávgungárri:lávguääldis	lávgungárri	 <l pos="N">lávgungárri</l>
-lávgungárri:ääldis	lávgungárri	 <l pos="N">lávgungárri</l>
-sárri:saarâs	sárri	 <l pos="N">sárri</l>
-divri:tivre	divri	 <l pos="N">divri</l>
-divri:tivre	divri	 <l pos="N">divri</l>
-skáđadivri:pille-ellee	skáđadivri	 <l pos="N">skáđadivri</l>
-buvri:luggo	buvri	 <l pos="N">buvri</l>
-suvri:suvrâ	suvri	 <l pos="N">suvri</l>
-jávri:jävri	jávri	 <l pos="N">jávri</l>
-veaksi:vepsi	veaksi	 <l pos="N">veaksi</l>
-ákkilveaksi:ovdâvepsi	ákkilveaksi	 <l pos="N">ákkilveaksi</l>
-oaksi:uáksi	oaksi	 <l pos="N">oaksi</l>
-guksi:kukse	guksi	 <l pos="N">guksi</l>
-táksi:taksi	táksi	 <l pos="N">táksi</l>
-gussagoalsi:kuussâgkuálsi	gussagoalsi	 <l pos="N">gussagoalsi</l>
-soalsi:suálsi	soalsi	 <l pos="N">soalsi</l>
-moarsi:myerssee	moarsi	 <l pos="N">moarsi</l>
-beassi:pessi	beassi	 <l pos="N" type="G3">beassi</l>
-giellabeassi:kielâpiervâl	giellabeassi	 <l pos="N">giellabeassi</l>
-geassi:keesi	geassi	 <l pos="N">geassi</l>
-čakčageassi:čohčâkeesi	čakčageassi	 <l pos="N">čakčageassi</l>
-albmeassi:ase	albmeassi	 <l pos="N">albmeassi</l>
-lassi:lasattâs	lassi	 <l pos="N">lassi</l>
-lassi:lase	lassi	 <l pos="N">lassi</l>
-oassi:uási	oassi	 <l pos="N">oassi</l>
-eananoassi:eennâmuási	eananoassi	 <l pos="N">eananoassi</l>
 gávpotoassi:kaavpuguási	gávpotoassi	
-ođđaássi:uđâsässee	ođđaássi	 <l pos="N" type="NomAg">ođđaássi</l>
-dássi:tääsi	dássi	 <l pos="N">dássi</l>
-guohcarássi:ulâštooŋâs	guohcarássi	 <l pos="N">guohcarássi</l>
-gollerássi:kollerääsi	gollerássi	 <l pos="N">gollerássi</l>
-vilgesoairássi:ullorääsi	vilgesoairássi	 <l pos="N">vilgesoairássi</l>
-cubborássi:huášši	cubborássi	 <l pos="N">cubborássi</l>
-ruvdorássi:toŋâsrääsi	ruvdorássi	 <l pos="N">ruvdorássi</l>
-fiskesrássi:nuorttâfiskisrääsi	fiskesrássi	 <l pos="N">fiskesrássi</l>
-neahti:neeti	neahti	 <l pos="N">neahti</l>
-goahti:kuáti	goahti	 <l pos="N">goahti</l>
-soahti:suáti	soahti	 <l pos="N">soahti</l>
-máilmmisoahti:maailmsuáti	máilmmisoahti	 <l pos="N">máilmmisoahti</l>
-vuoiti:vyeittee	vuoiti	 <l pos="N" type="NomAg">vuoiti</l>
-skáiti:äskil	skáiti	 <l pos="N">skáiti</l>
-álbmotriekti:aalmugvuoigâdvuotâ	álbmotriekti	 <l pos="N">álbmotriekti</l>
-jielti:jielttâ	jielti	 <l pos="N">jielti</l>
-sálti:sältti	sálti	 <l pos="N">sálti</l>
-oasti:uástee	oasti	 <l pos="N" type="NomAg">oasti</l>
 pesti:pesti	pesti	
 sisti:šišne	sisti	 <l pos="Adv">sisti</l>
-visti:rakânâs	visti	 <l pos="N">visti</l>
-násti:täsni	násti	 <l pos="N">násti</l>
 áddehahtti:addiittijjee	áddehahtti	 <l pos="A">áddehahtti</l>
 jáhkehahtti:oskottettee	jáhkehahtti	 <l pos="A">jáhkehahtti</l>
 jáhkehahtti:ušom	jáhkehahtti	 <l pos="A">jáhkehahtti</l>
 eahpejáhkehahtti:epioskottettee	eahpejáhkehahtti	
-maŋisboahtti:maajeeldpuáttee	maŋisboahtti	 <l pos="N" type="NomAg">maŋisboahtti</l>
 beroštahtti:kiäsutteijee	beroštahtti	 <l pos="A">beroštahtti</l>
 mearkkašahtti:vuámášittee	mearkkašahtti	 <l pos="A">mearkkašahtti</l>
-diehtti:tiettee	diehtti	 <l pos="N">diehtti</l>
-niehtti:pähkin	niehtti	 <l pos="N">niehtti</l>
-riehtti:nähki	riehtti	 <l pos="N">riehtti</l>
-lihtti:litte	lihtti	 <l pos="N">lihtti</l>
-nuohtti:nyetti	nuohtti	 <l pos="N">nuohtti</l>
-láhtti:lättee	láhtti	 <l pos="N">láhtti</l>
 valtti:velttâ	valtti	
 uddui:udduu	uddui	 <l pos="A">uddui</l>
 háldui:haaldun	háldui	
 gohččui:kieppii	gohččui	 <l pos="A">gohččui</l>
-beaivi:peivi	beaivi	 <l pos="N">beaivi</l>
-friddjabeaivi:rijjâpeivi	friddjabeaivi	 <l pos="N">friddjabeaivi</l>
-sotnabeaivi:pasepeivi	sotnabeaivi	 <l pos="N">sotnabeaivi</l>
-ođđabeaivi:uđđâvuođpeivi	ođđabeaivi	 <l pos="N">ođđabeaivi</l>
-bárdebeaivi:pärdipeivi	bárdebeaivi	 <l pos="N">bárdebeaivi</l>
-moivi:moive	moivi	 <l pos="N">moivi</l>
 váivi:váiváá	váivi	 <l pos="A">váivi</l>
-álvi:áhju	álvi	 <l pos="N">álvi</l>
-giđđadálvi:kiđđâtälvi	giđđadálvi	 <l pos="N">giđđadálvi</l>
-searvi:servi	searvi	 <l pos="N">searvi</l>
-searvi:servi	searvi	 <l pos="N">searvi</l>
-sierrasearvi:lahko	sierrasearvi	 <l pos="N">sierrasearvi</l>
 fitnodatsearvi:seervâs	fitnodatsearvi	
 šiervi:šiervi	šiervi	 <l pos="A">šiervi</l>
-davvi:tave	davvi	 <l pos="N">davvi</l>
 agibeaivvi:avepajalâš	agibeaivvi	
-skovvi:luámáttâh	skovvi	 <l pos="N">skovvi</l>
-suovvi:syeinilyevi	suovvi	 <l pos="N">suovvi</l>
 ođasmuvvi:uđâsmuvvee	ođasmuvvi	 <l pos="A">ođasmuvvi</l>
-hávvi:hävvi	hávvi	 <l pos="N">hávvi</l>
-bázzi:pääcis	bázzi	 <l pos="N">bázzi</l>
-vázzi:väzzee	vázzi	 <l pos="N" type="NomAg">vázzi</l>
-návetvázzi:luámutteijee	návetvázzi	 <l pos="N" type="NomAg">návetvázzi</l>
 ruobbái:ruábbáá	ruobbái	 <l pos="A">ruobbái</l>
 oahccái:uáccáá	oahccái	 <l pos="A">oahccái</l>
 čáhccái:čäcijeggi	čáhccái	 <l pos="A">čáhccái</l>
@@ -1072,10 +235,8 @@ hutkái:utkáá	hutkái	 <l pos="A">hutkái</l>
 spállái:rossii	spállái	 <l pos="A">spállái</l>
 čeavlái:ollâmielâg	čeavlái	 <l pos="A">čeavlái</l>
 njivlái:njivláá	njivlái	 <l pos="A">njivlái</l>
-lávdealmmái:lävdialmai	lávdealmmái	 <l pos="N">lávdealmmái</l>
 dieđaolmmái:tiettee	dieđaolmmái	
 riikkabeaiveolmmái:aalmugovdâsteijee	riikkabeaiveolmmái	
-ráđđeolmmái:kundáhovdâ	ráđđeolmmái	 <l pos="N">ráđđeolmmái</l>
 soagŋoolmmái:kuáščuárvi	soagŋoolmmái	
 soagŋoolmmái:kuáščuárvi	soagŋoolmmái	
 suoldnái:suálnum	suoldnái	 <l pos="A">suoldnái</l>
@@ -1087,186 +248,60 @@ ruhttái:ruttii	ruhttái	 <l pos="A">ruhttái</l>
 hearvái:hiärváá	hearvái	 <l pos="A">hearvái</l>
 hearvái:hiärváá	hearvái	 <l pos="A">hearvái</l>
 čižžái:raddaa	čižžái	 <l pos="A">čižžái</l>
-geahči:njune	geahči	 <l pos="N">geahči</l>
 vuostegeahči:vyestikeeči	vuostegeahči	
 álgogeahči:algâpeeli	álgogeahči	
-bahčči:paččee	bahčči	 <l pos="N">bahčči</l>
-geahčči:keččee	geahčči	 <l pos="N" type="NomAg">geahčči</l>
-gáhčči:kässi	gáhčči	 <l pos="N">gáhčči</l>
-ristáhčči:risteeči	ristáhčči	 <l pos="N">ristáhčči</l>
 duođi:tuogu	duođi	 <l pos="Adv">duođi</l>
-mođđi:mote	mođđi	 <l pos="N">mođđi</l>
-bláđđi:okkolostâ	bláđđi	 <l pos="N">bláđđi</l>
-ráđđi:rääđi	ráđđi	 <l pos="N">ráđđi</l>
-stáhtaráđđi:minister	stáhtaráđđi	 <l pos="N">stáhtaráđđi</l>
-stáhtaráđđi:staatârääđi	stáhtaráđđi	 <l pos="N">stáhtaráđđi</l>
-girkoráđđi:kirkkorääđi	girkoráđđi	 <l pos="N">girkoráđđi</l>
-dušši:tušše	dušši	 <l pos="N">dušši</l>
-ášši:ässee	ášši	 <l pos="N">ášši</l>
-lávži:läbži	lávži	 <l pos="N">lávži</l>
-biibbal:ráámmát	biibbal	 <l pos="N" vmax="2">biibbal</l>
 veagal:viehârâš	veagal	 <l pos="Adv">veagal</l>
 julggal:julgâlávt	julggal	 <l pos="Adv">julggal</l>
-riŋggal:riiŋgâl	riŋggal	 <l pos="N">riŋggal</l>
-speajal:speeijâl	speajal	 <l pos="N">speajal</l>
-ganjal:koonjâl	ganjal	 <l pos="N">ganjal</l>
-vuonjal:vuonjâl	vuonjal	 <l pos="N">vuonjal</l>
-artihkal:artikkâl	artihkal	 <l pos="N">artihkal</l>
-firkkal:ovdâlijne	firkkal	 <l pos="N">firkkal</l>
-suohpal:luvdá	suohpal	 <l pos="N">suohpal</l>
-sáhpal:säpligviermirääsi	sáhpal	 <l pos="N">sáhpal</l>
-steampal:stemppâl	steampal	 <l pos="N">steampal</l>
-luoppal:luobâl	luoppal	 <l pos="N">luoppal</l>
-ruppal:ruble	ruppal	 <l pos="N">ruppal</l>
-apostal:apostol	apostal	 <l pos="N">apostal</l>
-ginttal:kiintâl	ginttal	 <l pos="N">ginttal</l>
-snárttal:snaartâl	snárttal	 <l pos="N">snárttal</l>
-távval:tavlu	távval	 <l pos="N">távval</l>
-fuolkevuođatávval:suhâmuorâ	fuolkevuođatávval	 <l pos="N">fuolkevuođatávval</l>
-stávval:staavvâl	stávval	 <l pos="N">stávval</l>
-variábel:muttojeijee	variábel	 <l pos="N">variábel</l>
-sábel:saapeel	sábel	 <l pos="N">sábel</l>
 meaddel:lappâd	meaddel	 <l pos="Po">meaddel</l>
-eŋgel:eŋgâl	eŋgel	 <l pos="N">eŋgel</l>
-sihkkel:jorree	sihkkel	 <l pos="N">sihkkel</l>
-tempel:temppâl	tempel	 <l pos="N">tempel</l>
-eappel:oomeen	eappel	 <l pos="N">eappel</l>
-bárel:paarrâl	bárel	 <l pos="N">bárel</l>
-stevvel:steevvil	stevvel	 <l pos="N">stevvel</l>
-seđel:seeddâl	seđel	 <l pos="N">seđel</l>
-sándil:sendil	sándil	 <l pos="N">sándil</l>
 rievdil:muttojeijee	rievdil	
 áigeguovdil:äigikyevdil	áigeguovdil	 <l pos="A">áigeguovdil</l>
 staigil:sijvuu	staigil	 <l pos="A">staigil</l>
 bajil:pajalist	bajil	 <l pos="Adv">bajil</l>
-gardnjil:kaaiŋâr	gardnjil	 <l pos="N">gardnjil</l>
 oavnnjil:uávŋild	oavnnjil	 <l pos="Adv">oavnnjil</l>
 veahkil:vievâst	veahkil	 <l pos="A">veahkil</l>
 dárkil:tärkki	dárkil	 <l pos="A">dárkil</l>
-háskil:merâäskil	háskil	 <l pos="N">háskil</l>
-mearraháskil:kubdâpođâšäskil	mearraháskil	 <l pos="N">mearraháskil</l>
 váibmil:väimil	váibmil	 <l pos="A">váibmil</l>
-ulbmil:ulme	ulbmil	 <l pos="N">ulbmil</l>
-njoammil:njuámmil	njoammil	 <l pos="N">njoammil</l>
-ipmil:immeel	ipmil	 <l pos="N">ipmil</l>
 oahppil:mátulâš	oahppil	 <l pos="A">oahppil</l>
 hirril:hárráht	hirril	 <l pos="Adv">hirril</l>
 báitil:čuovvâl	báitil	 <l pos="A">báitil</l>
 beaktil:tolmiš	beaktil	 <l pos="A">beaktil</l>
 duostil:tyestil	duostil	 <l pos="A">duostil</l>
 šiehttil:uces	šiehttil	 <l pos="A">šiehttil</l>
-ruoivil:ryeivil	ruoivil	 <l pos="N">ruoivil</l>
 gávvil:skelmâ	gávvil	 <l pos="A">gávvil</l>
-fidjol:vivlu	fidjol	 <l pos="N">fidjol</l>
-suhkkol:sukkul	suhkkol	 <l pos="N">suhkkol</l>
 bissul:stääđis	bissul	 <l pos="x">bissul</l>
 vuođul:vuáđuld	vuođul	 <l pos="Po">vuođul</l>
 dál:tääl	dál	 <l pos="Adv">dál</l>
-rieban:riemnjis	rieban	 <l pos="N">rieban</l>
-máhccan:maccâm	máhccan	 <l pos="N">máhccan</l>
-áican:huámmášume	áican	 <l pos="N">áican</l>
-cagan:merâkuávská	cagan	 <l pos="N">cagan</l>
-árggan:ärgisiištâ	árggan	 <l pos="N">árggan</l>
-čuoigan:čuoigâm	čuoigan	 <l pos="N">čuoigan</l>
-čuoigan:čuoigâmkišto	čuoigan	 <l pos="N">čuoigan</l>
 juogalágan:monniilágán	juogalágan	
 fiskeslágan:fiskislágán	fiskeslágan	 <l pos="A">fiskeslágan</l>
 dahkan:čuvđiimâš	dahkan	
-suohkan:pitejâš	suohkan	 <l pos="N">suohkan</l>
-fáhkan:miekkiväälis	fáhkan	 <l pos="N">fáhkan</l>
-giikan:kiijkár	giikan	 <l pos="N">giikan</l>
-gievkkan:kievkkân	gievkkan	 <l pos="N">gievkkan</l>
-márkan:markkân	márkan	 <l pos="N">márkan</l>
 gaskan:pelivaalmâš	gaskan	 <l pos="Adv">gaskan</l>
 njáskan:raađhâ	njáskan	
-dutkan:tođhos	dutkan	 <l pos="N">dutkan</l>
-dutkan:tutkâm	dutkan	 <l pos="N">dutkan</l>
-dutkan:tutkâmuš	dutkan	 <l pos="N">dutkan</l>
-dutkan:tuđhos	dutkan	 <l pos="N">dutkan</l>
-bagadallan:stivrim	bagadallan	 <l pos="N">bagadallan</l>
-doarrádallan:váinu	doarrádallan	 <l pos="N">doarrádallan</l>
 nuonddahallan:šlundevuotâ	nuonddahallan	
-jearahallan:sahhiittâllâm	jearahallan	 <l pos="N">jearahallan</l>
-guorahallan:čielgiittâs	guorahallan	 <l pos="N">guorahallan</l>
 bázahallan:ovdánemvádulâš	bázahallan	
-lášmmohallan:lihâdem	lášmmohallan	 <l pos="N">lášmmohallan</l>
-árvvoštallan:árvuštâllâm	árvvoštallan	 <l pos="N">árvvoštallan</l>
-valáštallan:valastâllâm	valáštallan	 <l pos="N">valáštallan</l>
-beatnatgullan:penâkkullâm	beatnatgullan	 <l pos="N">beatnatgullan</l>
-állan:älni	állan	 <l pos="N">állan</l>
-siepman:siemâ	siepman	 <l pos="N">siepman</l>
-suopman:kuávlukielâ	suopman	 <l pos="N">suopman</l>
 mannan:tijmá	mannan	 <l pos="A">mannan</l>
-albmáimannan:aalmanlavkkim	albmáimannan	 <l pos="N">albmáimannan</l>
-čuonan:čuođâlm	čuonan	 <l pos="N">čuonan</l>
-suohpan:suoppâin	suohpan	 <l pos="N">suohpan</l>
 oahppan:hárjánâm	oahppan	 <l pos="A">oahppan</l>
-boaran:vuorâs	boaran	 <l pos="N">boaran</l>
-čieran:muotâlyevdi	čieran	 <l pos="N">čieran</l>
-bosan:piegguutteijee	bosan	 <l pos="N">bosan</l>
 dearvan:tiervân	dearvan	 <l pos="Adv">dearvan</l>
-duđan:puse	duđan	 <l pos="N">duđan</l>
-bážan:pääččimviärju	bážan	 <l pos="N">bážan</l>
 bomben:pommittus	bomben	
 vâi	vâi	
 pommittem	pommittem	
-válljen:valjim	válljen	 <l pos="N">válljen</l>
 duohken:tyehin	duohken	 <l pos="Adv">duohken</l>
 máhken:viärdásâš	máhken	 <l pos="A">máhken</l>
-guhkkodatnjuiken:kukkodâhnjuškim	guhkkodatnjuiken	 <l pos="N">guhkkodatnjuiken</l>
-allodatnjuiken:alodâhnjuškim	allodatnjuiken	 <l pos="N">allodatnjuiken</l>
-herkken:eerhim	herkken	 <l pos="N">herkken</l>
 taimen:kuávžur	taimen	
 isoraajainen:ruávjáá	isoraajainen	
 epäsäännöllinen:epinjuolgâduslâš	epäsäännöllinen	
 huokoinen:syeđđee	huokoinen	
 paakkuinen:kahhaannallii	paakkuinen	
-investeren:investeerim	investeren	 <l pos="N">investeren</l>
-boksen:čurmâdâttâm	boksen	 <l pos="N">boksen</l>
-heđen:šohânâs	heđen	 <l pos="N">heđen</l>
 olmmošgoddin:morhe	olmmošgoddin	
-vuostáiváldin:vuástáväldim	vuostáiváldin	 <l pos="N">vuostáiváldin</l>
-vuordin:maŋedem	vuordin	 <l pos="N">vuordin</l>
-gárdin:kärdin	gárdin	 <l pos="N">gárdin</l>
-báhpagárdin:pappâl	báhpagárdin	 <l pos="N">báhpagárdin</l>
-vuovdin:vuábdu	vuovdin	 <l pos="N">vuovdin</l>
 oarjin:orjâlâšpiegâpeln	oarjin	 <l pos="Adv">oarjin</l>
-diehtojuohkin:tiäđáttâs	diehtojuohkin	 <l pos="N">diehtojuohkin</l>
-báhkin:päähin	báhkin	 <l pos="N">báhkin</l>
-čoahkkin:čuákkim	čoahkkin	 <l pos="N">čoahkkin</l>
-dievasčoahkkin:tievâslâščuákkim	dievasčoahkkin	 <l pos="N">dievasčoahkkin</l>
 girkolaščoahkkin:kirholâščuákkim	girkolaščoahkkin	
-buollin:puálu	buollin	 <l pos="N">buollin</l>
-čállin:čäällim	čállin	 <l pos="N">čállin</l>
-jápmin:jäämmim	jápmin	 <l pos="N">jápmin</l>
-massin:monâttâs	massin	 <l pos="N">massin</l>
-johtin:varrim	johtin	 <l pos="N">johtin</l>
-oastin:uástu	oastin	 <l pos="N">oastin</l>
-máistin:máhuáiccu	máistin	 <l pos="N">máistin</l>
 ihttin:itten	ihttin	 <l pos="Adv">ihttin</l>
-garvin:juurrâm	garvin	 <l pos="N">garvin</l>
 davvin:tavepiegâpeln	davvin	 <l pos="Adv">davvin</l>
 seavvin:čujottâs	seavvin	
-vázzin:väzzim	vázzin	 <l pos="N">vázzin</l>
-durbbon:tuárbum	durbbon	 <l pos="N">durbbon</l>
-ogon:tájutteijee	ogon	 <l pos="N">ogon</l>
-ledjon:leijoon	ledjon	 <l pos="N">ledjon</l>
-fihkon:viigun	fihkon	 <l pos="N">fihkon</l>
-ihkkon:ikkân	ihkkon	 <l pos="N">ihkkon</l>
-botkkon:puáđhun	botkkon	 <l pos="N">botkkon</l>
-dulkon:tulkkum	dulkon	 <l pos="N">dulkon</l>
-solon:päniruuggâin	solon	 <l pos="N">solon</l>
-dálon:tálulâš	dálon	 <l pos="N">dálon</l>
-vuhpon:vuávdáá	vuhpon	 <l pos="N">vuhpon</l>
-giron:kiärun	giron	 <l pos="N">giron</l>
 árbejuvvon:árbálâš	árbejuvvon	
-guoggun:kuággum	guoggun	 <l pos="N">guoggun</l>
 olgun:olgon	olgun	 <l pos="Adv">olgun</l>
-čohkun:čohhoom	čohkun	 <l pos="N">čohkun</l>
 mun:mun	mun	 <l pos="Pron" type="Pers">mun</l>
-orrun:aassâm	orrun	 <l pos="N">orrun</l>
 russun:russoom	russun	
-dálveguohtun:tälvikuáttum	dálveguohtun	 <l pos="N">dálveguohtun</l>
 dovdameahttun:tubdâmettum	dovdameahttun	 <l pos="A">dovdameahttun</l>
 lohkameahttun:luhâmettum	lohkameahttun	 <l pos="A">lohkameahttun</l>
 fuollameahttun:huolâttem	fuollameahttun	 <l pos="A">fuollameahttun</l>
@@ -1278,168 +313,61 @@ oaidnemeahttun:uáinimettum	oaidnemeahttun	 <l pos="A">oaidnemeahttun</l>
 dievasmeahttun:epitievâslâš	dievasmeahttun	 <l pos="A">dievasmeahttun</l>
 olmmošmeahttun:olmoošmettum	olmmošmeahttun	
 guovttegeardán:kyevtkiärdág	guovttegeardán	 <l pos="A">guovttegeardán</l>
-boagán:poovij	boagán	 <l pos="N">boagán</l>
 nuppelágán:nubemuáđusâš	nuppelágán	 <l pos="A">nuppelágán</l>
-baján:äijih	baján	 <l pos="N">baján</l>
-sáhpán:säplig	sáhpán	 <l pos="N">sáhpán</l>
-ruksessáhpán:päikkisäplig	ruksessáhpán	 <l pos="N">ruksessáhpán</l>
-fearán:fiäráán	fearán	 <l pos="N">fearán</l>
-novrrán:tavenuorttii	novrrán	 <l pos="N">novrrán</l>
-vintán:vyevdiloddááš	vintán	 <l pos="N">vintán</l>
 jođán:neppir	jođán	 <l pos="A">jođán</l>
 menddo:kukken	menddo	 <l pos="Adv">menddo</l>
 dasságo:tassaaš	dasságo	
 raitio:räiđee	raitio	
 kahdeksikko:káávcáš	kahdeksikko	
-kilo:kiilu	kilo	 <l pos="N">kilo</l>
-levlo:lievlâ	levlo	 <l pos="N">levlo</l>
 mo:maht	mo	 <l pos="Adv">mo</l>
-bánno:pánnu	bánno	 <l pos="N">bánno</l>
-piáno:siijvost	piáno	 <l pos="N">piáno</l>
 suippo:čuuvâs	suippo	
-hevro:lievlâ	hevro	 <l pos="N">hevro</l>
 okto:ohtuu	okto	 <l pos="Adv">okto</l>
-konto:tili	konto	 <l pos="N">konto</l>
 gusto:kustoo	gusto	 <l pos="Adv">gusto</l>
-gáivo:káivu	gáivo	 <l pos="N">gáivo</l>
-finddar:fiindâr	finddar	 <l pos="N">finddar</l>
-oaffar:uhre	oaffar	 <l pos="N">oaffar</l>
-suonjar:suonjâr	suonjar	 <l pos="N">suonjar</l>
 sihkar:vises	sihkar	 <l pos="A">sihkar</l>
 eahpesihkar:epivises	eahpesihkar	 <l pos="A">eahpesihkar</l>
-sohkar:sukkâr	sohkar	 <l pos="N">sohkar</l>
-nummar:nummeer	nummar	 <l pos="N">nummar</l>
-guoppar:kuobâr	guoppar	 <l pos="N">guoppar</l>
-diamehtar:čođâmitto	diamehtar	 <l pos="N">diamehtar</l>
-duottar:tuodâr	duottar	 <l pos="N">duottar</l>
 orkeasttar:orkester	orkeasttar	
-kloasttar:luostar	kloasttar	 <l pos="N">kloasttar</l>
-registtar:register	registtar	 <l pos="N">registtar</l>
-muttar:muudâr	muttar	 <l pos="N">muttar</l>
-šláttar:šlaadâr	šláttar	 <l pos="N">šláttar</l>
 sneavvar:porottem	sneavvar	 <l pos="A">sneavvar</l>
-fuođar:fuođâr	fuođar	 <l pos="N">fuođar</l>
-tiger:tiiger	tiger	 <l pos="N">tiger</l>
-mehter:meetter	mehter	 <l pos="N">mehter</l>
-millimehter:millimeetter	millimehter	 <l pos="N">millimehter</l>
-sentimehter:senttimeetter	sentimehter	 <l pos="N">sentimehter</l>
-kilomehter:kilomeetter	kilomehter	 <l pos="N">kilomehter</l>
-lihtter:litter	lihtter	 <l pos="N">lihtter</l>
-muhtter:mutter	muhtter	 <l pos="N">muhtter</l>
-skibir:kyeimi	skibir	 <l pos="N">skibir</l>
-skibir:skippáár	skibir	 <l pos="N">skibir</l>
-gaccir:kaz(z)erräigi	gaccir	 <l pos="N">gaccir</l>
 gudneáŋgir:kunneehäänis	gudneáŋgir	 <l pos="A">gudneáŋgir</l>
-busir:pusseer	busir	 <l pos="N">busir</l>
-doavttir:tuáhtár	doavttir	 <l pos="N">doavttir</l>
-šibitdoavttir:elleituáhtár	šibitdoavttir	 <l pos="N">šibitdoavttir</l>
-dávvir:aarni	dávvir	 <l pos="N">dávvir</l>
-veahčir:veeččir	veahčir	 <l pos="N">veahčir</l>
-máđir:vielgismääđir	máđir	 <l pos="N">máđir</l>
-válbor:válbur	válbor	 <l pos="N">válbor</l>
-sihkor:siigur	sihkor	 <l pos="N">sihkor</l>
-galbmagáhkkor:kolmâpelčči	galbmagáhkkor	 <l pos="N">galbmagáhkkor</l>
 iskor:miändu	iskor	 <l pos="Adv">iskor</l>
-boŋkor:pövkkyr	boŋkor	 <l pos="N">boŋkor</l>
-bihppor:pippâr	bihppor	 <l pos="N">bihppor</l>
-gissor:kiisur	gissor	 <l pos="N">gissor</l>
-dihtor:tiättur	dihtor	 <l pos="N">dihtor</l>
-mohtor:moottor	mohtor	 <l pos="N">mohtor</l>
-diktáhtor:diktaattor	diktáhtor	 <l pos="N">diktáhtor</l>
-ekváhtor:peeivitäsideijee	ekváhtor	 <l pos="N">ekváhtor</l>
-rektor:rehtor	rektor	 <l pos="N">rektor</l>
-beštor:pešnirihhááš	beštor	 <l pos="N">beštor</l>
-riddár:riitaar	riddár	 <l pos="N">riddár</l>
-morddár:morhedeijee	morddár	 <l pos="N">morddár</l>
-borgár:aalmugjeessân	borgár	 <l pos="N">borgár</l>
-borgár:puárvár	borgár	 <l pos="N">borgár</l>
-sáŋgár:almaš	sáŋgár	 <l pos="N">sáŋgár</l>
-teknihkkár:teknikkár	teknihkkár	 <l pos="N">teknihkkár</l>
-politihkkár:politijkkár	politihkkár	 <l pos="N">politihkkár</l>
-luhkkár:lukkár	luhkkár	 <l pos="N">luhkkár</l>
-málár:máálár	málár	 <l pos="N">málár</l>
-reaidnár:puásuikeččee	reaidnár	 <l pos="N">reaidnár</l>
-neavttár:čájáttâllee	neavttár	 <l pos="N">neavttár</l>
-meaštár:miäštár	meaštár	 <l pos="N">meaštár</l>
-rievvár:riävvár	rievvár	 <l pos="N">rievvár</l>
-buohccedivššár:pyecceitipšoo	buohccedivššár	 <l pos="N" vmax="2">buohccedivššár</l>
 váibbas:vaaibâs	váibbas	 <l pos="A">váibbas</l>
-albbas:iilvâs	albbas	 <l pos="N">albbas</l>
 oadjebas:torvolâš	oadjebas	 <l pos="A">oadjebas</l>
-gurgadas:šuoŋâ	gurgadas	 <l pos="N">gurgadas</l>
-rahkadas:vuálááššadolâšvuotâ	rahkadas	 <l pos="N">rahkadas</l>
-gásttadas:lahtâdâs	gásttadas	 <l pos="N">gásttadas</l>
-viđadas:viđâdâs	viđadas	 <l pos="N">viđadas</l>
 moiddas:illávaje	moiddas	 <l pos="A">moiddas</l>
-vuoiddas:vuoidâs	vuoiddas	 <l pos="N">vuoiddas</l>
 muolddas:muldáá	muolddas	 <l pos="A">muolddas</l>
 bálddas:itoi	bálddas	 <l pos="Adv">bálddas</l>
 bálddas:piällást	bálddas	 <l pos="Adv">bálddas</l>
-vuolildas:laainâs	vuolildas	 <l pos="N">vuolildas</l>
 olgguldas:olgoldâs	olgguldas	 <l pos="A">olgguldas</l>
 siskkáldas:siskáldâs	siskkáldas	 <l pos="A">siskkáldas</l>
 oskkáldas:oskolâš	oskkáldas	
-njealjádas:niäljádâs	njealjádas	 <l pos="N">njealjádas</l>
-aládas:aladâs	aládas	 <l pos="N">aládas</l>
-goalmmádas:kuálmádâs	goalmmádas	 <l pos="N">goalmmádas</l>
 bierffas:hurváá	bierffas	 <l pos="A">bierffas</l>
-gealdagas:keeldâ	gealdagas	 <l pos="N">gealdagas</l>
-gonagas:kunâgâs	gonagas	 <l pos="N">gonagas</l>
 geatnegas:kenigâs	geatnegas	 <l pos="A">geatnegas</l>
 nealggas:niälgáá	nealggas	 <l pos="A">nealggas</l>
 čielggas:čielgâs	čielggas	 <l pos="A">čielggas</l>
 eahpečielggas:epičielgâs	eahpečielggas	 <l pos="A">eahpečielggas</l>
 eahpečielggas:epičielgâs	eahpečielggas	 <l pos="A">eahpečielggas</l>
-čearggas:paargâs	čearggas	 <l pos="N">čearggas</l>
 starggas:sävri	starggas	
 rivggas:pehtil	rivggas	 <l pos="A">rivggas</l>
 ávdugas:avdâgâs	ávdugas	 <l pos="A">ávdugas</l>
 válljugas:válju	válljugas	 <l pos="A">válljugas</l>
 várrugas:várugâs	várrugas	 <l pos="A">várrugas</l>
-vajahas:časkastuh	vajahas	 <l pos="N">vajahas</l>
-spanjahas:suáđis	spanjahas	 <l pos="N">spanjahas</l>
 jalahas:jalahâs	jalahas	 <l pos="A">jalahas</l>
 njealjehas:neljihâš	njealjehas	
-njiččehas:njomâtteijee	njiččehas	 <l pos="N">njiččehas</l>
-evttohas:iävtukkâs	evttohas	 <l pos="N">evttohas</l>
-borjjas:puurjâs	borjjas	 <l pos="N">borjjas</l>
-borjjas:puurjâs	borjjas	 <l pos="N">borjjas</l>
 guovnnjas:vuovdân	guovnnjas	 <l pos="A">guovnnjas</l>
-sátnevájas:sänivaajâs	sátnevájas	 <l pos="N">sátnevájas</l>
 snárkkas:šnárkkáá	snárkkas	 <l pos="A">snárkkas</l>
-gaskkas:kooskâst	gaskkas	 <l pos="N">gaskkas</l>
-bávkkas:peeškâs	bávkkas	 <l pos="N">bávkkas</l>
 ealas:ellee	ealas	 <l pos="A">ealas</l>
 ruossalas:ruossâlâs	ruossalas	 <l pos="A">ruossalas</l>
-reastalas:resthâš	reastalas	 <l pos="N">reastalas</l>
 smiehttalas:smiettâlâs	smiehttalas	 <l pos="A">smiehttalas</l>
 čiekčalas:čiehčâlâs	čiekčalas	 <l pos="A">čiekčalas</l>
 joavdelas:jyevdilâs	joavdelas	 <l pos="A">joavdelas</l>
-njiŋŋelas:niŋálâs	njiŋŋelas	 <l pos="N">njiŋŋelas</l>
-guovllas:vyevli	guovllas	 <l pos="N">guovllas</l>
 dorrolas:tuárulâs	dorrolas	 <l pos="A">dorrolas</l>
 riidálas:kaađâš	riidálas	 <l pos="A">riidálas</l>
 seahkálas:siähálâs	seahkálas	 <l pos="A">seahkálas</l>
-ceahkkálas:ciäkkádâh	ceahkkálas	 <l pos="N">ceahkkálas</l>
 mihtilmas:jiešvuođâlâš	mihtilmas	 <l pos="A">mihtilmas</l>
 mihtilmas:jiešvuođâlâš	mihtilmas	 <l pos="A">mihtilmas</l>
-suorpmas:suormâs	suorpmas	 <l pos="N">suorpmas</l>
-fanas:vyeli	fanas	 <l pos="N">fanas</l>
-reavgganas:ráváttâs	reavgganas	 <l pos="N">reavgganas</l>
-gáranas:káránâs	gáranas	 <l pos="N">gáranas</l>
-vuovssanas:vuoksnjâš	vuovssanas	 <l pos="N">vuovssanas</l>
-jiehtanas:jietânâs	jiehtanas	 <l pos="N">jiehtanas</l>
-njivžžanas:tuulâš	njivžžanas	 <l pos="N">njivžžanas</l>
-ávnnas:aamnâs	ávnnas	 <l pos="N">ávnnas</l>
-álgoávnnas:algâaamnâs	álgoávnnas	 <l pos="N">álgoávnnas</l>
 áloruonas:ainruonâs	áloruonas	
 geahpas:keppis	geahpas	 <l pos="A">geahpas</l>
 loahpas:majemustáá	loahpas	 <l pos="Adv">loahpas</l>
 varas:voorâs	varas	 <l pos="A">varas</l>
-biras:piirâs	biras	 <l pos="N">biras</l>
-biras:pirâstittee	biras	 <l pos="N">biras</l>
 eallinbiras:eellimpiirâs	eallinbiras	
-duhkoras:sierâ	duhkoras	 <l pos="N">duhkoras</l>
 guoras:piällást	guoras	 <l pos="Po">guoras</l>
 davrras:jorŋii	davrras	 <l pos="A">davrras</l>
 divrras:tiivrâs	divrras	 <l pos="A">divrras</l>
@@ -1450,197 +378,80 @@ skuittas:skuibe-	skuittas	 <l pos="A">skuittas</l>
 nuorttas:nuortâs	nuorttas	 <l pos="Adv">nuorttas</l>
 skárttas:skárttáá	skárttas	 <l pos="A">skárttas</l>
 mosttas:siävŋus	mosttas	 <l pos="A">mosttas</l>
-bargobivttas:tyejipihtâseh	bargobivttas	 <l pos="N">bargobivttas</l>
-lávttas:laavtâs	lávttas	 <l pos="N">lávttas</l>
 ráttas:jieŋâkoolmâs	ráttas	 <l pos="A">ráttas</l>
-vuoivvas:vuoivâs	vuoivvas	 <l pos="N">vuoivvas</l>
 dálvvas:tálváá	dálvvas	 <l pos="A">dálvvas</l>
 šlurvvas:nakkanttim	šlurvvas	 <l pos="A">šlurvvas</l>
 buozas:pyeccee	buozas	 <l pos="A">buozas</l>
 šlinzzas:sile	šlinzzas	 <l pos="A">šlinzzas</l>
 skihčas:skuibe-	skihčas	 <l pos="A">skihčas</l>
-govččas:loovdâ	govččas	 <l pos="N">govččas</l>
-čoavjebávččas:čuávjipuálttâs	čoavjebávččas	 <l pos="N">čoavjebávččas</l>
-lađas:loođâs	lađas	 <l pos="N">lađas</l>
 ođas:uuđâs	ođas	 <l pos="A">ođas</l>
 ođas:uuđâs	ođas	 <l pos="A">ođas</l>
 duođas:tuođâlâš	duođas	 <l pos="Adv">duođas</l>
-uđas:muotâvierrâm	uđas	 <l pos="N">uđas</l>
-beatnatdaŋas:pennuujuŋŋâ	beatnatdaŋas	 <l pos="N">beatnatdaŋas</l>
 jaŋas:iiŋâs	jaŋas	 <l pos="A">jaŋas</l>
 saŋas:seŋes	saŋas	 <l pos="A">saŋas</l>
-jieŋas:jieŋâs	jieŋas	 <l pos="N">jieŋas</l>
 almmuhit_iežas:almottâttâđ	almmuhit_iežas	
 sotamies:suátialmai	sotamies	
 gulles:peljiš	gulles	 <l pos="A">gulles</l>
-geres:pulkke	geres	 <l pos="N">geres</l>
 čálekeahtes:čälimettum	čálekeahtes	 <l pos="A">čálekeahtes</l>
 geažes:keččin	geažes	 <l pos="Po">geažes</l>
 oarbbis:uárbis	oarbbis	 <l pos="A">oarbbis</l>
-vuonccis:kääni	vuonccis	 <l pos="N">vuonccis</l>
 viiddis:viijđes	viiddis	 <l pos="A">viiddis</l>
-álddis:ääldis	álddis	 <l pos="N">álddis</l>
-bálddis:pääldis	bálddis	 <l pos="N">bálddis</l>
 njálggis:njäälgis	njálggis	 <l pos="A">njálggis</l>
 oažžunsajis:ooláádmuddo	oažžunsajis	
 báljis:puálčči	báljis	
 ráhkis:räähis	ráhkis	 <l pos="A">ráhkis</l>
-áhkalakkis:hai	áhkalakkis	 <l pos="N">áhkalakkis</l>
 snoakkis:väänis	snoakkis	 <l pos="A">snoakkis</l>
 rikkis:riges	rikkis	 <l pos="A">rikkis</l>
-boazorikkis:puásuiriges	boazorikkis	 <l pos="N">boazorikkis</l>
-čielkkis:čiellâh	čielkkis	 <l pos="N">čielkkis</l>
 hurskkis:hurskes	hurskkis	 <l pos="A">hurskkis</l>
 oamivánhurskkis:vuovnâlâš	oamivánhurskkis	 <l pos="A">oamivánhurskkis</l>
 badjelis:pajalist	badjelis	 <l pos="Po">badjelis</l>
 lámis:vádulâš	lámis	
-gánis:känistähti	gánis	 <l pos="N">gánis</l>
-geahpis:keepis	geahpis	 <l pos="N">geahpis</l>
-vielppis:vielpis	vielppis	 <l pos="N">vielppis</l>
-doaris:tuáris	doaris	 <l pos="N">doaris</l>
-varris:ores	varris	 <l pos="N">varris</l>
 morris:mooriš	morris	 <l pos="A">morris</l>
-čeavrris:čeevris	čeavrris	 <l pos="N">čeavrris</l>
 oidnosis:uáinusist	oidnosis	 <l pos="Adv">oidnosis</l>
 vissis:tiätu-	vissis	 <l pos="A">vissis</l>
-vievssis:veepsis	vievssis	 <l pos="N">vievssis</l>
 buhtis:putes	buhtis	 <l pos="A">buhtis</l>
-rásttis:rástágâš	rásttis	 <l pos="N">rásttis</l>
-geađgerásttis:keđgirástágâš	geađgerásttis	 <l pos="N">geađgerásttis</l>
 goavis:váimuttem	goavis	 <l pos="A">goavis</l>
 roavis:rome	roavis	
-sarvvis:sarves	sarvvis	 <l pos="N">sarvvis</l>
-buđis:poovces	buđis	 <l pos="N">buđis</l>
 olggos:olgos	olggos	 <l pos="Adv">olggos</l>
 álggos:vistig	álggos	 <l pos="Adv">álggos</l>
 nuppos:nubás	nuppos	 <l pos="Adv">nuppos</l>
 rasvakerros:oolâs	rasvakerros	
 nietos:skälvi	nietos	
-rievdadus:nubástus	rievdadus	 <l pos="N">rievdadus</l>
-čuohpadus:čuopâdâs	čuohpadus	 <l pos="N">čuohpadus</l>
-šiehtadus:sopâmuš	šiehtadus	 <l pos="N">šiehtadus</l>
 njoaiddus:njuáidus	njoaiddus	 <l pos="A">njoaiddus</l>
 gáiddus:kaaidâs	gáiddus	
-mielddus:labdos	mielddus	 <l pos="N">mielddus</l>
-čoavddus:čuávdus	čoavddus	 <l pos="N">čoavddus</l>
-bivddus:piivdus	bivddus	 <l pos="N">bivddus</l>
 dovddus:uápis	dovddus	 <l pos="A">dovddus</l>
-geahpedus:meddâlistem	geahpedus	 <l pos="N">geahpedus</l>
-bajildus:ulguš	bajildus	 <l pos="N">bajildus</l>
-vuođđudus:siäđus	vuođđudus	 <l pos="N">vuođđudus</l>
-gáibádus:vátámâš	gáibádus	 <l pos="N">gáibádus</l>
-vuorbádus:vuárbum	vuorbádus	 <l pos="N">vuorbádus</l>
-veardádus:viärdádâs	veardádus	 <l pos="N">veardádus</l>
-dáhkádus:táhádâs	dáhkádus	 <l pos="N">dáhkádus</l>
-oanádus:uánádâs	oanádus	 <l pos="N">oanádus</l>
-lohpádus:lopádâs	lohpádus	 <l pos="N">lohpádus</l>
-buorádus:puárádâs	buorádus	 <l pos="N">buorádus</l>
-háhtádus:kuárádâs	háhtádus	 <l pos="N">háhtádus</l>
-vástádus:vástádâs	vástádus	 <l pos="N">vástádus</l>
-ovddasvástádus:ovdâsvástádâs	ovddasvástádus	 <l pos="N">ovddasvástádus</l>
 goasttádus:kuástádâs	goasttádus	
-árvádus:iärvádâs	árvádus	 <l pos="N">árvádus</l>
-govvádus:kuvvim	govvádus	 <l pos="N">govvádus</l>
-stoagus:sierâ	stoagus	 <l pos="N">stoagus</l>
 čielggus:ordâ	čielggus	 <l pos="A">čielggus</l>
-njálggus:njäälgis	njálggus	 <l pos="N">njálggus</l>
 suorggus:suárgus	suorggus	
 meađggus:sukkârnallii	meađggus	 <l pos="A">meađggus</l>
-čuogus:čuohâmâš	čuogus	 <l pos="N">čuogus</l>
-soabahus:heiviittâs	soabahus	 <l pos="N">soabahus</l>
-soabahus:puáráttâs	soabahus	 <l pos="N">soabahus</l>
-álggahus:algâttâs	álggahus	 <l pos="N">álggahus</l>
-jugahus:juvâttâs	jugahus	 <l pos="N">jugahus</l>
-bajásdoalahus:ciävzámâš	bajásdoalahus	 <l pos="N">bajásdoalahus</l>
-olahus:ulâttâs	olahus	 <l pos="N">olahus</l>
-gulahus:kulluuttâs	gulahus	 <l pos="N">gulahus</l>
-namahus:nomâttâs	namahus	 <l pos="N">namahus</l>
-doaimmahus:toimâttâs	doaimmahus	 <l pos="N">doaimmahus</l>
-joatkkaoahpahus:jotkâškovliittâs	joatkkaoahpahus	 <l pos="N">joatkkaoahpahus</l>
-ásahus:asâttâs	ásahus	 <l pos="N">ásahus</l>
-ásahus:lágádâs	ásahus	 <l pos="N">ásahus</l>
-várrehus:váruttâs	várrehus	 <l pos="N">várrehus</l>
-prentehus:riäntus	prentehus	 <l pos="N">prentehus</l>
-hehttehus:hemâdâs	hehttehus	 <l pos="N">hehttehus</l>
-jeđđehus:lohđuttâs	jeđđehus	 <l pos="N">jeđđehus</l>
-meahcceráđđehus:meccihaldâttâs	meahcceráđđehus	 <l pos="N">meahcceráđđehus</l>
-evttohus:iävtuttâs	evttohus	 <l pos="N">evttohus</l>
-láhkaevttohus:lahâiävtuttâs	láhkaevttohus	 <l pos="N">láhkaevttohus</l>
-seaguhus:siävus	seaguhus	 <l pos="N">seaguhus</l>
-čujuhus:čujottâs	čujuhus	 <l pos="N">čujuhus</l>
-váikkuhus:vaikuttâs	váikkuhus	 <l pos="N">váikkuhus</l>
-earuhus:iäruttâs	earuhus	 <l pos="N">earuhus</l>
-ájáhus:ääji	ájáhus	 <l pos="N">ájáhus</l>
-čájáhus:oovdânpyehtim	čájáhus	 <l pos="N">čájáhus</l>
-čájáhus:čáittu	čájáhus	 <l pos="N">čájáhus</l>
-čájáhus:čáitálmâs	čájáhus	 <l pos="N">čájáhus</l>
-dáhpáhus:tábáhtus	dáhpáhus	 <l pos="N">dáhpáhus</l>
-vásáhus:feerim	vásáhus	 <l pos="N">vásáhus</l>
-dajus:iäđus	dajus	 <l pos="N">dajus</l>
-sajus:sajadâh	sajus	 <l pos="N">sajus</l>
-girjerájus:kirjerááju	girjerájus	 <l pos="N">girjerájus</l>
-čarkkus:spabbâlâš	čarkkus	 <l pos="N">čarkkus</l>
-botkkus:mieskâttâsah	botkkus	 <l pos="N">botkkus</l>
-hutkkus:hutkos	hutkkus	 <l pos="N">hutkkus</l>
-várjalus:varjâlus	várjalus	 <l pos="N">várjalus</l>
-jorralus:jurrâmâš	jorralus	 <l pos="N">jorralus</l>
-muitalus:muštâlus	muitalus	 <l pos="N">muitalus</l>
-ipmilbálvalus:immeelpalvâlus	ipmilbálvalus	 <l pos="N">ipmilbálvalus</l>
-árvalus:árvu	árvalus	 <l pos="N">árvalus</l>
-čálus:kirjálâš	čálus	 <l pos="N">čálus</l>
-giehtačálus:kietâčaalâ	giehtačálus	 <l pos="N">giehtačálus</l>
 bajimus:pajemus	bajimus	 <l pos="A">bajimus</l>
 vuolimus:vyelebâš	vuolimus	 <l pos="A">vuolimus</l>
 vuolimus:vyelemus	vuolimus	 <l pos="A">vuolimus</l>
 lulimus:kesipiegâmuš	lulimus	 <l pos="A">lulimus</l>
 maŋimus:maajeeb	maŋimus	 <l pos="A">maŋimus</l>
 čalmmus:almos	čalmmus	 <l pos="A">čalmmus</l>
-čanus:čoonâs	čanus	 <l pos="N">čanus</l>
 oainnus:enâdâh	oainnus	 <l pos="A">oainnus</l>
 oainnus:uáinojeijee	oainnus	 <l pos="A">oainnus</l>
 oainnus:váárdus	oainnus	 <l pos="A">oainnus</l>
-virus:virus	virus	 <l pos="N">virus</l>
-borus:poros	borus	 <l pos="N">borus</l>
 guorus:kuárus	guorus	 <l pos="A">guorus</l>
-suvrrus:suuvrâs	suvrrus	 <l pos="N">suvrrus</l>
-oasus:uásus	oasus	 <l pos="N">oasus</l>
-beahtus:piätus	beahtus	 <l pos="N">beahtus</l>
 olles_mihtus:oles	olles_mihtus	
-dovddastus:tubdâstâs	dovddastus	 <l pos="N">dovddastus</l>
-ovttastus:ovtâstâh	ovttastus	 <l pos="N">ovttastus</l>
-áŧestus:atâštâs	áŧestus	 <l pos="N">áŧestus</l>
-doarggástus:sporijdem	doarggástus	 <l pos="N">doarggástus</l>
-doarggástus:tuárgástâs	doarggástus	 <l pos="N">doarggástus</l>
-beloštus:piäluštâs	beloštus	 <l pos="N">beloštus</l>
-beroštus:huolâ	beroštus	 <l pos="N">beroštus</l>
 eatnandoarggáštus:eennâmtuárgástus	eatnandoarggáštus	
-ráŋggáštus:ráŋgáštâs	ráŋggáštus	 <l pos="N">ráŋggáštus</l>
 luovus:pođoinjâs	luovus	 <l pos="A">luovus</l>
 máilmmiávus:maailmubâlâšvuotâ	máilmmiávus	
 dieđus:tiäđust-uv	dieđus	 <l pos="A">dieđus</l>
-geažus:kiäjus	geažus	 <l pos="N">geažus</l>
-bižus:piiččus	bižus	 <l pos="N">bižus</l>
 vealggás:viälgás	vealggás	 <l pos="Adv">vealggás</l>
-givgás:kivkkâhâš	givgás	 <l pos="N">givgás</l>
 bajás:pajas	bajás	 <l pos="Adv">bajás</l>
 álás:pääljis	álás	 <l pos="A">álás</l>
 seammás:tastan	seammás	 <l pos="Adv">seammás</l>
 sámás:sámás	sámás	 <l pos="Adv">sámás</l>
-goppás:koppakuorijâš	goppás	 <l pos="N">goppás</l>
 doarrás:tuárrást	doarrás	 <l pos="Adv">doarrás</l>
-proavás:ruávást	proavás	 <l pos="N">proavás</l>
 hearvás:nánnáá	hearvás	 <l pos="A">hearvás</l>
 báhccat:paccâđ	báhccat	
 máhccat:maccâđ	máhccat	 <l pos="V">máhccat</l>
 goahcat:kuossâđ	goahcat	
 čuohcat:čyecciđ	čuohcat	 <l pos="V">čuohcat</l>
 áicat:aiccâđ	áicat	 <l pos="V">áicat</l>
-bearjadat:vástuppeivi	bearjadat	 <l pos="N">bearjadat</l>
-guhkesbearjadat:kuhesperjâdâh	guhkesbearjadat	 <l pos="N">guhkesbearjadat</l>
-borjadat:purjâd	borjadat	 <l pos="N">borjadat</l>
-eanadat:mecci	eanadat	 <l pos="N">eanadat</l>
 jietnadat:jienâdâh	jietnadat	
-govadat:kovos	govadat	 <l pos="N">govadat</l>
 fievrrádaddat:tuálvuttâllâđ	fievrrádaddat	 <l pos="V">fievrrádaddat</l>
 geahččaladdat:keččâlâddâđ	geahččaladdat	 <l pos="V">geahččaladdat</l>
 átnuladdat:hastâččiđ	átnuladdat	 <l pos="V">átnuladdat</l>
@@ -1649,47 +460,11 @@ váldáladdat:hámssuđ	váldáladdat	 <l pos="V">váldáladdat</l>
 allánaddat:alanâddâđ	allánaddat	 <l pos="V">allánaddat</l>
 báhtaraddat:patârâddâđ	báhtaraddat	 <l pos="V">báhtaraddat</l>
 fiškasaddat:libžođ	fiškasaddat	 <l pos="V">fiškasaddat</l>
-buoiddat:pagge	buoiddat	 <l pos="N">buoiddat</l>
 heahtáduddat:iätáduddâđ	heahtáduddat	 <l pos="V">heahtáduddat</l>
 jáddat:časkâđ	jáddat	 <l pos="x">jáddat</l>
-buvvedat:puváduvvâš	buvvedat	 <l pos="N">buvvedat</l>
 vuoidat:vuojâttiđ	vuoidat	 <l pos="V">vuoidat</l>
-dovddaldat:tubdâldâh	dovddaldat	 <l pos="N">dovddaldat</l>
-dovddaldat:tubdâldâh	dovddaldat	 <l pos="N">dovddaldat</l>
-jearaldat:kojâldâh	jearaldat	 <l pos="N">jearaldat</l>
-sávaldat:tuoivâ	sávaldat	 <l pos="N">sávaldat</l>
-gažaldat:koččâmâš	gažaldat	 <l pos="N">gažaldat</l>
-gižaldat:säähir	gižaldat	 <l pos="N">gižaldat</l>
-áigejorggáldat:ääigijorgáldâh	áigejorggáldat	 <l pos="N">áigejorggáldat</l>
-čoakkáldat:nurâldâh	čoakkáldat	 <l pos="N">čoakkáldat</l>
-dulbodat:täässivvuotâ	dulbodat	 <l pos="N">dulbodat</l>
-viidodat:vijdodâh	viidodat	 <l pos="N">viidodat</l>
-buidodat:puáidáhvuotâ	buidodat	 <l pos="N">buidodat</l>
-luondduriggodat:luánduriggodâh	luondduriggodat	 <l pos="N">luondduriggodat</l>
-áigodat:paje	áigodat	 <l pos="N">áigodat</l>
-áigodat:äigipaje	áigodat	 <l pos="N">áigodat</l>
-guhkkodat:kukkodâh	guhkkodat	 <l pos="N">guhkkodat</l>
-bárroguhkkodat:párukukkodâh	bárroguhkkodat	 <l pos="N">bárroguhkkodat</l>
-dovkodat:tuávkkivuotâ	dovkodat	 <l pos="N">dovkodat</l>
-bellodat:piäládâh	bellodat	 <l pos="N">bellodat</l>
-fitnodat:lihâstâs	fitnodat	 <l pos="N">fitnodat</l>
-sturrodat:styeresvuotâ	sturrodat	 <l pos="N">sturrodat</l>
-viisodat:vijsesvuotâ	viisodat	 <l pos="N">viisodat</l>
-ossodat:uásádâh	ossodat	 <l pos="N">ossodat</l>
-fastodat:vastevuotâ	fastodat	 <l pos="N">fastodat</l>
-servodat:ohtsâškodde	servodat	 <l pos="N" vmax="2">servodat</l>
 gierdat:sovášiđ	gierdat	 <l pos="V">gierdat</l>
-bohccádat:poccee	bohccádat	 <l pos="N">bohccádat</l>
-vuogádat:vuáhádâh	vuogádat	 <l pos="N">vuogádat</l>
-sajádat:sajattâh	sajádat	 <l pos="N">sajádat</l>
-dálkkádat:šoŋŋâdâh	dálkkádat	 <l pos="N">dálkkádat</l>
-luládat:nuorttii	luládat	 <l pos="N">luládat</l>
-njálmmádat:njálmádâh	njálmmádat	 <l pos="N">njálmmádat</l>
-fierpmádat:viärmádâh	fierpmádat	 <l pos="N">fierpmádat</l>
-avádat:stielâs	avádat	 <l pos="N">avádat</l>
-čázádat:čácáduh	čázádat	 <l pos="N">čázádat</l>
 báffat:pávháđ	báffat	 <l pos="V">báffat</l>
-hellodagat:helduvah	hellodagat	 <l pos="N" nr="Pl">hellodagat</l>
 njuolggočiegat:njuálgučievâg	njuolggočiegat	
 caggat:keldiđ	caggat	 <l pos="V">caggat</l>
 laggat:sparkkeđ	laggat	 <l pos="V">laggat</l>
@@ -1704,19 +479,9 @@ siigat:nuorbâđ	siigat	 <l pos="V">siigat</l>
 geargat:valmâštuđ	geargat	 <l pos="V">geargat</l>
 ruovgat:ruovgâđ	ruovgat	 <l pos="V">ruovgat</l>
 čuovgat:čuovvâd	čuovgat	 <l pos="A">čuovgat</l>
-bonjahat:toppiittâh	bonjahat	 <l pos="N">bonjahat</l>
-čearpmahat:čiermihât	čearpmahat	 <l pos="N">čearpmahat</l>
-suorpmahat:suormâhât	suorpmahat	 <l pos="N">suorpmahat</l>
-sainnahat:soinâttâh	sainnahat	 <l pos="N">sainnahat</l>
-njuikehat:njuškiittâh	njuikehat	 <l pos="N">njuikehat</l>
-divohat:tivottâh	divohat	 <l pos="N">divohat</l>
-váccáhat:vázáttâh	váccáhat	 <l pos="N">váccáhat</l>
-čuozáhat:čuosâttâh	čuozáhat	 <l pos="N">čuozáhat</l>
-heajat:heejah	heajat	 <l pos="N" nr="Pl">heajat</l>
 cadjat:cooijâđ	cadjat	 <l pos="V">cadjat</l>
 čuodjat:čuoijâđ	čuodjat	 <l pos="V">čuodjat</l>
 rádjat:vuorkkiđ	rádjat	 <l pos="V">rádjat</l>
-buovnnjat:muldesäplig	buovnnjat	 <l pos="N">buovnnjat</l>
 šlietnjat:pilleeđ	šlietnjat	
 botnjat:nubásmittiđ	botnjat	 <l pos="V">botnjat</l>
 cahkat:coohâđ	cahkat	 <l pos="V">cahkat</l>
@@ -1735,7 +500,6 @@ njáskat:karsâđ	njáskat
 deavkat:siävŋus	deavkat	 <l pos="A">deavkat</l>
 ruškat:ruškâd	ruškat	 <l pos="A">ruškat</l>
 máŋggabealat:maaŋgâpiälálâš	máŋggabealat	 <l pos="A">máŋggabealat</l>
-beargalat:pergâlâh	beargalat	 <l pos="N">beargalat</l>
 suomagielat:suomâkielâlâš	suomagielat	
 allat:olluv	allat	 <l pos="A">allat</l>
 ballat:poollâđ	ballat	 <l pos="V">ballat</l>
@@ -1768,11 +532,6 @@ fuollat:huollâđ	fuollat
 vuollat:vuollâđ	vuollat	 <l pos="V">vuollat</l>
 cullat:vuáttuđ	cullat	 <l pos="V">cullat</l>
 gullat:kuullâđ	gullat	 <l pos="V">gullat</l>
-juovllat:juovlah	juovllat	 <l pos="N" nr="Pl">juovllat</l>
-állat:njuuvčuálpáš	állat	 <l pos="N">állat</l>
-ruoššaállat:tuodârleivosâš	ruoššaállat	 <l pos="N">ruoššaállat</l>
-johtolat:jotolâh	johtolat	 <l pos="N">johtolat</l>
-johtolat:kiäinu	johtolat	 <l pos="N">johtolat</l>
 guovlat:kuovlâliđ	guovlat	 <l pos="V">guovlat</l>
 biebmat:piemmâđ	biebmat	 <l pos="V">biebmat</l>
 doaibmat:toimâđ	doaibmat	 <l pos="V">doaibmat</l>
@@ -1785,10 +544,8 @@ gopmat:čuákkááttiđ	gopmat	 <l pos="V">gopmat</l>
 oainnat:uáináh	oainnat	 <l pos="Adv">oainnat</l>
 mánnat:mänidiđ	mánnat	 <l pos="V">mánnat</l>
 skoahpat:skovijdiđ	skoahpat	
-rihpat:nisteđ	rihpat	 <l pos="N" nr="Pl">rihpat</l>
 duohpat:tuoppâđ	duohpat	
 luohpat:luoppâđ	luohpat	 <l pos="V">luohpat</l>
-nammaláhpat:nommâloppâ	nammaláhpat	 <l pos="N">nammaláhpat</l>
 birračuohppat:pirrâčuoppâđ	birračuohppat	 <l pos="V">birračuohppat</l>
 čáhppat:čappâd	čáhppat	 <l pos="A">čáhppat</l>
 čáppat:muččâd	čáppat	 <l pos="A">čáppat</l>
@@ -1799,19 +556,15 @@ guorrat:njyebžiđ	guorrat	 <l pos="V">guorrat</l>
 guorrat:njálmádiđ	guorrat	 <l pos="V">guorrat</l>
 árrat:tooláá	árrat	 <l pos="A">árrat</l>
 árrat:ääigild	árrat	 <l pos="A">árrat</l>
-mihcamárat:jonsahpeivi	mihcamárat	 <l pos="N" nr="Pl">mihcamárat</l>
 várrugasat:várugávt	várrugasat	 <l pos="Adv">várrugasat</l>
 golmmaoasat:kulmlonjâsâš	golmmaoasat	
-atnubiktasat:anopihtâseh	atnubiktasat	 <l pos="N" nr="Pl">atnubiktasat</l>
 joksat:juksâđ	joksat	 <l pos="V">joksat</l>
 joksat:juksâđ	joksat	 <l pos="V">joksat</l>
 ruoksat:ruopsâd	ruoksat	 <l pos="A">ruoksat</l>
-badjosat:pajos	badjosat	 <l pos="N" nr="Pl">badjosat</l>
 juosat:kuusnii	juosat	 <l pos="x">juosat</l>
 juosat:kuusnii	juosat	 <l pos="x">juosat</l>
 gissat:stuullâđ	gissat	 <l pos="V">gissat</l>
 lossat:lussâd	lossat	 <l pos="A">lossat</l>
-hirssat:hirssâ	hirssat	 <l pos="N" nr="Pl">hirssat</l>
 ássat:hacâgiđ	ássat	 <l pos="V">ássat</l>
 bázahusat:pasâttâs	bázahusat	
 eanemusat:iänáá	eanemusat	 <l pos="Adv">eanemusat</l>
@@ -1821,24 +574,12 @@ giektat:kieptiđ	giektat	 <l pos="V">giektat</l>
 riektat:riehtis	riektat	 <l pos="A">riektat</l>
 girtat:pallâđ	girtat	 <l pos="V">girtat</l>
 astat:ostâđ	astat	 <l pos="V">astat</l>
-gaccastat:sargâstâh	gaccastat	 <l pos="N">gaccastat</l>
-spiehkastat:spiekâstâh	spiehkastat	 <l pos="N">spiehkastat</l>
-skilleduorastat:skillâtuorâstâh	skilleduorastat	 <l pos="N">skilleduorastat</l>
-heláduorastat:helduvpeivi	heláduorastat	 <l pos="N">heláduorastat</l>
-bivastat:pivâstâh	bivastat	 <l pos="N">bivastat</l>
-geahčastat:kejâstâh	geahčastat	 <l pos="N">geahčastat</l>
-geahčastat:kejâstâh	geahčastat	 <l pos="N">geahčastat</l>
-čurvestat:čuorviistâh	čurvestat	 <l pos="N">čurvestat</l>
-čurvestat:čuorviistâh	čurvestat	 <l pos="N">čurvestat</l>
 duostat:oskeldâttâđ	duostat	 <l pos="V">duostat</l>
 suostat:kuáridiđ	suostat	 <l pos="V">suostat</l>
 gohčostat:sänituálvoo	gohčostat	
 ástat:surgástuđ	ástat	
-lábástat:lávástâh	lábástat	 <l pos="N">lábástat</l>
 časkkástat:čuolâstâh	časkkástat	
-guškkástat:puškolodde	guškkástat	 <l pos="N">guškkástat</l>
 deaivat:kuáhtáđ	deaivat	 <l pos="V">deaivat</l>
-divat:máksu	divat	 <l pos="N">divat</l>
 dulvat:tulvâđ	dulvat	 <l pos="x">dulvat</l>
 searvat:uásálistiđ	searvat	 <l pos="V">searvat</l>
 eanaiduvvat:eennâmluđ	eanaiduvvat	 <l pos="V">eanaiduvvat</l>
@@ -1852,7 +593,6 @@ luonddahuvvat:silloođ	luonddahuvvat	 <l pos="V">luonddahuvvat</l>
 roasmmehuvvat:ruásmuttuđ	roasmmehuvvat	
 asehuvvat:siäggániđ	asehuvvat	 <l pos="x">asehuvvat</l>
 gárihuvvat:vijnáttuđ	gárihuvvat	 <l pos="V">gárihuvvat</l>
-njuvvat:fiindâr	njuvvat	 <l pos="N">njuvvat</l>
 luvvat:kásánittiđ	luvvat	
 nuorasmuvvat:nuorâsmiđ	nuorasmuvvat	 <l pos="V">nuorasmuvvat</l>
 ođasmuvvat:uđâsmiđ	ođasmuvvat	 <l pos="V">ođasmuvvat</l>
@@ -1871,7 +611,6 @@ seastašuvvat:šeštuđ	seastašuvvat
 sodjat_gávvat:kuákkáádiđ	sodjat_gávvat	
 sávvat:tuáivuttiđ	sávvat	 <l pos="V">sávvat</l>
 sávvat:tuáivuđ	sávvat	 <l pos="V">sávvat</l>
-njuozat:njuággá	njuozat	 <l pos="N">njuozat</l>
 rahčat:ruhnođ	rahčat	 <l pos="V">rahčat</l>
 čakčat:čohčuv	čakčat	 <l pos="Adv">čakčat</l>
 čiekčat:čiehčâđ	čiekčat	 <l pos="V">čiekčat</l>
@@ -1889,16 +628,10 @@ eaiggáduššat:omâstiđ	eaiggáduššat	 <l pos="V">eaiggáduššat</l>
 oaffaruššat:uhrediđ	oaffaruššat	 <l pos="V">oaffaruššat</l>
 sniiggáruššat:hánástâllâđ	sniiggáruššat	 <l pos="V">sniiggáruššat</l>
 doaktáruššat:tuáhtáruššâđ	doaktáruššat	 <l pos="V">doaktáruššat</l>
-gáimmežat:kaaimiš	gáimmežat	 <l pos="N">gáimmežat</l>
-beassážat:pessijááh	beassážat	 <l pos="N" nr="Pl">beassážat</l>
 gožžat:kužžâđ	gožžat	 <l pos="V">gožžat</l>
-čeabet:čeve	čeabet	 <l pos="N">čeabet</l>
-sabet:čuoigâmsaaveeh	sabet	 <l pos="N">sabet</l>
 bombet:pommittiđ	bombet	
-gaccet:pyeidicissááš	gaccet	 <l pos="N">gaccet</l>
 čáhccet:tuoppiđ	čáhccet	 <l pos="V">čáhccet</l>
 uminddet:vyeliahasâš	uminddet	 <l pos="A">uminddet</l>
-gálvagorddet:kalvâhuášši	gálvagorddet	 <l pos="N">gálvagorddet</l>
 muddet:čuoldâstiđ	muddet	 <l pos="V">muddet</l>
 muddet:šeštiđ	muddet	 <l pos="V">muddet</l>
 báddet:jienâttiđ	báddet	
@@ -1920,12 +653,10 @@ ráddjet:raijiđ	ráddjet	 <l pos="V">ráddjet</l>
 válljet:sildeđ	válljet	 <l pos="V">válljet</l>
 válljet:valjiđ	válljet	 <l pos="V">válljet</l>
 sávdnjet:savŋiđ	sávdnjet	 <l pos="V">sávdnjet</l>
-eahket:eehid	eahket	 <l pos="N">eahket</l>
 kiiket:kijkkiđ	kiiket	 <l pos="V">kiiket</l>
 čohkket:kuávdásmittiđ	čohkket	 <l pos="V">čohkket</l>
 báhkket:pakkađ	báhkket	 <l pos="V">báhkket</l>
 čáhkket:čahhiđ	čáhkket	
-goikket:sovskaamuv	goikket	 <l pos="N">goikket</l>
 plokket:avrađ	plokket	 <l pos="V">plokket</l>
 dilket:rijváđ	dilket	 <l pos="V">dilket</l>
 vurket:vuorkkiđ	vurket	 <l pos="V">vurket</l>
@@ -1941,30 +672,24 @@ millet:millođ	millet	 <l pos="V">millet</l>
 sillet:silliđ	sillet	 <l pos="x">sillet</l>
 mollet:muttiđ	mollet	
 tullet:tulláđ	tullet	 <l pos="V">tullet</l>
-bulet:puolik	bulet	 <l pos="N">bulet</l>
 skuvlet:škovliđ	skuvlet	 <l pos="V">skuvlet</l>
 russiinávlet:riistânnavliđ	russiinávlet	 <l pos="V">russiinávlet</l>
 málet:mááláđ	málet	 <l pos="V">málet</l>
 filbmet:filmiđ	filbmet	
 dubmet:tuommiđ	dubmet	 <l pos="V">dubmet</l>
 stemmet:jienâstiđ	stemmet	 <l pos="V">stemmet</l>
-ruovdegulmmet:ryevdikuálááš	ruovdegulmmet	 <l pos="N">ruovdegulmmet</l>
 dadnet:tonniđ	dadnet	 <l pos="V">dadnet</l>
 ordnet:rähtiđ	ordnet	 <l pos="V">ordnet</l>
 gudnet:kunniđ	gudnet	 <l pos="V">gudnet</l>
 ivdnet:ivniđ	ivdnet	 <l pos="V">ivdnet</l>
 ávdnet:juullâđ	ávdnet	
-senet:siinap	senet	 <l pos="N">senet</l>
 dinet:tiänáđ	dinet	 <l pos="V">dinet</l>
 mannet:monniđ	mannet	 <l pos="V">mannet</l>
 nannet:nanodiđ	nannet	 <l pos="V">nannet</l>
 nannet:nonniđ	nannet	 <l pos="V">nannet</l>
 njunnet:vävjiđ	njunnet	 <l pos="V">njunnet</l>
-tevnnet:sáárgus	tevnnet	 <l pos="N">tevnnet</l>
-ortnet:iälšu	ortnet	 <l pos="N">ortnet</l>
 pumpet:pumppáđ	pumpet	 <l pos="V">pumpet</l>
 guhppet:kuppáđ	guhppet	 <l pos="V">guhppet</l>
-áppet:apháš	áppet	 <l pos="N">áppet</l>
 eret:meddâl	eret	 <l pos="Adv">eret</l>
 kommanderet:kivriđ	kommanderet	 <l pos="V">kommanderet</l>
 appelleret:keessiđ	appelleret	
@@ -1976,13 +701,11 @@ registreret:registeeriđ	registreret
 illustreret:kuvviđ	illustreret	 <l pos="V">illustreret</l>
 industrialiseret:ráhtálâšvuotâluđ	industrialiseret	
 spesialiseret:spesiaališuđ	spesialiseret	 <l pos="V">spesialiseret</l>
-teret:kepisvahe	teret	 <l pos="N">teret</l>
 dikteret:sánádiđ	dikteret	 <l pos="V">dikteret</l>
 patenteret:patentistiđ	patenteret	 <l pos="V">patenteret</l>
 adopteret:adoptiđ	adopteret	 <l pos="V">adopteret</l>
 aktiveret:aktivistiđ	aktiveret	 <l pos="V">aktiveret</l>
 stuđeret:oppâđ	stuđeret	 <l pos="V">stuđeret</l>
-diret:tirkká	diret	 <l pos="N">diret</l>
 harret:huhkádiđ	harret	 <l pos="V">harret</l>
 nárret:narriđ	nárret	 <l pos="V">nárret</l>
 várret:varriidâttâđ	várret	 <l pos="V">várret</l>
@@ -1992,12 +715,9 @@ skuvret:skuppiđ	skuvret	 <l pos="V">skuvret</l>
 muvret:muvráđ	muvret	
 bokset:čurmâdâttâđ	bokset	 <l pos="V">bokset</l>
 misset:missiđ	misset	 <l pos="V">misset</l>
-hivsset:hyysig	hivsset	 <l pos="N">hivsset</l>
 dásset:tassiđ	dásset	 <l pos="V">dásset</l>
 dásset:tassiđ	dásset	 <l pos="V">dásset</l>
 lásset:lukkâdiđ	lásset	 <l pos="V">lásset</l>
-riehtet:čässih	riehtet	 <l pos="N">riehtet</l>
-kihtet:kettig	kihtet	 <l pos="N">kihtet</l>
 oktet:ohtiđ	oktet	 <l pos="V">oktet</l>
 loktet:ruáđđáđ	loktet	 <l pos="V">loktet</l>
 duktet:sondiđ	duktet	 <l pos="V">duktet</l>
@@ -2005,11 +725,9 @@ fáktet:tarkkuđ	fáktet
 fáktet:vakšuđ	fáktet	
 bestet:pestiđ	bestet	 <l pos="V">bestet</l>
 lástet:kädistiđ	lástet	 <l pos="V">lástet</l>
-ettet:eetik	ettet	 <l pos="N">ettet</l>
 kihttet:taigâđ	kihttet	 <l pos="V">kihttet</l>
 buhttet:sajanmäksiđ	buhttet	
 ruhttet:ruottiđ	ruhttet	 <l pos="V">ruhttet</l>
-rusttet:reiskäppi	rusttet	 <l pos="N">rusttet</l>
 beaivet:peiviv	beaivet	 <l pos="Adv">beaivet</l>
 dálvet:tälviv	dálvet	 <l pos="Adv">dálvet</l>
 spovet:spooviđ	spovet	 <l pos="V">spovet</l>
@@ -2018,8 +736,6 @@ hervet:čiŋâttiđ	hervet	 <l pos="V">hervet</l>
 borvet:talâstiđ	borvet	 <l pos="V">borvet</l>
 govvet:kuvviđ	govvet	 <l pos="V">govvet</l>
 rávvet:avžuuttiđ	rávvet	 <l pos="V">rávvet</l>
-návet:naavit	návet	 <l pos="N">návet</l>
-náđet:luobdâh	náđet	 <l pos="N">náđet</l>
 jeđđet:lohđuttiđ	jeđđet	 <l pos="V">jeđđet</l>
 ráđđet:haldâšiđ	ráđđet	 <l pos="V">ráđđet</l>
 stunžet:ruámččááttiđ	stunžet	 <l pos="V">stunžet</l>
@@ -2243,16 +959,13 @@ nuktalit:nuttâliđ	nuktalit	 <l pos="V">nuktalit</l>
 dáistalit:kámppádâllâđ	dáistalit	 <l pos="V">dáistalit</l>
 dárkilit:tárkká	dárkilit	 <l pos="Adv">dárkilit</l>
 eallit:eelliđ	eallit	 <l pos="V">eallit</l>
-sallit:silde	sallit	 <l pos="N">sallit</l>
 vuolit:vyeleeb	vuolit	 <l pos="A">vuolit</l>
-eamit:eemeed	eamit	 <l pos="N">eamit</l>
 boarásmit:puárásmiđ	boarásmit	
 bieđganit:pieđgâniđ	bieđganit	
 ráhkkanit:valmiđ	ráhkkanit	 <l pos="V">ráhkkanit</l>
 boatkanit:potkâniđ	boatkanit	
 heahpanit:skiämmáđ	heahpanit	 <l pos="V">heahpanit</l>
 unnit:ucceeb	unnit	 <l pos="Adv">unnit</l>
-gávnnit:uáđáduvâh	gávnnit	 <l pos="N" nr="Pl">gávnnit</l>
 bahonit:viärániđ	bahonit	 <l pos="V">bahonit</l>
 ovdánit:otânâššâđ	ovdánit	 <l pos="V">ovdánit</l>
 ovdánit:ovdániđ	ovdánit	 <l pos="V">ovdánit</l>
@@ -2267,9 +980,6 @@ hahppit:skiälguđ	hahppit	 <l pos="V">hahppit</l>
 láhppit:hevâttiđ	láhppit	 <l pos="V">láhppit</l>
 sihkkarit:vissásávt	sihkkarit	 <l pos="Adv">sihkkarit</l>
 báhtarit:patâriđ	báhtarit	 <l pos="V">báhtarit</l>
-guoikgáhrit:kuoškkärigâš	guoikgáhrit	 <l pos="N">guoikgáhrit</l>
-sarrit:sare	sarrit	 <l pos="N">sarrit</l>
-skárrit:skerreeh	skárrit	 <l pos="N" nr="Pl">skárrit</l>
 várit:várádâh	várit	
 lihkkasit:hirmástuđ	lihkkasit	
 notkasit:toppâsiđ	notkasit	 <l pos="V">notkasit</l>
@@ -2389,32 +1099,20 @@ fasttášit:huánášiđ	fasttášit	 <l pos="x">fasttášit</l>
 sordot:vuálániđ	sordot	 <l pos="V">sordot</l>
 duddjot:tussiđ	duddjot	 <l pos="V">duddjot</l>
 dulkot:tulkkuđ	dulkot	 <l pos="V">dulkot</l>
-bolot:naappâl	bolot	 <l pos="N">bolot</l>
-álbmot:aalmug	álbmot	 <l pos="N">álbmot</l>
-álgoálbmot:algâaalmug	álgoálbmot	 <l pos="N">álgoálbmot</l>
-rábmot:máinuđ	rábmot	 <l pos="N">rábmot</l>
-dápmot:veejeeh	dápmot	 <l pos="N">dápmot</l>
-dápmot:vejehâš	dápmot	 <l pos="N">dápmot</l>
 gávdnot:kavnuđ	gávdnot	 <l pos="V">gávdnot</l>
-lánnot:läddilâš	lánnot	 <l pos="N">lánnot</l>
 snahppot:nukkâđ	snahppot	 <l pos="V">snahppot</l>
-oaivegávpot:uáivikaavpug	oaivegávpot	 <l pos="N">oaivegávpot</l>
 ihttot:itteeđ	ihttot	 <l pos="V">ihttot</l>
 dihttot:ihteđ	dihttot	 <l pos="V">dihttot</l>
 heittot:kiähnu	heittot	 <l pos="A">heittot</l>
-nuvttot:njuuppâh	nuvttot	 <l pos="N">nuvttot</l>
 buot:puoh	buot	 <l pos="Adv">buot</l>
 oktiibuot:ohtsis	oktiibuot	 <l pos="Adv">oktiibuot</l>
 duot:tuot	duot	 <l pos="Pron" type="dem">duot</l>
 arvvot:virkkuu	arvvot	
-váđot:mietâmyerji	váđot	 <l pos="N">váđot</l>
 njohcut:kortâstiđ	njohcut	 <l pos="V">njohcut</l>
 lákcut:lahcâluđ	lákcut	 <l pos="V">lákcut</l>
 bindut:njaldeđ	bindut	 <l pos="V">bindut</l>
 šlundut:šlundođ	šlundut	 <l pos="V">šlundut</l>
 stirdut:stergâgiđ	stirdut	
-jáffut:jáávuh	jáffut	 <l pos="N" nr="Pl">jáffut</l>
-nisojáffut:nisujáávvuh	nisojáffut	 <l pos="N">nisojáffut</l>
 oaggut:uágguđ	oaggut	 <l pos="V">oaggut</l>
 šiggut:pelkkiliđ	šiggut	 <l pos="V">šiggut</l>
 duoggut:tuágguđ	duoggut	 <l pos="V">duoggut</l>
@@ -2461,13 +1159,10 @@ fastut:fastođ	fastut	 <l pos="V">fastut</l>
 boastut:puástud	boastut	 <l pos="Adv">boastut</l>
 duostut:tuástuđ	duostut	 <l pos="V">duostut</l>
 ruostut:ruástuđ	ruostut	 <l pos="V">ruostut</l>
-dáhttut:táttuđ	dáhttut	 <l pos="N">dáhttut</l>
 láivut:láivuđ	láivut	 <l pos="V">láivut</l>
 gálvvut:kálvudâh	gálvvut	
 njuozzut:kavliđ	njuozzut	 <l pos="V">njuozzut</l>
 hárčut:hárruđ	hárčut	 <l pos="Adv">hárčut</l>
-muođut:nurde	muođut	 <l pos="N" nr="Pl">muođut</l>
-muođut:nurde	muođut	 <l pos="N" nr="Pl">muođut</l>
 buođđut:puáđđuđ	buođđut	 <l pos="V">buođđut</l>
 buođđut:tovkkâđ	buođđut	 <l pos="V">buođđut</l>
 dikšut:nälistittiđ	dikšut	 <l pos="V">dikšut</l>
@@ -2478,7 +1173,6 @@ ovccát:oovcád	ovccát	 <l pos="A">ovccát</l>
 gávccát:káávcád	gávccát	 <l pos="A">gávccát</l>
 gildát:kukkiđ	gildát	 <l pos="V">gildát</l>
 ceaggát:parfađ	ceaggát	 <l pos="V">ceaggát</l>
-boazoeaiggát:puásuiomâsteijee	boazoeaiggát	 <l pos="N">boazoeaiggát</l>
 dávggát:távgááh	dávggát	
 njálgát:njálgásávt	njálgát	 <l pos="Adv">njálgát</l>
 logát:lovváád	logát	 <l pos="A">logát</l>
@@ -2487,330 +1181,45 @@ sahát:sáhháđ	sahát	 <l pos="V">sahát</l>
 duhát:tuhháát	duhát	 <l pos="Num">duhát</l>
 njealját:niäljád	njealját	 <l pos="A">njealját</l>
 fuobmát:tiäđuštiđ	fuobmát	 <l pos="V">fuobmát</l>
-ámmát:áámmát	ámmát	 <l pos="N">ámmát</l>
 ruodnát:ruonijdiđ	ruodnát	
 vuohppát:vuáppáđ	vuohppát	 <l pos="V">vuohppát</l>
 čurtát:čurttođ	čurtát	 <l pos="V">čurtát</l>
 čuođát:čuáđáád	čuođát	 <l pos="A">čuođát</l>
 náđđát:loommâđ	náđđát	 <l pos="V">náđđát</l>
-šlubbu:šlubbo	šlubbu	 <l pos="N">šlubbu</l>
-sáibu:saibâ	sáibu	 <l pos="N">sáibu</l>
-njáhcu:syeji	njáhcu	 <l pos="N">njáhcu</l>
-bircu:kuđâhâš	bircu	 <l pos="N">bircu</l>
-deaddu:teedâ	deaddu	 <l pos="N">deaddu</l>
-šaddu:heeđâlm	šaddu	 <l pos="N">šaddu</l>
-riddu:riddo	riddu	 <l pos="N">riddu</l>
-uddu:uddo	uddu	 <l pos="N">uddu</l>
-buddu:puddo	buddu	 <l pos="N">buddu</l>
-muddu:muddo	muddu	 <l pos="N">muddu</l>
-suddu:suddo	suddu	 <l pos="N">suddu</l>
-reaidu:tyejipiergâs	reaidu	 <l pos="N">reaidu</l>
-siidu:sijđo	siidu	 <l pos="N">siidu</l>
-ráidu:ráiđu	ráidu	 <l pos="N">ráidu</l>
-govvaráidu:koveráiđu	govvaráidu	 <l pos="N">govvaráidu</l>
-bealdu:piäldu	bealdu	 <l pos="N">bealdu</l>
-dildu:liivzâs	dildu	 <l pos="N">dildu</l>
-hildu:ildee	hildu	 <l pos="N">hildu</l>
-girjehildu:kirjeildee	girjehildu	 <l pos="N">girjehildu</l>
-snáldu:snäldee	snáldu	 <l pos="N">snáldu</l>
-luondu:luándu	luondu	 <l pos="N">luondu</l>
-luondu:luándu	luondu	 <l pos="N">luondu</l>
-gierdu:kiärdu	gierdu	 <l pos="N">gierdu</l>
-gierdu:riegis	gierdu	 <l pos="N">gierdu</l>
-hárdu:ärdee	hárdu	 <l pos="N">hárdu</l>
-bivdu:miäcástem	bivdu	 <l pos="N">bivdu</l>
-bivdu:pivdo	bivdu	 <l pos="N">bivdu</l>
-guollebivdu:kuálástus	guollebivdu	 <l pos="N">guollebivdu</l>
-dovdu:tobdo	dovdu	 <l pos="N">dovdu</l>
-oamedovdu:uámitobdo	oamedovdu	 <l pos="N">oamedovdu</l>
-iešdovdu:jieštobdo	iešdovdu	 <l pos="N">iešdovdu</l>
-rávdu:rávdu	rávdu	 <l pos="N">rávdu</l>
-riifu:rippo	riifu	 <l pos="N">riifu</l>
-duggu:tuggo	duggu	 <l pos="N">duggu</l>
-bággu:pággu	bággu	 <l pos="N">bággu</l>
-nággu:vižže	nággu	 <l pos="N">nággu</l>
-stággu:vuoggâ	stággu	 <l pos="N">stággu</l>
-dieigu:snäldeetähti	dieigu	 <l pos="N">dieigu</l>
-viessoláigu:láigu	viessoláigu	 <l pos="N">viessoláigu</l>
-giellavealgu:kielâviälgu	giellavealgu	 <l pos="N">giellavealgu</l>
-giellavealgu:čyetikielâ	giellavealgu	 <l pos="N">giellavealgu</l>
-ovttasbargu:ovtâspargo	ovttasbargu	 <l pos="N">ovttasbargu</l>
-ruovttubargu:päikkipargo	ruovttubargu	 <l pos="N">ruovttubargu</l>
-goargu:suhânommâ	goargu	 <l pos="N">goargu</l>
-goikebiergu:koškepiärgu	goikebiergu	 <l pos="N">goikebiergu</l>
-spiinnebiergu:šavepiärgu	spiinnebiergu	 <l pos="N">spiinnebiergu</l>
-šleaŋgu:lippo	šleaŋgu	 <l pos="N">šleaŋgu</l>
-háŋgu:háŋgu	háŋgu	 <l pos="N">háŋgu</l>
-ladju:lajo	ladju	 <l pos="N">ladju</l>
-doaibmabidju:toimâ	doaibmabidju	 <l pos="N">doaibmabidju</l>
-njuorjju:nuárju	njuorjju	 <l pos="N">njuorjju</l>
-šillju:šiljo	šillju	 <l pos="N">šillju</l>
-girdišillju:kirdemkieddi	girdišillju	 <l pos="N">girdišillju</l>
-mullju:tuškâ	mullju	 <l pos="N">mullju</l>
 vállju:válju	vállju	 <l pos="x">vállju</l>
-olju:oljo	olju	 <l pos="N">olju</l>
-geađgenjuorju:nuárju	geađgenjuorju	 <l pos="N">geađgenjuorju</l>
-ávju:teeri	ávju	 <l pos="N">ávju</l>
-niehku:naver	niehku	 <l pos="N">niehku</l>
-lohku:lohomeeri	lohku	 <l pos="N">lohku</l>
-áigelohku:äigiloho	áigelohku	 <l pos="N">áigelohku</l>
-boazolohku:puásuiloho	boazolohku	 <l pos="N">boazolohku</l>
-unnitlohku:ucceebloho	unnitlohku	 <l pos="N">unnitlohku</l>
-olmmošlohku:olmoošloho	olmmošlohku	 <l pos="N">olmmošlohku</l>
-háhku:aaigâ	háhku	 <l pos="N">háhku</l>
-vuosteháhku:vuástálistem	vuosteháhku	 <l pos="N">vuosteháhku</l>
-ciiku:cijkko	ciiku	 <l pos="N">ciiku</l>
-goiku:koško	goiku	 <l pos="N">goiku</l>
-ráiku:taajig	ráiku	 <l pos="N">ráiku</l>
-vahkku:okko	vahkku	 <l pos="N">vahkku</l>
-gaskavahkku:koskokko	gaskavahkku	 <l pos="N">gaskavahkku</l>
 ihkku:iho	ihkku	 <l pos="Adv">ihkku</l>
-suohkku:sukká	suohkku	 <l pos="N">suohkku</l>
-ruhkku:rukko	ruhkku	 <l pos="N">ruhkku</l>
-bihpporgáhkku:pippârkákku	bihpporgáhkku	 <l pos="N">bihpporgáhkku</l>
-jáhkku:oskomuš	jáhkku	 <l pos="N">jáhkku</l>
-sáhkku:sákku	sáhkku	 <l pos="N">sáhkku</l>
-vuoskku:vuásku	vuoskku	 <l pos="N">vuoskku</l>
 pikkulaukku:ruttârääsi	pikkulaukku	
 stielku:tiälgu	stielku	
-girku:kirkko	girku	 <l pos="N">girku</l>
-risku:soljo	risku	 <l pos="N">risku</l>
-hilsku:iilâskvalje	hilsku	 <l pos="N">hilsku</l>
 dábálaš_hilsku:šiljoiilâsk	dábálaš_hilsku	
-osku:osko	osku	 <l pos="N">osku</l>
-osku:oskoldâh	osku	 <l pos="N">osku</l>
-joavku:juávkku	joavku	 <l pos="N">joavku</l>
-bargojoavku:pargojuávkku	bargojoavku	 <l pos="N">bargojoavku</l>
-goaŋku:kuáŋkku	goaŋku	 <l pos="N">goaŋku</l>
-báŋku:paŋkki	báŋku	 <l pos="N">báŋku</l>
-ballu:palo	ballu	 <l pos="N">ballu</l>
-eallu:iälu	eallu	 <l pos="N">eallu</l>
-speallu:spellâ	speallu	 <l pos="N">speallu</l>
-doallu:toimâohtâdâh	doallu	 <l pos="N">doallu</l>
-eanandoallu:eennâmtuálu	eanandoallu	 <l pos="N">eanandoallu</l>
-boazodoallu:puásuituálu	boazodoallu	 <l pos="N">boazodoallu</l>
-uksabiellu:uksâkiällu	uksabiellu	 <l pos="N" type="G3">uksabiellu</l>
-fiellu:lyevdi	fiellu	 <l pos="N" type="G3">fiellu</l>
-siellu:siälu	siellu	 <l pos="N">siellu</l>
-illu:ilo	illu	 <l pos="N">illu</l>
-millu:millo	millu	 <l pos="N" type="G3">millu</l>
-duollu:tulli	duollu	 <l pos="N" type="G3">duollu</l>
-stuollu:stovli	stuollu	 <l pos="N">stuollu</l>
-duopmostuollu:tuámustovli	duopmostuollu	 <l pos="N">duopmostuollu</l>
-ullu:ullo	ullu	 <l pos="N" type="G3">ullu</l>
-gullu:kulo	gullu	 <l pos="N">gullu</l>
-šibitdállu:šiiveettáálu	šibitdállu	 <l pos="N">šibitdállu</l>
-gállu:kállu	gállu	 <l pos="N" type="G3">gállu</l>
-stállu:stáálu	stállu	 <l pos="N">stállu</l>
-juovlastállu:juovlâstáálu	juovlastállu	 <l pos="N">juovlastállu</l>
-guovlu:kuávlu	guovlu	 <l pos="N">guovlu</l>
 dálonguovlu:táálunkuávlu	dálonguovlu	
-riddoguovlu:meerâ	riddoguovlu	 <l pos="N">riddoguovlu</l>
-diibmu:tijme	diibmu	 <l pos="N">diibmu</l>
-árbmu:ármu	árbmu	 <l pos="N">árbmu</l>
-gomu:kočâttâh	gomu	 <l pos="N">gomu</l>
-hipmu:himo	hipmu	 <l pos="N">hipmu</l>
-duopmu:tuámu	duopmu	 <l pos="N">duopmu</l>
-juopmu:sälttisyeini	juopmu	 <l pos="N">juopmu</l>
-fápmu:väldi	fápmu	 <l pos="N">fápmu</l>
-jápmu:hiävvu	jápmu	 <l pos="N">jápmu</l>
 eatnangeaidnu:maađij	eatnangeaidnu	
-vázzingeaidnu:jotteemkiäinu	vázzingeaidnu	 <l pos="N">vázzingeaidnu</l>
-oaidnu:uáinu	oaidnu	 <l pos="N">oaidnu</l>
-oaidnu:uáinu	oaidnu	 <l pos="N">oaidnu</l>
-didnu:tinno	didnu	 <l pos="N">didnu</l>
-fidnu:haahâ	fidnu	 <l pos="N">fidnu</l>
-girdnu:kirno	girdnu	 <l pos="N">girdnu</l>
-uvdnu:sieđgâurbe	uvdnu	 <l pos="N">uvdnu</l>
-juovlamánnu:juovlâmáánu	juovlamánnu	 <l pos="N">juovlamánnu</l>
-čakčamánnu:čohčâmáánu	čakčamánnu	 <l pos="N">čakčamánnu</l>
-njukčamánnu:njuhčâmáánu	njukčamánnu	 <l pos="N">njukčamánnu</l>
-suoidnemánnu:syeinimáánu	suoidnemánnu	 <l pos="N">suoidnemánnu</l>
-geassemánnu:kesimáánu	geassemánnu	 <l pos="N">geassemánnu</l>
-rátnu:ráánu	rátnu	 <l pos="N">rátnu</l>
-riehpu:luási	riehpu	 <l pos="N">riehpu</l>
-stohpu:tupe	stohpu	 <l pos="N">stohpu</l>
-rivgovuolpu:rivgoohaamiträäsi	rivgovuolpu	 <l pos="N">rivgovuolpu</l>
-deappu:tiäbbu	deappu	 <l pos="N">deappu</l>
-birasoahppu:pirâsoppâ	birasoahppu	 <l pos="N">birasoahppu</l>
-gihppu:kiästu	gihppu	 <l pos="N">gihppu</l>
-áiru:áiru	áiru	 <l pos="N">áiru</l>
-gearru:kiesâldâh	gearru	 <l pos="N">gearru</l>
-gearru:kiesâldâh	gearru	 <l pos="N">gearru</l>
-skearru:tuálbus	skearru	 <l pos="N">skearru</l>
 jiekŋaskearru:jieŋâskiärru	jiekŋaskearru	
-vearru:viäru	vearru	 <l pos="N">vearru</l>
-skierru:skiärru	skierru	 <l pos="N">skierru</l>
-spierru:uáivádâh	spierru	 <l pos="N">spierru</l>
-árbevierru:ärbivyehi	árbevierru	 <l pos="N">árbevierru</l>
-árbevierru:ärbivyehi	árbevierru	 <l pos="N">árbevierru</l>
-vuorru:vuáru	vuorru	 <l pos="N" type="G3">vuorru</l>
-burru:ergi	burru	 <l pos="N" type="G3">burru</l>
-bárru:pááru	bárru	 <l pos="N">bárru</l>
-bárru:pááru	bárru	 <l pos="N">bárru</l>
-čuru:kiärpáš	čuru	 <l pos="N">čuru</l>
-eavru:iävru	eavru	 <l pos="N">eavru</l>
-fievru:vuájáán	fievru	 <l pos="N">fievru</l>
-nisu:niisu	nisu	 <l pos="N">nisu</l>
-leaksu:liäksu	leaksu	 <l pos="N">leaksu</l>
 losu:loso	losu	 <l pos="Po">losu</l>
-čoahkkáigeassu:čuákánkiäsu	čoahkkáigeassu	 <l pos="N">čoahkkáigeassu</l>
-meassu:messu	meassu	 <l pos="N">meassu</l>
-buohcceviessu:pyecceiviäsu	buohcceviessu	 <l pos="N" vmax="2">buohcceviessu</l>
-geardeviessu:kerditáálu	geardeviessu	 <l pos="N">geardeviessu</l>
-bissu:pisso	bissu	 <l pos="N" type="G3">bissu</l>
-missu:misso	missu	 <l pos="N">missu</l>
-bossu:possooväälis	bossu	 <l pos="N">bossu</l>
-vuossu:vuássoo	vuossu	 <l pos="N">vuossu</l>
-guovssu:kuávsui	guovssu	 <l pos="N">guovssu</l>
-árbediehtu:ärbitiätu	árbediehtu	 <l pos="N">árbediehtu</l>
-johtu:joto	johtu	 <l pos="N">johtu</l>
-johtu:jotteem	johtu	 <l pos="N">johtu</l>
-rohtu:roto	rohtu	 <l pos="N">rohtu</l>
-muohtu:nierâ	muohtu	 <l pos="N">muohtu</l>
-gáhtu:katâmâš	gáhtu	 <l pos="N">gáhtu</l>
-láhtu:láátu	láhtu	 <l pos="N">láhtu</l>
-niitu:nijtto	niitu	 <l pos="N">niitu</l>
-vuoitu:vuáittu	vuoitu	 <l pos="N">vuoitu</l>
-muitu:mušto	muitu	 <l pos="N">muitu</l>
-muitu:mušto	muitu	 <l pos="N">muitu</l>
-málesruitu:kiemni	málesruitu	 <l pos="N">málesruitu</l>
-eaktu:iähtu	eaktu	 <l pos="N">eaktu</l>
-eaktu:várádâs	eaktu	 <l pos="N">eaktu</l>
-ruoktu:päikki	ruoktu	 <l pos="N">ruoktu</l>
-buktu:pyehtim	buktu	 <l pos="N">buktu</l>
-fiertu:fiärttu	fiertu	 <l pos="N">fiertu</l>
-spártu:njamauáiváš	spártu	 <l pos="N">spártu</l>
-leastu:liästu	leastu	 <l pos="N">leastu</l>
-bistu:pištem	bistu	 <l pos="N">bistu</l>
-gistu:kisto	gistu	 <l pos="N">gistu</l>
-hiistu:viätu	hiistu	 <l pos="N">hiistu</l>
-listu:listo	listu	 <l pos="N">listu</l>
-áššelistu:äššilisto	áššelistu	 <l pos="N">áššelistu</l>
-fástu:vástu	fástu	 <l pos="N">fástu</l>
-lahttu:jeessân	lahttu	 <l pos="N">lahttu</l>
-lahttu:jeessân	lahttu	 <l pos="N">lahttu</l>
-doahttu:tuáttu	doahttu	 <l pos="N">doahttu</l>
-roahttu:rotto	roahttu	 <l pos="N">roahttu</l>
-lihttu:litto	lihttu	 <l pos="N">lihttu</l>
-suhttu:vaje	suhttu	 <l pos="N">suhttu</l>
-láhttu:lättee	láhttu	 <l pos="N">láhttu</l>
-láttu:láddu	láttu	 <l pos="N">láttu</l>
-láttu:láddu	láttu	 <l pos="N">láttu</l>
-sáttu:vuodâs	sáttu	 <l pos="N">sáttu</l>
-sáttu:čunoi	sáttu	 <l pos="N">sáttu</l>
 mutu:vollâsâš	mutu	
-gilvu:kištottâllâm	gilvu	 <l pos="N">gilvu</l>
-gávpegálvu:kävppikálvu	gávpegálvu	 <l pos="N">gávpegálvu</l>
-dorvu:torvo	dorvu	 <l pos="N">dorvu</l>
-nuorvu:nuárvui	nuorvu	 <l pos="N">nuorvu</l>
-lurvu:sappe	lurvu	 <l pos="N">lurvu</l>
-árvu:árvu	árvu	 <l pos="N">árvu</l>
 gaskaárvu:koskâárvu	gaskaárvu	
-dásseárvu:täsiárvu	dásseárvu	 <l pos="N">dásseárvu</l>
-veahkkeneavvu:išeniävvu	veahkkeneavvu	 <l pos="N">veahkkeneavvu</l>
-lávvu:láávu	lávvu	 <l pos="N">lávvu</l>
-duohčču:šiäštu	duohčču	 <l pos="N">duohčču</l>
-šleađđu:tuolbâdâs	šleađđu	 <l pos="N">šleađđu</l>
-boađđu:kárgu	boađđu	 <l pos="N">boađđu</l>
-gođđu:kođo	gođđu	 <l pos="N">gođđu</l>
-nođđu:uáivát	nođđu	 <l pos="N">nođđu</l>
-vuođđu:vuáđudâs	vuođđu	 <l pos="N">vuođđu</l>
 eananvuođđu:eennâm	eananvuođđu	
-dikšu:tipšo	dikšu	 <l pos="N" type="NomAg">dikšu</l>
-ákšu:ákšu	ákšu	 <l pos="N">ákšu</l>
-boaššu:puáššu	boaššu	 <l pos="N">boaššu</l>
-geaŧŧu:kiähtu	geaŧŧu	 <l pos="N">geaŧŧu</l>
-goaŧŧu:kuáhtu	goaŧŧu	 <l pos="N">goaŧŧu</l>
-čoavžžu:čiävžui	čoavžžu	 <l pos="N">čoavžžu</l>
-stuorračoavžžu:stuorrâčiävžui	stuorračoavžžu	 <l pos="N">stuorračoavžžu</l>
-ruksesjuolčoavžžu:ruopsisjyelgčiävžui	ruksesjuolčoavžžu	 <l pos="N">ruksesjuolčoavžžu</l>
-reabbá:rapu	reabbá	 <l pos="N">reabbá</l>
-oabbá:uábbi	oabbá	 <l pos="N">oabbá</l>
-oabbá:uábbi	oabbá	 <l pos="N">oabbá</l>
 goabbá:kuábbáš	goabbá	 <l pos="Pron" type="Rel">goabbá</l>
-gobbá:koppakuorijâš	gobbá	 <l pos="N">gobbá</l>
-guoddá:madrâs	guoddá	 <l pos="N">guoddá</l>
-fáddá:fáddá	fáddá	 <l pos="N">fáddá</l>
-gieldá:kuolbâfiskispáinu	gieldá	 <l pos="N">gieldá</l>
-beatnatgieldá:kaasirääsi	beatnatgieldá	 <l pos="N">beatnatgieldá</l>
-lággá:sojopoccee	lággá	 <l pos="N">lággá</l>
-sahá:sááhá	sahá	 <l pos="N">sahá</l>
 já:jáá	já	 <l pos="Interj">já</l>
-áddjá:äčivâš	áddjá	 <l pos="N">áddjá</l>
-muohtaáddjá:muotâäijih	muohtaáddjá	 <l pos="N">muohtaáddjá</l>
-lilljá:liljá	lilljá	 <l pos="N">lilljá</l>
-čuonjá:čuánjá	čuonjá	 <l pos="N">čuonjá</l>
-gálbbenjunčuonjá:vielgisnierčuánjá	gálbbenjunčuonjá	 <l pos="N">gálbbenjunčuonjá</l>
-garjá:vuorâččâs	garjá	 <l pos="N">garjá</l>
-historjá:historjá	historjá	 <l pos="N">historjá</l>
-historjá:maainâs	historjá	 <l pos="N">historjá</l>
-bohkká:pokkâ	bohkká	 <l pos="N">bohkká</l>
-luohkká:luákká	luohkká	 <l pos="N">luohkká</l>
-guhkká:piättárrääsi	guhkká	 <l pos="N">guhkká</l>
-gáhkká:čalmemane	gáhkká	 <l pos="N">gáhkká</l>
-mohtorgielká:skootter	mohtorgielká	 <l pos="N">mohtorgielká</l>
-gilká:tivgâ	gilká	 <l pos="N">gilká</l>
-bálká:pälkki	bálká	 <l pos="N">bálká</l>
-mierká:miärkká	mierká	 <l pos="N">mierká</l>
-vuorká:tiätuvuárkká	vuorká	 <l pos="N">vuorká</l>
-vuorká:vuárkká	vuorká	 <l pos="N">vuorká</l>
-butká:putká	butká	 <l pos="N">butká</l>
-luŋká:luŋkká	luŋká	 <l pos="N">luŋká</l>
 váŋká:väŋkki	váŋká	 <l pos="A">váŋká</l>
-guolbmá:porge	guolbmá	 <l pos="N">guolbmá</l>
-horbmá:kievânjuolâs	horbmá	 <l pos="N">horbmá</l>
-hommá:hommá	hommá	 <l pos="N">hommá</l>
-dámmá:tamma	dámmá	 <l pos="N">dámmá</l>
-básmá:pálkku	básmá	 <l pos="N">básmá</l>
-skuordná:njuálcci	skuordná	 <l pos="N">skuordná</l>
 otná:onnáš	otná	 <l pos="A">otná</l>
-čátná:suáhikuobâr	čátná	 <l pos="N">čátná</l>
-šliipá:tákku	šliipá	 <l pos="N">šliipá</l>
-knáhppá:kuppá	knáhppá	 <l pos="N">knáhppá</l>
-hárpá:harppu	hárpá	 <l pos="N">hárpá</l>
-váravárpá:kuorgâtooŋâs	váravárpá	 <l pos="N">váravárpá</l>
 eará:eres	eará	 <l pos="Pron" type="Indef">eará</l>
 eará:eres	eará	 <l pos="Pron" type="Indef">eará</l>
-hearrá:hiärrá	hearrá	 <l pos="N">hearrá</l>
 girkohearrá:kirkkohiärrá	girkohearrá	
-širrá:puŋkki	širrá	 <l pos="N">širrá</l>
-širrá:sahe	širrá	 <l pos="N">širrá</l>
-stárrá:ruškistiäbbu	stárrá	 <l pos="N">stárrá</l>
-gáisá:väričokke	gáisá	 <l pos="N">gáisá</l>
-ráksá:ráksá	ráksá	 <l pos="N">ráksá</l>
-vársá:vársá	vársá	 <l pos="N">vársá</l>
-ruktá:lasâčalme	ruktá	 <l pos="N">ruktá</l>
-tealtá:teltta	tealtá	 <l pos="N">tealtá</l>
 rastá:rasta	rastá	 <l pos="Adv">rastá</l>
-bálstá:pálstá	bálstá	 <l pos="N">bálstá</l>
-vuostá:vuástá	vuostá	 <l pos="N">vuostá</l>
 ovddimustá:tolemužžân	ovddimustá	 <l pos="Adv">ovddimustá</l>
 meattá:lappâd	meattá	 <l pos="Adv">meattá</l>
 vealttakeahttá:veltihánnáá	vealttakeahttá	 <l pos="Adv">vealttakeahttá</l>
 ánssáškeahttá:áánsášmettum	ánssáškeahttá	 <l pos="A">ánssáškeahttá</l>
 ihttá:ittáš	ihttá	 <l pos="A">ihttá</l>
-bargobihttá:hárjuttâs	bargobihttá	 <l pos="N">bargobihttá</l>
 nuvttá:nuuvtá	nuvttá	 <l pos="Adv">nuvttá</l>
 nuvttá:nuuvtá	nuvttá	 <l pos="Adv">nuvttá</l>
-roavvá:rovvá	roavvá	 <l pos="N">roavvá</l>
-buđđá:kuolâpursâ	buđđá	 <l pos="N">buđđá</l>
-haŋŋá:áŋálâh	haŋŋá	 <l pos="N">haŋŋá</l>
-liššá:liššá	liššá	 <l pos="N">liššá</l>
-guvžá:merâkuávžur	guvžá	 <l pos="N">guvžá</l>
 ristissä:ruossâlâs	ristissä	
 löyhkäävä:haijii	löyhkäävä	
 hedelmöityä:šohânuđ	hedelmöityä	
 sykertyä:šnárkkuđ	sykertyä	
 jännittyä:jiärástuđ	jännittyä	
-nieiddaš:nieidâš	nieiddaš	 <l pos="N">nieiddaš</l>
 iđidaš:iiđeedlâš	iđidaš	 <l pos="A">iđidaš</l>
-várjjagaš:varjâgâš	várjjagaš	 <l pos="N">várjjagaš</l>
 vuollegaš:vyeligâš	vuollegaš	 <l pos="A">vuollegaš</l>
-jogaš:aajâ	jogaš	 <l pos="N">jogaš</l>
-rogaš:ruuvâš	rogaš	 <l pos="N">rogaš</l>
-vuojaš:vuonjâš	vuojaš	 <l pos="N">vuojaš</l>
-bihkaš:piihâš	bihkaš	 <l pos="N">bihkaš</l>
 dáiddalaš:taiđâlâš	dáiddalaš	 <l pos="A">dáiddalaš</l>
 jurddalaš:juurdâlâš	jurddalaš	 <l pos="A">jurddalaš</l>
 islándalaš:islandlâš	islándalaš	
@@ -2867,12 +1276,9 @@ vuoiŋŋalaš:vuoiŋâlâš	vuoiŋŋalaš	 <l pos="A">vuoiŋŋalaš</l>
 gillilaš:sijdâolmooš	gillilaš	
 eatnanlaš:eennâmlâš	eatnanlaš	 <l pos="A">eatnanlaš</l>
 báhkinlaš:päähinlâš	báhkinlaš	
-árbbolaš:árbálâš	árbbolaš	 <l pos="N">árbbolaš</l>
 gelddolaš:jiäráskittee	gelddolaš	 <l pos="A">gelddolaš</l>
 lunddolaš:luándulâš	lunddolaš	 <l pos="A">lunddolaš</l>
 dovddolaš:tobdolâš	dovddolaš	 <l pos="A">dovddolaš</l>
-láigolaš:láigulâš	láigolaš	 <l pos="N">láigolaš</l>
-gárgolaš:kárgulâš	gárgolaš	 <l pos="N">gárgolaš</l>
 vejolaš:máhđulâš	vejolaš	 <l pos="A">vejolaš</l>
 čujolaš:čyeijil	čujolaš	 <l pos="A">čujolaš</l>
 guhkolaš:kuheldâlâšjuurbâs	guhkolaš	
@@ -2890,7 +1296,6 @@ evttolaš:iävtulâš	evttolaš	 <l pos="A">evttolaš</l>
 govttolaš:kuáhtulâš	govttolaš	 <l pos="A">govttolaš</l>
 govttolaš:mávsulâš	govttolaš	 <l pos="A">govttolaš</l>
 áigáiheivvolaš:äigihiäivulâš	áigáiheivvolaš	
-vašolaš:vajalâš	vašolaš	 <l pos="N">vašolaš</l>
 keaisárlaš:kiäisárlâš	keaisárlaš	 <l pos="A">keaisárlaš</l>
 gonagaslaš:kunâgâslâš	gonagaslaš	 <l pos="A">gonagaslaš</l>
 ávnnaslaš:aamnâslâš	ávnnaslaš	 <l pos="A">ávnnaslaš</l>
@@ -2915,7 +1320,6 @@ almmálaš:almalâš	almmálaš	 <l pos="A">almmálaš</l>
 ovttaivnnálaš:oovtâivnásâš	ovttaivnnálaš	
 gávppálaš:kávpálâš	gávppálaš	 <l pos="A">gávppálaš</l>
 badjelmearálaš:čovvâttâs	badjelmearálaš	
-spihtálaš:spiitaallâš	spihtálaš	 <l pos="N">spihtálaš</l>
 eanangottálaš:eennâmkoddálâš	eanangottálaš	
 beaivválaš:jyehipiäiválâš	beaivválaš	 <l pos="A">beaivválaš</l>
 beaivválaš:piäiválâš	beaivválaš	 <l pos="A">beaivválaš</l>
@@ -2923,15 +1327,7 @@ beaivválaš:piäiválâš	beaivválaš	 <l pos="A">beaivválaš</l>
 oaččálaš:uážálâš	oaččálaš	 <l pos="A">oaččálaš</l>
 rumašlaš:ruumâšlâš	rumašlaš	 <l pos="A">rumašlaš</l>
 imaš:iimâš	imaš	 <l pos="A">imaš</l>
-gearpmaš:kyevdi	gearpmaš	 <l pos="N">gearpmaš</l>
-rumaš:ruumâš	rumaš	 <l pos="N">rumaš</l>
 hárvenaš:härvinâš	hárvenaš	 <l pos="A">hárvenaš</l>
-gaccepaš:sämicissááš	gaccepaš	 <l pos="N">gaccepaš</l>
-cizopaš:čabivuávláš	cizopaš	 <l pos="N">cizopaš</l>
-bearaš:peerâ	bearaš	 <l pos="N">bearaš</l>
-moraš:muurâš	moraš	 <l pos="N">moraš</l>
-návrraš:naavrâs	návrraš	 <l pos="N">návrraš</l>
-anáraš:anarâš	anáraš	 <l pos="N">anáraš</l>
 gaskaboddasaš:koskâpuddâsâš	gaskaboddasaš	 <l pos="A">gaskaboddasaš</l>
 -gaskasaš:koskâsâš	-gaskasaš	
 riikkaidgaskasaš:almugijkoskâsâš	riikkaidgaskasaš	 <l pos="A">riikkaidgaskasaš</l>
@@ -2963,52 +1359,19 @@ miellagiddevaš:mielâkiddiivâš	miellagiddevaš	 <l pos="A">miellagiddevaš</l
 vuordevaš:tuoivâlâš	vuordevaš	 <l pos="A">vuordevaš</l>
 ádelii_gullevaš:aatellâš	ádelii_gullevaš	
 dearvvaš:tiervâslâš	dearvvaš	 <l pos="A">dearvvaš</l>
-geađaš:kiäđááš	geađaš	 <l pos="N">geađaš</l>
-lageš:laajiš	lageš	 <l pos="N">lageš</l>
-njelješ:niäljáš	njelješ	 <l pos="N">njelješ</l>
-jumeš:jyemehâš	jumeš	 <l pos="N">jumeš</l>
-ovtteš:oovtâš	ovtteš	 <l pos="N">ovtteš</l>
-guvtteš:kuávtáš	guvtteš	 <l pos="N">guvtteš</l>
-guđeš:kuuđâš	guđeš	 <l pos="N">guđeš</l>
-rávgoš:ravgâ	rávgoš	 <l pos="N">rávgoš</l>
 dološ:toovláš	dološ	 <l pos="A">dološ</l>
 čázevuloš:čääsivuálááš	čázevuloš	
 eatnanvuloš:eennâmvuálááš	eatnanvuloš	
 áitatvuloš:uhkevuálásâš	áitatvuloš	
-olmmoš:persovn	olmmoš	 <l pos="N">olmmoš</l>
-ovdaolmmoš:hovdâ	ovdaolmmoš	 <l pos="N">ovdaolmmoš</l>
-virgeolmmoš:virgealmai	virgeolmmoš	 <l pos="N">virgeolmmoš</l>
 gávpotolmmoš:kaavpuglâš	gávpotolmmoš	
-derpmoš:termispáálváš	derpmoš	 <l pos="N">derpmoš</l>
 lagamuš:aldemuš	lagamuš	 <l pos="A">lagamuš</l>
-viggamuš:viggâmuš	viggamuš	 <l pos="N">viggamuš</l>
 siskkimuš:siskelâš	siskkimuš	
-boahtimuš:puáttim	boahtimuš	 <l pos="N">boahtimuš</l>
-čuovvumuš:čuávumuš	čuovvumuš	 <l pos="N">čuovvumuš</l>
-boaldámuš:puáldámuš	boaldámuš	 <l pos="N">boaldámuš</l>
-vuordámuš:vuordâ	vuordámuš	 <l pos="N">vuordámuš</l>
-cealkámuš:ciälkkámuš	cealkámuš	 <l pos="N">cealkámuš</l>
 oaidnámuš:keejâdmâš	oaidnámuš	
 atnámuš:anamâš	atnámuš	
-máksámuš:máksámâš	máksámuš	 <l pos="N">máksámuš</l>
-luohttámuš:luáttámuš	luohttámuš	 <l pos="N">luohttámuš</l>
-eahpeluohttámuš:epiluáttámuš	eahpeluohttámuš	 <l pos="N">eahpeluohttámuš</l>
 guovddáš:kuávdáš	guovddáš	 <l pos="A">guovddáš</l>
 guovddáš:kuávdáš	guovddáš	 <l pos="A">guovddáš</l>
-giellaguovddáš:kielâkuávdáš	giellaguovddáš	 <l pos="N">giellaguovddáš</l>
-dearvvašvuođaguovddáš:tiervâsvuođâkuávdáš	dearvvašvuođaguovddáš	 <l pos="N">dearvvašvuođaguovddáš</l>
-duogáš:tuávváš	duogáš	 <l pos="N">duogáš</l>
-girjjáš:kirjááš	girjjáš	 <l pos="N">girjjáš</l>
-láskkáš:laskijâš	láskkáš	 <l pos="N">láskkáš</l>
-aláš:ase	aláš	 <l pos="N">aláš</l>
 dáláš:táálááš	dáláš	 <l pos="A">dáláš</l>
 earenoamáš:áinoošlajâsâš	earenoamáš	 <l pos="A">earenoamáš</l>
 erenoamáš:epitáválâš	erenoamáš	 <l pos="A">erenoamáš</l>
 erenomáš:eromâš	erenomáš	 <l pos="A">erenomáš</l>
 dássáš:táássáš	dássáš	 <l pos="A">dássáš</l>
-bovttáš:poovtâš	bovttáš	 <l pos="N">bovttáš</l>
-cizáš:uccâloddááš	cizáš	 <l pos="N">cizáš</l>
-giegacizáš:kievâpottâsikkoo	giegacizáš	 <l pos="N">giegacizáš</l>
-fiskescizáš:fiskispešnirihhááš	fiskescizáš	 <l pos="N">fiskescizáš</l>
-rievssatcizáš:alkkuuvsâš	rievssatcizáš	 <l pos="N">rievssatcizáš</l>
-saŋáš:saaŋaaš	saŋáš	 <l pos="N">saŋáš</l>
