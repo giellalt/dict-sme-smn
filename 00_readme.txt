@@ -27,3 +27,7 @@ link_check>g 'yyy' suomen-sanomalehtikielen-taajuussanasto_l_t.txt|g -v 'xxx'|g 
 link_check>g -v 'yyy' suomen-sanomalehtikielen-taajuussanasto_l_t.txt|g -v 'xxx'|g -v erisnimi |c
     2714
 
+Ergo: 
+   -from the 8044 most frequent fin lemma (modulo proper nouns),
+    there are 5330 lacking in our overlap list.
+
