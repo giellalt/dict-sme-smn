@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
    <e>
-      <sme>Ađđančieskanjávri, -johka</sme>
-      <smn>Oođâčieskâmjävri, -juuhâ</smn>
+      <sme>Ađđančieskanjohka</sme>
+      <smn>Oođâčieskâmjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Ađđančieskanjávri</sme>
+      <smn>Oođâčieskâmjävri</smn>
    </e>
    <e>
       <sme>Allamaras</sme>
@@ -21,8 +25,24 @@
       <smn>Almedvuástluohtâ</smn>
    </e>
    <e>
-      <sme>Anár, Anárjávri, -márkan, -johka, -skuvla</sme>
-      <smn>Aanaar, Aanaarjävri, -markkân, -juuhâ, -škovlâ</smn>
+      <sme>Anár</sme>
+      <smn>Aanaar</smn>
+   </e>
+   <e>
+      <sme>Anárjávri</sme>
+      <smn>Aanaarjävri</smn>
+   </e>
+   <e>
+      <sme>Anármárkan</sme>
+      <smn>Aanaarmarkkân</smn>
+   </e>
+   <e>
+      <sme>Anárjohka</sme>
+      <smn>Aanaarjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Anárskuvla</sme>
+      <smn>Aanaarškovlâ</smn>
    </e>
    <e>
       <sme>Anárašbákti</sme>
@@ -41,15 +61,23 @@
       <smn>Anarâšsuánju</smn>
    </e>
    <e>
-      <sme>Avviljohka, -skáidi</sme>
-      <smn>Avveeljuuhâ, -skäiđi</smn>
+      <sme>Avviljohka</sme>
+      <smn>Avveeljuuhâ</smn>
+   </e>
+   <e>
+      <sme>Avvilskáidi</sme>
+      <smn>Avveelskäiđi</smn>
    </e>
    <e>
       <sme>Avvil-Máhtte</sme>
       <smn>Avveel-Matti</smn>
    </e>
    <e>
-      <sme>Avvilskáidi ~ Avviskáidi</sme>
+      <sme>Avvilskáidi</sme>
+      <smn>Avveelskäiđi</smn>
+   </e>
+   <e>
+      <sme>Avviskáidi</sme>
       <smn>Avveelskäiđi</smn>
    </e>
    <e>
@@ -73,8 +101,16 @@
       <smn>Áhujävri</smn>
    </e>
    <e>
-      <sme>Áhppesduoddarat, -jávri, -johka</sme>
-      <smn>Äpistuoddâreh, -jävri, -juuhâ</smn>
+      <sme>Áhppesduoddarat</sme>
+      <smn>Äpistuoddâreh</smn>
+   </e>
+   <e>
+      <sme>Áhppesjávri</sme>
+      <smn>Äpisjävri</smn>
+   </e>
+   <e>
+      <sme>Áhppesjohka</sme>
+      <smn>Äpisjuuhâ</smn>
    </e>
    <e>
       <sme>Áhppessavvon</sme>
@@ -109,8 +145,16 @@
       <smn>Äittuáivih</smn>
    </e>
    <e>
-      <sme>Ákšojávri, -járjohka, -várri</sme>
-      <smn>Ákšujävri, -juuhâ, -vääri</smn>
+      <sme>Ákšojávri</sme>
+      <smn>Ákšujävri</smn>
+   </e>
+   <e>
+      <sme>Ákšojárjohka</sme>
+      <smn>Ákšujuuhâ</smn>
+   </e>
+   <e>
+      <sme>Ákšojárvárri</sme>
+      <smn>Ákšuvääri</smn>
    </e>
    <e>
       <sme>Állevuohčču</sme>
@@ -137,12 +181,24 @@
       <smn>Áddáápohe</smn>
    </e>
    <e>
-      <sme>Ávlejávrrit, -johka, -luobbalat</sme>
-      <smn>Ävlijäävrih, -juuhâ, -luobbâleh</smn>
+      <sme>Ávlejávrrit</sme>
+      <smn>Ävlijäävrih</smn>
    </e>
    <e>
-      <sme>Ávžegašjávri, -oaivi</sme>
-      <smn>Ävžikešjävri, -uáivi</smn>
+      <sme>Ávlejohka</sme>
+      <smn>Ävlijuuhâ</smn>
+   </e>
+   <e>
+      <sme>Ávleluobbalat</sme>
+      <smn>Ävliluobbâleh</smn>
+   </e>
+   <e>
+      <sme>Ávžegašjávri</sme>
+      <smn>Ävžikešjävri</smn>
+   </e>
+   <e>
+      <sme>Ávžegašoaivi</sme>
+      <smn>Ävžikešuáivi</smn>
    </e>
    <e>
       <sme>Badjejávri</sme>
@@ -173,12 +229,32 @@
       <smn>Porttâkäldee pygálusäiđi</smn>
    </e>
    <e>
-      <sme>Basášjávri, -johka, -luoppal, -oaivvit</sme>
-      <smn>Passaašjävri, -juuhâ, -luobâl, -uáivih</smn>
+      <sme>Basášjávri</sme>
+      <smn>Passaašjävri</smn>
    </e>
    <e>
-      <sme>Bassinjogaš, -čielgi, -jávrráš</sme>
-      <smn>Paššeemjuuvâš, -čielgi, -jáávráš</smn>
+      <sme>Basášjohka</sme>
+      <smn>Passaašjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Basášluoppal</sme>
+      <smn>Passaašluobâl</smn>
+   </e>
+   <e>
+      <sme>Basášoaivvit</sme>
+      <smn>Passaašuáivih</smn>
+   </e>
+   <e>
+      <sme>Bassinjogaš</sme>
+      <smn>Paššeemjuuvâš</smn>
+   </e>
+   <e>
+      <sme>Bassinčielgi</sme>
+      <smn>Paššeemčielgi</smn>
+   </e>
+   <e>
+      <sme>Bassinjávrráš</sme>
+      <smn>Paššeemjáávráš</smn>
    </e>
    <e>
       <sme>Bastajohka</sme>
@@ -269,8 +345,12 @@
       <smn>Piättâr Mattii kieddi</smn>
    </e>
    <e>
-      <sme>Bielloláhppinávži, -čopma</sme>
-      <smn>Kiälluläppimävži, -čummâ</smn>
+      <sme>Bielloláhppinávži</sme>
+      <smn>Kiälluläppimävži</smn>
+   </e>
+   <e>
+      <sme>Bielloláhppinčopma</sme>
+      <smn>Kiälluläppimčummâ</smn>
    </e>
    <e>
       <sme>Biergevárri, -várjávrrit, várjeaggi</sme>
@@ -281,7 +361,11 @@
       <smn>Piärguláddu</smn>
    </e>
    <e>
-      <sme>Biesjohka ~ Besjohka</sme>
+      <sme>Biesjohka</sme>
+      <smn>Piesjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Besjohka</sme>
       <smn>Piesjuuhâ</smn>
    </e>
    <e>
@@ -349,8 +433,20 @@
       <smn>Puárisvääri</smn>
    </e>
    <e>
-      <sme>Boaskejohka, -jogamohkki, -várri, -várjávri</sme>
-      <smn>Puáskijuuhâ, -juvmokke, -vääri já -värjävri</smn>
+      <sme>Boaskejohka</sme>
+      <smn>Puáskijuuhâ</smn>
+   </e>
+   <e>
+      <sme>Boaskejogamohkki</sme>
+      <smn>Puáskijuvmokke</smn>
+   </e>
+   <e>
+      <sme>Boaskevárri</sme>
+      <smn>Puáskivääri</smn>
+   </e>
+   <e>
+      <sme>Boaskevárjávri</sme>
+      <smn>Puáskivärjävri</smn>
    </e>
    <e>
       <sme>Boasttobelluoppal, -čohkka</sme>
@@ -393,8 +489,12 @@
       <smn>Pyeidispuškojáávráš</smn>
    </e>
    <e>
-      <sme>Buolmátjávri, -johka</sme>
-      <smn>Puálmágjävri, -juuhâ</smn>
+      <sme>Buolmátjávri</sme>
+      <smn>Puálmágjävri</smn>
+   </e>
+   <e>
+      <sme>Buolmátjohka</sme>
+      <smn>Puálmágjuuhâ</smn>
    </e>
    <e>
       <sme>Buolláneatnanlássáš</sme>
@@ -421,8 +521,12 @@
       <smn>Puolžâpotkânâmjävri</smn>
    </e>
    <e>
-      <sme>Buolžaluokta, -njárga</sme>
-      <smn>Puolžâluohtâ, -njargâ</smn>
+      <sme>Buolžaluokta</sme>
+      <smn>Puolžâluohtâ</smn>
+   </e>
+   <e>
+      <sme>Buolžanjárga</sme>
+      <smn>Puolžânjargâ</smn>
    </e>
    <e>
       <sme>Buolžžat</sme>
@@ -441,8 +545,12 @@
       <smn>Cavanjargâ</smn>
    </e>
    <e>
-      <sme>Cieskul, Cieskuljohka</sme>
-      <smn>Cieskul, Cieskuljuuhâ</smn>
+      <sme>Cieskul</sme>
+      <smn>Cieskul</smn>
+   </e>
+   <e>
+      <sme>Cieskuljohka</sme>
+      <smn>Cieskuljuuhâ</smn>
    </e>
    <e>
       <sme>Cissadanjávri</sme>
@@ -505,16 +613,28 @@
       <smn>Čiermihvääri</smn>
    </e>
    <e>
-      <sme>Čeavetjávri, -čuodjá, -njárga</sme>
-      <smn>Čevetjävri, -jävrčuájá, -njargâ</smn>
+      <sme>Čeavetjávri</sme>
+      <smn>Čevetjävri</smn>
    </e>
    <e>
-      <sme>Čeavrresjogaš, -luobbalat</sme>
-      <smn>Čevrisjuuvâš, -luobbâleh</smn>
+      <sme>Čeavetčuodjá</sme>
+      <smn>Čevetjävrčuájá</smn>
+   </e>
+   <e>
+      <sme>Čeavetnjárga</sme>
+      <smn>Čevetnjargâ</smn>
+   </e>
+   <e>
+      <sme>Čeavrresjogaš</sme>
+      <smn>Čevrisjuuvâš</smn>
+   </e>
+   <e>
+      <sme>Čeavrresluobbalat</sme>
+      <smn>Čevrisluobbâleh</smn>
    </e>
    <e>
       <sme>Čiekŋalisjávri</sme>
-      <smn>Čieŋ(ŋ)âlisjävri</smn>
+      <smn>Čieŋâlisjävri</smn>
    </e>
    <e>
       <sme>Čiekŋalisluokta</sme>
@@ -533,20 +653,32 @@
       <smn>Čievčâjävri</smn>
    </e>
    <e>
-      <sme>Čivttajohka, -mohkkejávri, -roavvi</sme>
-      <smn>Čivtjuuhâ, -mokkjävri, -ruávi</smn>
+      <sme>Čivttajohka</sme>
+      <smn>Čivtjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Čivttamohkkejávri</sme>
+      <smn>Čivtmokkjävri</smn>
+   </e>
+   <e>
+      <sme>Čivttaroavvi</sme>
+      <smn>Čivtruávi</smn>
    </e>
    <e>
       <sme>Čoađginjávri</sme>
       <smn>Čuáđgijävri</smn>
    </e>
    <e>
-      <sme>Čoalmmájávri, -várri</sme>
-      <smn>Čuálmáájävri, -vääri</smn>
+      <sme>Čoalmmájávri</sme>
+      <smn>Čuálmáájävri</smn>
+   </e>
+   <e>
+      <sme>Čoalmmávárri</sme>
+      <smn>Čuálmáávääri</smn>
    </e>
    <e>
       <sme>Čoarbbeljávri</sme>
-      <smn>Čuárbbeljáávráš ~ Čuárbbeljävri</smn>
+      <smn>Čuárbbeljävri</smn>
    </e>
    <e>
       <sme>Čoarvejávri, -johka, -skáidi, -várri</sme>
@@ -573,7 +705,11 @@
       <smn>Čuávvá-Piättâr ääli</smn>
    </e>
    <e>
-      <sme>Čohkaroavvi ~ Čohkavárri</sme>
+      <sme>Čohkaroavvi</sme>
+      <smn>Čuhâruávááš</smn>
+   </e>
+   <e>
+      <sme>Čohkavárri</sme>
       <smn>Čuhâruávááš</smn>
    </e>
    <e>
@@ -610,7 +746,7 @@
    </e>
    <e>
       <sme>Čuovžajávri</sme>
-      <smn>Šapšjävri, -juuhâ, -luobâl, -luobbâlčummâ</smn>
+      <smn>Šapšjävri</smn>
    </e>
    <e>
       <sme>Čuovžajávrrit</sme>
@@ -677,16 +813,32 @@
       <smn>Tikkeláássáš</smn>
    </e>
    <e>
-      <sme>Diivejávri, -johka, -skáidi, -várri</sme>
-      <smn>Tijvejävri, -juuhâ, -skäiđi, -vääri</smn>
+      <sme>Diivejávri</sme>
+      <smn>Tijvejävri</smn>
    </e>
    <e>
-      <sme>Dirgejávri, -duottar</sme>
-      <smn>Tiergijävri, -tuodâr</smn>
+      <sme>Diivejohka</sme>
+      <smn>Tijvejuuhâ</smn>
+   </e>
+   <e>
+      <sme>Diiveskáidi</sme>
+      <smn>Tijveskäiđi</smn>
+   </e>
+   <e>
+      <sme>Diivevárri</sme>
+      <smn>Tijvevääri</smn>
+   </e>
+   <e>
+      <sme>Dirgejávri</sme>
+      <smn>Tiergijävri</smn>
+   </e>
+   <e>
+      <sme>Dirgeduottar</sme>
+      <smn>Tiergituodâr</smn>
    </e>
    <e>
       <sme>Divreláttu</sme>
-      <smn>Tivreláddu, -láddučummâ</smn>
+      <smn>Tivreláddu</smn>
    </e>
    <e>
       <sme>Doallanjohka</sme>
@@ -713,19 +865,31 @@
       <smn>Tyeljiväldimruávi</smn>
    </e>
    <e>
-      <sme>Duorbeguoika, -vuotna</sme>
-      <smn>Tyerbeekuoškâ, -vuonâ</smn>
+      <sme>Duorbeguoika</sme>
+      <smn>Tyerbeekuoškâ</smn>
    </e>
    <e>
-      <sme>Duortnosjávri, -johka</sme>
-      <smn>Tuárnusjävri, -juuhâ</smn>
+      <sme>Duorbevuotna</sme>
+      <smn>Tyerbeevuonâ</smn>
+   </e>
+   <e>
+      <sme>Duortnosjávri</sme>
+      <smn>Tuárnusjävri</smn>
+   </e>
+   <e>
+      <sme>Duortnosjohka</sme>
+      <smn>Tuárnusjuuhâ</smn>
    </e>
    <e>
       <sme>Duvrojávri, -njárga, -buolža</sme>
       <smn>Tuurujävri, -njargâ, -puolžâ</smn>
    </e>
    <e>
-      <sme>Eanodat ~ Enodat</sme>
+      <sme>Eanodat</sme>
+      <smn>Iänudâh</smn>
+   </e>
+   <e>
+      <sme>Enodat</sme>
       <smn>Iänudâh</smn>
    </e>
    <e>
@@ -781,16 +945,28 @@
       <smn>Kiškodemjävri</smn>
    </e>
    <e>
-      <sme>Gamiljohka ~ Gamedeijohka</sme>
+      <sme>Gamiljohka</sme>
       <smn>Kamiljuuhâ</smn>
    </e>
    <e>
-      <sme>Ganešjávri, -bákti, -guoika</sme>
-      <smn>Kenišjävri, -pähti, -kuoškâ</smn>
+      <sme>Gamedeijohka</sme>
+      <smn>Kamiljuuhâ</smn>
+   </e>
+   <e>
+      <sme>Ganešjávri</sme>
+      <smn>Kenišjävri</smn>
+   </e>
+   <e>
+      <sme>Ganešbákti</sme>
+      <smn>Kenišpähti</smn>
+   </e>
+   <e>
+      <sme>Ganešguoika</sme>
+      <smn>Keniškuoškâ</smn>
    </e>
    <e>
       <sme>Garetguoika</sme>
-      <smn>Kaareehkievŋis ~ Kievŋiskuoškâ</smn>
+      <smn>Kievŋiskuoškâ</smn>
    </e>
    <e>
       <sme>Garranjearáš</sme>
@@ -825,8 +1001,12 @@
       <smn>Kosseennâm</smn>
    </e>
    <e>
-      <sme>Gábe-Ántte čohkka, -jávri</sme>
-      <smn>Kaabiš Anttii čukkâ, -jävri</smn>
+      <sme>Gábe-Ántte čohkka</sme>
+      <smn>Kaabiš Anttii čukkâ</smn>
+   </e>
+   <e>
+      <sme>Gábe-Ántte jávri</sme>
+      <smn>Kaabiš Anttii jävri</smn>
    </e>
    <e>
       <sme>Gáđerguotkkojohka</sme>
@@ -845,8 +1025,12 @@
       <smn>Kähteevyeppee</smn>
    </e>
    <e>
-      <sme>Gáhterinjávri, -čoalbmi</sme>
-      <smn>Katrinjävri, -čuálmi</smn>
+      <sme>Gáhterinjávri</sme>
+      <smn>Katrinjävri</smn>
+   </e>
+   <e>
+      <sme>Gáhterinčoalbmi</sme>
+      <smn>Katrinčuálmi</smn>
    </e>
    <e>
       <sme>Gáidanjávri</sme>
@@ -874,7 +1058,7 @@
    </e>
    <e>
       <sme>Gálgoaivi</sme>
-      <smn>Kálguáivi ~ Kálgu-uáivi</smn>
+      <smn>Kálguáivi</smn>
    </e>
    <e>
       <sme>Gállotjávri</sme>
@@ -885,8 +1069,12 @@
       <smn>Kálvujuuhâ</smn>
    </e>
    <e>
-      <sme>Gámasjohka, -mohkki</sme>
-      <smn>Kaamâsjuuhâ, -mokke</smn>
+      <sme>Gámasjohka</sme>
+      <smn>Kaamâsjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Gámasmohkki</sme>
+      <smn>Kaamâsmokke</smn>
    </e>
    <e>
       <sme>Gánddašduottar</sme>
@@ -909,8 +1097,16 @@
       <smn>Ulgâjävri</smn>
    </e>
    <e>
-      <sme>Gárbboljávri, -johka, -várri</sme>
-      <smn>Kaarbuljävri, -juuhâ, -vääri</smn>
+      <sme>Gárbboljávri</sme>
+      <smn>Kaarbuljävri</smn>
+   </e>
+   <e>
+      <sme>Gárbboljohka</sme>
+      <smn>Kaarbuljuuhâ</smn>
+   </e>
+   <e>
+      <sme>Gárbbolvárri</sme>
+      <smn>Kaarbulvääri</smn>
    </e>
    <e>
       <sme>Gárdeája</sme>
@@ -946,19 +1142,27 @@
    </e>
    <e>
       <sme>Geaidnoaivi</sme>
-      <smn>Kiäinuáivi ~ Kiäinu-uáivi, -luohtâ</smn>
+      <smn>Kiäinuáivi</smn>
    </e>
    <e>
       <sme>Geaidnojávri</sme>
       <smn>Kiäinujävri</smn>
    </e>
    <e>
-      <sme>Geassegoahtejávrrit, -jeakkit</sme>
-      <smn>Kesikuátjäävrih, -jeegih</smn>
+      <sme>Geassegoahtejávrrit</sme>
+      <smn>Kesikuátjäävrih</smn>
    </e>
    <e>
-      <sme>Geavojávri, -njálbmi</sme>
-      <smn>Kiävujävri, -njälmi</smn>
+      <sme>Geassegoahtejeakkit</sme>
+      <smn>Kesikuátjeegih</smn>
+   </e>
+   <e>
+      <sme>Geavojávri</sme>
+      <smn>Kiävujävri</smn>
+   </e>
+   <e>
+      <sme>Geavonjálbmi</sme>
+      <smn>Kiävunjälmi</smn>
    </e>
    <e>
       <sme>Geavvu</sme>
@@ -997,8 +1201,12 @@
       <smn>Šlubboruávijävri</smn>
    </e>
    <e>
-      <sme>Giemajávri, -johka</sme>
-      <smn>Kiemâjävri, -juuhâ</smn>
+      <sme>Giemajávri</sme>
+      <smn>Kiemâjävri</smn>
+   </e>
+   <e>
+      <sme>Giemajohka</sme>
+      <smn>Kiemâjuuhâ</smn>
    </e>
    <e>
       <sme>Giepma</sme>
@@ -1049,6 +1257,14 @@
       <smn>Kistâppeljäävrih, -juuhâ, -vyemi</smn>
    </e>
    <e>
+      <sme>Givgánjávri</sme>
+      <smn>Kivŋâmjävri</smn>
+   </e>
+   <e>
+      <sme>Givgŋanjávri</sme>
+      <smn>Kivŋâmjävri</smn>
+   </e>
+   <e>
       <sme>Givgánjávri ~ Givgŋanjávri, -ája ~ -johka</sme>
       <smn>Kivŋâmjävri, -juuvâš</smn>
    </e>
@@ -1061,8 +1277,12 @@
       <smn>Kuáppil</smn>
    </e>
    <e>
-      <sme>Goahtečielgi, -čielggejávri</sme>
-      <smn>Kuáđááčielgi, -čielgjäävrih</smn>
+      <sme>Goahtečielgi</sme>
+      <smn>Kuáđááčielgi</smn>
+   </e>
+   <e>
+      <sme>Goahtečielggejávri</sme>
+      <smn>Kuáđááčielgjäävrih</smn>
    </e>
    <e>
       <sme>Goahtejohka</sme>
@@ -1093,11 +1313,15 @@
       <smn>Kuálsijuuhâ</smn>
    </e>
    <e>
-      <sme>Goardinjávri, -járjogaš</sme>
-      <smn>Kuárdámjáávráš, -jävrjuuvâš</smn>
+      <sme>Goardinjávri</sme>
+      <smn>Kuárdámjáávráš</smn>
    </e>
    <e>
-      <sme>Goddebáhčinduottar ~</sme>
+      <sme>Goardinjárjogaš</sme>
+      <smn>Kuárdámjävrjuuvâš</smn>
+   </e>
+   <e>
+      <sme>Goddebáhčinduottar</sme>
       <smn>Koddepääččimliäkšá</smn>
    </e>
    <e>
@@ -1145,8 +1369,16 @@
       <smn>Koškâmjävri</smn>
    </e>
    <e>
-      <sme>Gottášjeaggi, -jeakkeroavvi, -čielgi</sme>
-      <smn>Koddáášjiägáš, -jiäggááruávi, -čielgi</smn>
+      <sme>Gottášjeaggi</sme>
+      <smn>Koddáášjiägáš</smn>
+   </e>
+   <e>
+      <sme>Gottášjeakkeroavvi</sme>
+      <smn>Koddáášjiäggááruávi</smn>
+   </e>
+   <e>
+      <sme>Gottáščielgi</sme>
+      <smn>Koddááščielgi</smn>
    </e>
    <e>
       <sme>Grönholmavárri</sme>
@@ -1245,16 +1477,24 @@
       <smn>Kuáruláddu</smn>
    </e>
    <e>
-      <sme>Guošnajávri, -oaivi</sme>
-      <smn>Kuošnjâjävri ~ Kuošnâjävri, -uáivi</smn>
+      <sme>Guošnajávri</sme>
+      <smn>Kuošnjâjävri</smn>
+   </e>
+   <e>
+      <sme>Guošnaoaivi</sme>
+      <smn>Kuošnjâuáivi</smn>
    </e>
    <e>
       <sme>Guošnaluobbalat</sme>
       <smn>Rekkiluobâl</smn>
    </e>
    <e>
-      <sme>Guotkkoaivi, -láttu</sme>
-      <smn>Kuáđhu-uáivi, -láddu</smn>
+      <sme>Guotkkoaivi</sme>
+      <smn>Kuáđhu-uáivi</smn>
+   </e>
+   <e>
+      <sme>Guotkkoláttu</sme>
+      <smn>Kuáđhu-uáiviláddu</smn>
    </e>
    <e>
       <sme>Guottoveadji ~ Guottoveaijohka, -veaičopma, -veaiskáidi</sme>
@@ -1265,7 +1505,11 @@
       <smn>Kuovdâkiäinu</smn>
    </e>
    <e>
-      <sme>Guovdalásis ~ Guovdalássáš</sme>
+      <sme>Guovdalásis</sme>
+      <smn>Kuovdâláássáš</smn>
+   </e>
+   <e>
+      <sme>Guovdalássáš</sme>
       <smn>Kuovdâláássáš</smn>
    </e>
    <e>
@@ -1309,8 +1553,12 @@
       <smn>Hopâttâsjuuvâš</smn>
    </e>
    <e>
-      <sme>Hahpatjávri, -čohkka</sme>
-      <smn>Hoppoogjävri, -čukkâ</smn>
+      <sme>Hahpatjávri</sme>
+      <smn>Hoppoogjävri</smn>
+   </e>
+   <e>
+      <sme>Hahpatčohkka</sme>
+      <smn>Hoppoogčukkâ</smn>
    </e>
    <e>
       <sme>Haŋŋájávri</sme>
@@ -1325,8 +1573,12 @@
       <smn>Suhpieanan</smn>
    </e>
    <e>
-      <sme>Háhccestanjávri ~ Háhcastanjávri</sme>
-      <smn>Hacâstâmjäävrih ~ Haaccâstâmjäävrih</smn>
+      <sme>Háhccestanjávri</sme>
+      <smn>Hacâstâmjäävrih</smn>
+   </e>
+   <e>
+      <sme>Háhcastanjávri</sme>
+      <smn>Hacâstâmjäävrih</smn>
    </e>
    <e>
       <sme>Háldi</sme>
@@ -1362,7 +1614,7 @@
    </e>
    <e>
       <sme>Heahttá</sme>
-      <smn>Hiättá ~ Hetta</smn>
+      <smn>Hiättá</smn>
    </e>
    <e>
       <sme>Heandaratbáiki</sme>
@@ -1390,7 +1642,7 @@
    </e>
    <e>
       <sme>Heavvojohka</sme>
-      <smn>Vuomvär-Hiävujuuhâ ~ Hiävujuuhâ</smn>
+      <smn>Hiävujuuhâ</smn>
    </e>
    <e>
       <sme>Heikel</sme>
@@ -1494,7 +1746,7 @@
    </e>
    <e>
       <sme>Jiekŋaáhpi</sme>
-      <smn>Jieŋâääpi ~ Jieŋâmeerâ</smn>
+      <smn>Jieŋâääpi</smn>
    </e>
    <e>
       <sme>Jiekŋajávrrit</sme>
@@ -1505,8 +1757,12 @@
       <smn>Jyevdilâsjävri</smn>
    </e>
    <e>
-      <sme>Jogašnjálmmeluokta, -lássáš</sme>
-      <smn>Juuvâšnjälmluohtâ, -láássáš</smn>
+      <sme>Jogašnjálmmeluokta</sme>
+      <smn>Juuvâšnjälmluohtâ</smn>
+   </e>
+   <e>
+      <sme>Jogašnjálmmelássáš</sme>
+      <smn>Juuvâšnjälmláássáš</smn>
    </e>
    <e>
       <sme>Johánjávrráš</sme>
@@ -1550,7 +1806,7 @@
    </e>
    <e>
       <sme>Juovvačielgi</sme>
-      <smn>Juovâčielgi, -čielgjäävrih, -čielgjävrjuuhâ</smn>
+      <smn>Juovâčielgi</smn>
    </e>
    <e>
       <sme>Juovvajávrrit, -járjohka</sme>
@@ -1601,8 +1857,12 @@
       <smn>Lággujuuhâ</smn>
    </e>
    <e>
-      <sme>Láksenjárga, -njearit</sme>
-      <smn>Läkseenjargâ, -kuoškâ</smn>
+      <sme>Láksenjárga</sme>
+      <smn>Läkseenjargâ</smn>
+   </e>
+   <e>
+      <sme>Láksenjearit</sme>
+      <smn>Läkseenkuoškâ</smn>
    </e>
    <e>
       <sme>Lákšamuotki</sme>
@@ -1669,7 +1929,11 @@
       <smn>Liävájuuhâ</smn>
    </e>
    <e>
-      <sme>Lihttomuorvárri ~ Lihttemuorvárri</sme>
+      <sme>Lihttomuorvárri</sme>
+      <smn>Littmuorvääri</smn>
+   </e>
+   <e>
+      <sme>Lihttemuorvárri</sme>
       <smn>Littmuorvääri</smn>
    </e>
    <e>
@@ -1681,8 +1945,12 @@
       <smn>Lijneläppimsuálui</smn>
    </e>
    <e>
-      <sme>Lismájávri, -johka</sme>
-      <smn>Lismájävri, -juuhâ</smn>
+      <sme>Lismájávri</sme>
+      <smn>Lismájävri</smn>
+   </e>
+   <e>
+      <sme>Lismájohka</sme>
+      <smn>Lismájuuhâ</smn>
    </e>
    <e>
       <sme>Lohgerresjávri</sme>
@@ -1737,16 +2005,24 @@
       <smn>Vuoddagassavu</smn>
    </e>
    <e>
-      <sme>Márástat ~ Marastatduottarat</sme>
+      <sme>Márástat</sme>
+      <smn>Márástâh</smn>
+   </e>
+   <e>
+      <sme>Marastatduottarat</sme>
       <smn>Márástâh</smn>
    </e>
    <e>
       <sme>Márástat Morganoaivi</sme>
-      <smn>Morgâmuáivi ~ Muorgamuáivi</smn>
+      <smn>Morgâmuáivi</smn>
    </e>
    <e>
-      <sme>Máretsuolu, -bohki</sme>
-      <smn>Maaritsuálui, -pohe</smn>
+      <sme>Máretsuolu</sme>
+      <smn>Maaritsuálui</smn>
+   </e>
+   <e>
+      <sme>Máretbohki</sme>
+      <smn>Maaritpohe</smn>
    </e>
    <e>
       <sme>Márttenjárga</sme>
@@ -1769,16 +2045,32 @@
       <smn>Merâpottâ</smn>
    </e>
    <e>
-      <sme>Mierašjávri, -luoppal, -roavvi, -várri</sme>
-      <smn>Mierâšjävri, -luobâl, -ruávi, -vääri</smn>
+      <sme>Mierašjávri</sme>
+      <smn>Mierâšjävri</smn>
+   </e>
+   <e>
+      <sme>Mierašluoppal</sme>
+      <smn>Mierâšluobâl</smn>
+   </e>
+   <e>
+      <sme>Mierašroavvi</sme>
+      <smn>Mierâšruávi</smn>
+   </e>
+   <e>
+      <sme>Mierašvárri</sme>
+      <smn>Mierâšvääri</smn>
    </e>
    <e>
       <sme>Miesseroavvi</sme>
       <smn>Miessebuollán</smn>
    </e>
    <e>
-      <sme>Mihkaljávri, -várri</sme>
-      <smn>Mikkâljävri, -vääri</smn>
+      <sme>Mihkaljávri</sme>
+      <smn>Mikkâljävri</smn>
+   </e>
+   <e>
+      <sme>Mihkalvárri</sme>
+      <smn>Mikkâlvääri</smn>
    </e>
    <e>
       <sme>Moalkejávri</sme>
@@ -1801,20 +2093,28 @@
       <smn>Manevuoššâmsuálui</smn>
    </e>
    <e>
-      <sme>Morganjávri, -maras</sme>
-      <smn>Morgâmjävri ~ Muorgamjävri, Morgâmuáivi ~ Muorgamuáivi</smn>
+      <sme>Morganjávri</sme>
+      <smn>Morgâmjävri</smn>
    </e>
    <e>
       <sme>Morganmaras</sme>
-      <smn>Morgâmuáivi ~ Muorgamuáivi</smn>
+      <smn>Morgâmuáivi</smn>
+   </e>
+   <e>
+      <sme>Morganmaras</sme>
+      <smn>Morgâmuáivi</smn>
    </e>
    <e>
       <sme>Morgan-Viibos</sme>
       <smn>Morgâmjävruáivi</smn>
    </e>
    <e>
-      <sme>Muddosjávri, -njárga</sme>
-      <smn>Mudusjävri, -njargâ</smn>
+      <sme>Muddosjávri</sme>
+      <smn>Mudusjävri</smn>
+   </e>
+   <e>
+      <sme>Muddosnjárga</sme>
+      <smn>Mudusnjargâ</smn>
    </e>
    <e>
       <sme>Mulggohatjohka</sme>
@@ -1870,7 +2170,7 @@
    </e>
    <e>
       <sme>Niibejohka</sme>
-      <smn>Nijbii ~ Nijbiijuuhâ</smn>
+      <smn>Nijbiijuuhâ</smn>
    </e>
    <e>
       <sme>Njallajávri</sme>
@@ -1894,7 +2194,7 @@
    </e>
    <e>
       <sme>Njálbmesavu</sme>
-      <smn>Skiehččannjálmmesavu ~ Skiehččannjálsavu</smn>
+      <smn>Skiehččannjálmmesavu</smn>
    </e>
    <e>
       <sme>Njálmmebohki, -bogijeaggi, -bogivárri</sme>
@@ -1917,8 +2217,12 @@
       <smn>Njiävđámvuonâ</smn>
    </e>
    <e>
-      <sme>Njiđgu, Njiđgojávri</sme>
-      <smn>Njiđgojuuhâ, Njiđgojävri</smn>
+      <sme>Njiđgu</sme>
+      <smn>Njiđgojuuhâ</smn>
+   </e>
+   <e>
+      <sme>Njiđgojávri</sme>
+      <smn>Njiđgojävri</smn>
    </e>
    <e>
       <sme>Njižžejávri</sme>
@@ -1950,15 +2254,23 @@
    </e>
    <e>
       <sme>Njuorggán</sme>
-      <smn>Njuárgám ~ Nuárgám</smn>
+      <smn>Njuárgám</smn>
    </e>
    <e>
       <sme>Njurgomonnenjárga</sme>
       <smn>Puornâluohtvyeppeenjargâ</smn>
    </e>
    <e>
-      <sme>Njurgunoaivi, -ája, -ávži</sme>
-      <smn>Njurgomuáivi, -juuvâš, -ävži</smn>
+      <sme>Njurgunoaivi</sme>
+      <smn>Njurgomuáivi</smn>
+   </e>
+   <e>
+      <sme>Njurgunája</sme>
+      <smn>Njurgomjuuvâš</smn>
+   </e>
+   <e>
+      <sme>Njurgunávži</sme>
+      <smn>Njurgomävži</smn>
    </e>
    <e>
       <sme>Norga</sme>
@@ -2009,8 +2321,12 @@
       <smn>Ordâvääri</smn>
    </e>
    <e>
-      <sme>Ovdagiehjávrrit, -várit</sme>
-      <smn>Ovdâkietjávrááh, -vääri</smn>
+      <sme>Ovdagiehjávrrit</sme>
+      <smn>Ovdâkietjávrááh</smn>
+   </e>
+   <e>
+      <sme>Ovdagiehvárit</sme>
+      <smn>Ovdâkietvääri</smn>
    </e>
    <e>
       <sme>Ovllástohpojávri</sme>
@@ -2082,15 +2398,27 @@
    </e>
    <e>
       <sme>Reahpen</sme>
-      <smn>Reeppin ~ Reeppinjuuhâ</smn>
+      <smn>Reeppin</smn>
    </e>
    <e>
-      <sme>Reahpenjávrrit, -johka, -čielgi</sme>
-      <smn>Reeppinjäävrih, -juuhâ, -čielgi</smn>
+      <sme>Reahpenjávrrit</sme>
+      <smn>Reeppinjäävrih</smn>
    </e>
    <e>
-      <sme>Riidojávri, -jeaggi</sme>
-      <smn>Rijdojävri, -jeggi</smn>
+      <sme>Reahpenjohka</sme>
+      <smn>Reeppinjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Reahpenčielgi</sme>
+      <smn>Reeppinčielgi</smn>
+   </e>
+   <e>
+      <sme>Riidojávri</sme>
+      <smn>Rijdojävri</smn>
+   </e>
+   <e>
+      <sme>Riidojeaggi</sme>
+      <smn>Rijdojeggi</smn>
    </e>
    <e>
       <sme>Rivdol</sme>
@@ -2098,7 +2426,7 @@
    </e>
    <e>
       <sme>Rivdošváre bigálusáidi</sme>
-      <smn>Čávgŋá bigálusgárdi ~ Čaŋŋá bigálusgárdi</smn>
+      <smn>Čávgŋá bigálusgárdi</smn>
    </e>
    <e>
       <sme>Roavájávrrit ~ Roavvejávrrit, -johka ~ -ája</sme>
@@ -2173,16 +2501,20 @@
       <smn>Savvonvárri</smn>
    </e>
    <e>
-      <sme>Savssačielgi, -johka</sme>
-      <smn>Sovsčielgi, -juuhâ</smn>
+      <sme>Savssačielgi</sme>
+      <smn>Sovsčielgi</smn>
+   </e>
+   <e>
+      <sme>Savssajohka</sme>
+      <smn>Sovsjuuhâ</smn>
    </e>
    <e>
       <sme>Sállan</sme>
-      <smn>Saallâm ~ Saallâmsuálui</smn>
+      <smn>Saallâm</smn>
    </e>
    <e>
       <sme>Sápmi</sme>
-      <smn>Säämi ~ Sämieennâm</smn>
+      <smn>Säämi</smn>
    </e>
    <e>
       <sme>Sávzavárri</sme>
@@ -2193,8 +2525,20 @@
       <smn>Seeibâgluohtâ</smn>
    </e>
    <e>
-      <sme>Seaibelahjeaggi, -láttu, -johka, -várri</sme>
-      <smn>Seibilakjeggi, -láddu, -juuhâ, -vääri</smn>
+      <sme>Seaibelahjeaggi</sme>
+      <smn>Seibilakjeggi</smn>
+   </e>
+   <e>
+      <sme>Seaibelahláttu</sme>
+      <smn>Seibilakláddu</smn>
+   </e>
+   <e>
+      <sme>Seaibelahjohka</sme>
+      <smn>Seibilakjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Seaibelahvárri</sme>
+      <smn>Seibilakvääri</smn>
    </e>
    <e>
       <sme>Seagginjárga</sme>
@@ -2225,7 +2569,11 @@
       <smn>Sieminkurtte</smn>
    </e>
    <e>
-      <sme>Searitjohka ~ Searijogaš</sme>
+      <sme>Searitjohka</sme>
+      <smn>Seereeh</smn>
+   </e>
+   <e>
+      <sme>Searijogaš</sme>
       <smn>Seereeh</smn>
    </e>
    <e>
@@ -2246,7 +2594,7 @@
    </e>
    <e>
       <sme>Sieiddáčoalbmi</sme>
-      <smn>Siäidááčuálmi ~ Sieidičuálmi</smn>
+      <smn>Siäidááčuálmi</smn>
    </e>
    <e>
       <sme>Siekkajeaggi</sme>
@@ -2257,12 +2605,20 @@
       <smn>Seakkajeaggi</smn>
    </e>
    <e>
-      <sme>Sierranjávri, -járčielgi</sme>
-      <smn>Sierrâmjävri ~ Sierâjävri, -jävrčielgi</smn>
+      <sme>Sierranjávri</sme>
+      <smn>Sierrâmjävri</smn>
    </e>
    <e>
-      <sme>Siimmatnjárga, -luokta</sme>
-      <smn>Siimmâtnjargâ, -luohtâ</smn>
+      <sme>Sierranjárčielgi</sme>
+      <smn>Sierrâmjävrčielgi</smn>
+   </e>
+   <e>
+      <sme>Siimmatnjárga</sme>
+      <smn>Siimmâtnjargâ</smn>
+   </e>
+   <e>
+      <sme>Siimmatluokta</sme>
+      <smn>Siimmâtluohtâ</smn>
    </e>
    <e>
       <sme>Sikkávuotna</sme>
@@ -2305,8 +2661,16 @@
       <smn>Skiečârâsjävri</smn>
    </e>
    <e>
-      <sme>Smukkajávri, -johka, -luoppal</sme>
-      <smn>Smuggâjävri, -juuhâ, -luobâl</smn>
+      <sme>Smukkajávri</sme>
+      <smn>Smuggâjävri</smn>
+   </e>
+   <e>
+      <sme>Smukkajohka</sme>
+      <smn>Smuggâjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Smukkaluoppal</sme>
+      <smn>Smuggâluobâl</smn>
    </e>
    <e>
       <sme>Soabbat</sme>
@@ -2521,8 +2885,12 @@
       <smn>Suosânjargâ</smn>
    </e>
    <e>
-      <sme>Suovdejávri, -jogaš</sme>
-      <smn>Sieptâgâšjävri, -juuhâ</smn>
+      <sme>Suovdejávri</sme>
+      <smn>Sieptâgâšjävri</smn>
+   </e>
+   <e>
+      <sme>Suovdejogaš</sme>
+      <smn>Sieptâgâšjuuhâ</smn>
    </e>
    <e>
       <sme>Suovvaguoika</sme>
@@ -2609,7 +2977,11 @@
       <smn>Davimuš Lávrrávárnjunni</smn>
    </e>
    <e>
-      <sme>Unnit Dápmotláttu ~ Unnit Dápmotjávri</sme>
+      <sme>Unnit Dápmotláttu</sme>
+      <smn>Ráhpe-Dápmotláttu</smn>
+   </e>
+   <e>
+      <sme>Unnit Dápmotjávri</sme>
       <smn>Ráhpe-Dápmotláttu</smn>
    </e>
    <e>
@@ -2625,8 +2997,12 @@
       <smn>Urruáivi</smn>
    </e>
    <e>
-      <sme>Vaddjávri, -johka</sme>
-      <smn>Vaijävri, -juuhâ</smn>
+      <sme>Vaddjávri</sme>
+      <smn>Vaijävri</smn>
+   </e>
+   <e>
+      <sme>Vaddjohka</sme>
+      <smn>Vaijuuhâ</smn>
    </e>
    <e>
       <sme>Vagahanjávri</sme>
@@ -2674,7 +3050,7 @@
    </e>
    <e>
       <sme>Várjjavuotna</sme>
-      <smn>Varjâvuonâ ~ Värjivuonâ</smn>
+      <smn>Varjâvuonâ</smn>
    </e>
    <e>
       <sme>Várnjárga</sme>
@@ -2689,20 +3065,36 @@
       <smn>Vestâjuuhâ</smn>
    </e>
    <e>
-      <sme>Vásttasjávri ~ Vásttosjávri</sme>
-      <smn>Moškisjävri ~ Vastusjävri</smn>
+      <sme>Vásttasjávri</sme>
+      <smn>Vastusjävri</smn>
    </e>
    <e>
-      <sme>Veahčajávri, -johka</sme>
-      <smn>Veččâjävri, -juuhâ</smn>
+      <sme>Vásttosjávri</sme>
+      <smn>Vastusjävri</smn>
+   </e>
+   <e>
+      <sme>Veahčajávri</sme>
+      <smn>Veččâjävri</smn>
+   </e>
+   <e>
+      <sme>Veahčajohka</sme>
+      <smn>Veččâjuuhâ</smn>
    </e>
    <e>
       <sme>Veahčat</sme>
       <smn>Veeččâh</smn>
    </e>
    <e>
-      <sme>Veaikketduottar, -jeaggi, -johka</sme>
-      <smn>Vaskiistuodâr, -jeggi, -juuhâ</smn>
+      <sme>Veaikketduottar</sme>
+      <smn>Vaskiistuodâr</smn>
+   </e>
+   <e>
+      <sme>Veaikketjeaggi</sme>
+      <smn>Vaskiisjeggi</smn>
+   </e>
+   <e>
+      <sme>Veaikketjohka</sme>
+      <smn>Vaskiisjuuhâ</smn>
    </e>
    <e>
       <sme>Viercaroaváš</sme>
@@ -2717,12 +3109,20 @@
       <smn>Morgâmjävruáivi</smn>
    </e>
    <e>
-      <sme>Viibosoaivi, -duoddarat</sme>
-      <smn>Viibušuáivi, -tuoddâreh</smn>
+      <sme>Viibosoaivi</sme>
+      <smn>Viibušuáivi</smn>
+   </e>
+   <e>
+      <sme>Viibosduoddarat</sme>
+      <smn>Viibuštuoddâreh</smn>
    </e>
    <e>
       <sme>Viinnalasihanjávri</sme>
-      <smn>Viijnelasettemjävri, -jeggi</smn>
+      <smn>Viijnelasettemjävri</smn>
+   </e>
+   <e>
+      <sme>Viinnalasihanjeaggi</sme>
+      <smn>Viijnelasettemjeggi</smn>
    </e>
    <e>
       <sme>Viinnalasihanjohka</sme>
@@ -2781,8 +3181,12 @@
       <smn>Vuomvärjuuvâš</smn>
    </e>
    <e>
-      <sme>Vuopmavárri, -várjávri</sme>
-      <smn>Vuomvääri, -värjävri</smn>
+      <sme>Vuopmavárri</sme>
+      <smn>Vuomvääri</smn>
+   </e>
+   <e>
+      <sme>Vuopmavárjávri</sme>
+      <smn>Vuomvärjävri</smn>
    </e>
    <e>
       <sme>Vuopme-Bearttošvárri</sme>
