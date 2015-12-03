@@ -285,24 +285,44 @@
       <smn>Pälgisuáivi</smn>
    </e>
    <e>
-      <sme>Báloaivvit, -jávri, -johka</sme>
-      <smn>Pááluáivih, -jävri, -juuhâ</smn>
+      <sme>Báloaivvit</sme>
+      <smn>Pááluáivih</smn>
+   </e>
+   <e>
+      <sme>Bálojávri</sme>
+      <smn>Páálujävri</smn>
+   </e>
+   <e>
+      <sme>Bálojohka</sme>
+      <smn>Páálujuuhâ</smn>
    </e>
    <e>
       <sme>Bárttetsuolu</sme>
       <smn>Päärtihsuálui</smn>
    </e>
    <e>
-      <sme>Bávvaljávri, -johka, -várri</sme>
-      <smn>Paavvâljävri, -juuhâ, -vääri</smn>
+      <sme>Bávvaljávri</sme>
+      <smn>Paavvâljävri</smn>
+   </e>
+   <e>
+      <sme>Bávvaljohka</sme>
+      <smn>Paavvâljuuhâ</smn>
+   </e>
+   <e>
+      <sme>Bávvaljávrivárri</sme>
+      <smn>Paavvâljävrivääri</smn>
    </e>
    <e>
       <sme>Beahcán</sme>
       <smn>Piäccám</smn>
    </e>
    <e>
-      <sme>Beahcánjávri, -buolžžat</sme>
-      <smn>Piäccámjävri, -puolžah</smn>
+      <sme>Beahcánjávri</sme>
+      <smn>Piäccámjävri</smn>
+   </e>
+   <e>
+      <sme>Beahcánbuolžžat</sme>
+      <smn>Piäccámpuolžah</smn>
    </e>
    <e>
       <sme>Beahcevuotkinvárri</sme>
@@ -325,8 +345,12 @@
       <smn>Piärtušmskäiđi</smn>
    </e>
    <e>
-      <sme>Berronápmir, -ápmirjeaggi</sme>
-      <smn>Peerrumämmir, -ämmirjeggi</smn>
+      <sme>Berronápmir</sme>
+      <smn>Peerrumämmir</smn>
+   </e>
+   <e>
+      <sme>Berronápmirjeaggi</sme>
+      <smn>Peerrumämmirjeggi</smn>
    </e>
    <e>
       <sme>Besjohka</sme>
@@ -353,8 +377,16 @@
       <smn>Kiälluläppimčummâ</smn>
    </e>
    <e>
-      <sme>Biergevárri, -várjávrrit, várjeaggi</sme>
-      <smn>Piergivääri, -värjäävrih, -värjeggi</smn>
+      <sme>Biergevárri</sme>
+      <smn>Piergivääri</smn>
+   </e>
+   <e>
+      <sme>Biergejávrrit</sme>
+      <smn>Piergivärjäävrih</smn>
+   </e>
+   <e>
+      <sme>Biergevárjeaggi</sme>
+      <smn>Piergivärjeggi</smn>
    </e>
    <e>
       <sme>Biergoláttu</sme>
@@ -449,8 +481,12 @@
       <smn>Puáskivärjävri</smn>
    </e>
    <e>
-      <sme>Boasttobelluoppal, -čohkka</sme>
-      <smn>Puástuppelluobâl, -luobbâlčokke</smn>
+      <sme>Boasttobelluoppal</sme>
+      <smn>Puástuppelluobâl</smn>
+   </e>
+   <e>
+      <sme>Boasttobelluoppalčohkka</sme>
+      <smn>Puástuppelluobbâlčokke</smn>
    </e>
    <e>
       <sme>Boatnjá</sme>
@@ -597,16 +633,36 @@
       <smn>Čaabuáivi</smn>
    </e>
    <e>
-      <sme>Čárajávrrit, -johka, -oaivi, -skáidi, -vuopmi</sme>
-      <smn>Čaarâjäävrih, -juuhâ, -uáivi, -skäiđi, -vyemi</smn>
+      <sme>Čárajávrrit</sme>
+      <smn>Čaarâjäävrih</smn>
+   </e>
+   <e>
+      <sme>Čárajohka</sme>
+      <smn>Čaarâjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Čáraoaivi</sme>
+      <smn>Čaarâuáivi</smn>
+   </e>
+   <e>
+      <sme>Čáraskáidi</sme>
+      <smn>Čaarâskäiđi</smn>
+   </e>
+   <e>
+      <sme>Čáravuopmi</sme>
+      <smn>Čaarâvyemi</smn>
    </e>
    <e>
       <sme>Čársejohka</sme>
       <smn>Čärsjuuhâ</smn>
    </e>
    <e>
-      <sme>Čearpmatgoddinváráš, -čielgi</sme>
-      <smn>Čiermihkoddemváárááš, -čielgi</smn>
+      <sme>Čearpmatgoddinváráš</sme>
+      <smn>Čiermihkoddemváárááš</smn>
+   </e>
+   <e>
+      <sme>Čearpmatgoddinčielgi</sme>
+      <smn>Čiermihkoddemčielgi</smn>
    </e>
    <e>
       <sme>Čearpmatvárri</sme>
@@ -881,8 +937,16 @@
       <smn>Tuárnusjuuhâ</smn>
    </e>
    <e>
-      <sme>Duvrojávri, -njárga, -buolža</sme>
-      <smn>Tuurujävri, -njargâ, -puolžâ</smn>
+      <sme>Duvrojávri</sme>
+      <smn>Tuurujävri</smn>
+   </e>
+   <e>
+      <sme>Duvronjárga</sme>
+      <smn>Tuurunjargâ</smn>
+   </e>
+   <e>
+      <sme>Duvrobuolža</sme>
+      <smn>Tuurupuolžâ</smn>
    </e>
    <e>
       <sme>Eanodat</sme>
@@ -901,12 +965,20 @@
       <smn>Elliinjargâ</smn>
    </e>
    <e>
-      <sme>Fáippajávri, -roavvi</sme>
-      <smn>Haippajáávráš, -ruávi</smn>
+      <sme>Fáippajávri</sme>
+      <smn>Haippajáávráš</smn>
    </e>
    <e>
-      <sme>Fállebeasoaivvit, -johka</sme>
-      <smn>Vällipesuáivih, -juuhâ</smn>
+      <sme>Fáipparoavvi</sme>
+      <smn>Haipparuávi</smn>
+   </e>
+   <e>
+      <sme>Fállebeasoaivvit</sme>
+      <smn>Vällipesuáivih</smn>
+   </e>
+   <e>
+      <sme>Fállebeasjohka</sme>
+      <smn>Vällipesjuuhâ</smn>
    </e>
    <e>
       <sme>Fáškobuollán</sme>
