@@ -1,99 +1,311 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
    <e>
-      <sme>Čoarvejávri, -johka, -skáidi, -várri</sme>
-      <smn>Čuárvijävri, -juuhâ, -skäiđi, -vääri</smn>
+      <sme>Čoarvejávri</sme>
+      <smn>Čuárvijävri</smn>
    </e>
    <e>
-      <sme>Čoavččesjávri, -johka, -johbuollán, -johbuolžžat</sme>
-      <smn>Čovčjävri, -juuhâ, -juvruávi, -juvpuolžiih</smn>
+      <sme>Čoarvejohka</sme>
+      <smn>Čuárvijuuhâ</smn>
    </e>
    <e>
-      <sme>Doaresbealjávri, -luokta, -njárga, -čopma</sme>
-      <smn>Tuárispeljävri, -luohtâ, -njargâ, -čummâ</smn>
+      <sme>Čoarveskáidi</sme>
+      <smn>Čuárviskäiđi</smn>
    </e>
    <e>
-      <sme>Gisttatbeljávrrit, -johka, -vuopmi</sme>
-      <smn>Kistâppeljäävrih, -juuhâ, -vyemi</smn>
+      <sme>Čoarvevárri</sme>
+      <smn>Čuárvivääri</smn>
    </e>
    <e>
-      <sme>Givgánjávri ~ Givgŋanjávri, -ája ~ -johka</sme>
-      <smn>Kivŋâmjävri, -juuvâš</smn>
+      <sme>Čoavččesjávri</sme>
+      <smn>Čovčjävri</smn>
    </e>
    <e>
-      <sme>Guoddoveijohka, -čopma, -skáidi</sme>
-      <smn>Kuádduvei, -veičummâ, -veiskäiđi</smn>
+      <sme>Čoavččesjohka</sme>
+      <smn>Čovčjuuhâ</smn>
    </e>
    <e>
-      <sme>Guođašjávri, -várri</sme>
-      <smn>Kuovđâšmjävri, -vääri</smn>
+      <sme>Čoavččesjohbuollán</sme>
+      <smn>Čovčjuvruávi</smn>
    </e>
    <e>
-      <sme>Guoksajávri, -johka, -várri</sme>
-      <smn>Kuoksâjävri, -juuhâ, -vääri</smn>
+      <sme>Čoavččesjohbuolžžat</sme>
+      <smn>Čovčjuvpuolžiih</smn>
    </e>
    <e>
-      <sme>Guottoveadji ~ Guottoveaijohka, -veaičopma, -veaiskáidi</sme>
-      <smn>Kuádduvei, -veičummâ, -veiskäiđi</smn>
+      <sme>Doaresbealjávri</sme>
+      <smn>Tuárispeljävri</smn>
    </e>
    <e>
-      <sme>Huikinjávrrit, -johka, -várri, -čohkka</sme>
-      <smn>Huikkemjäävrih, -juuhâ, -vääri, -čukkâ</smn>
+      <sme>Doaresbealluokta</sme>
+      <smn>Tuárispelluohtâ</smn>
    </e>
    <e>
-      <sme>Jollanjávri, -oaivi</sme>
-      <smn>Juullâmjävri, -uáivi</smn>
+      <sme>Doaresbealnjárga</sme>
+      <smn>Tuárispelnjargâ</smn>
    </e>
    <e>
-      <sme>Juovvajávrrit, -járjohka</sme>
-      <smn>Juovâjávrááh, -jävrjuuhâ</smn>
+      <sme>Doaresbealčopma</sme>
+      <smn>Tuárispelčummâ</smn>
    </e>
    <e>
-      <sme>Laksemuotkejohka ~ Laksevuohčču, -várri, -vuohččovárri, -guoika</sme>
-      <smn>Läkseemyeđhijuuhâ, -vääri, -kuoškâ</smn>
+      <sme>Gisttatbeljávrrit</sme>
+      <smn>Kistâppeljäävrih</smn>
    </e>
    <e>
-      <sme>Lavdnjegoahteluoppal, -várri</sme>
-      <smn>Lavŋekuátluobâl, -vääri</smn>
+      <sme>Gisttatbeljohka</sme>
+      <smn>Kistâppeljuuhâ</smn>
    </e>
    <e>
-      <sme>Láikkesája, -ádjahpuolžâ, -jávri</sme>
-      <smn>Läškisjuuvâš, -juvviipuolžâ, -jáávráš</smn>
+      <sme>Gisttatbelvuopmi</sme>
+      <smn>Kistâppelvyemi</smn>
    </e>
    <e>
-      <sme>Lávvojávrráš, -járája, -járvárri</sme>
-      <smn>Lávujáávráš, -jávrááaajâ, -vääri</smn>
+      <sme>Givgánjávri</sme>
+      <smn>Kivŋâmjävri</smn>
    </e>
    <e>
-      <sme>Leaggojávri, -oaivi</sme>
-      <smn>Lággujävri, -uáivi</smn>
+      <sme>Givgŋanjávri</sme>
+      <smn>Kivŋâmjävri</smn>
    </e>
    <e>
-      <sme>Leaibejávrrit, -johka, -johluoppal</sme>
-      <smn>Leibijäävrih, -juuvâš, -luobbâlâš</smn>
+      <sme>Givgánája</sme>
+      <smn>Kivŋâmjuuvâš</smn>
    </e>
    <e>
-      <sme>Muoddávárri, -várjávri, -várjogaš</sme>
-      <smn>Spálččáváárááš, -vááráájáávráš, -vááráájuuvâš</smn>
+      <sme>Givgánjohka</sme>
+      <smn>Kivŋâmjuuvâš</smn>
    </e>
    <e>
-      <sme>Nealgejávrrit, -johka</sme>
-      <smn>Nelgijäävrih, -juuhâ</smn>
+      <sme>Guoddoveijohka</sme>
+      <smn>Kuádduvei</smn>
    </e>
    <e>
-      <sme>Nihkolasjávri, -johka, -luoppal, -luobbalrohtu</sme>
-      <smn>Nikolâsjävri, -juuhâ, -luobâl, -luobbâlroto</smn>
+      <sme>Guoddoveičopma</sme>
+      <smn>Kuáddučummâ</smn>
    </e>
    <e>
-      <sme>Njarčanjávrrit, -johka, -jeaggi, -várit</sme>
-      <smn>Njarččâmjäävrih, -juuhâ, -jeggi, -vääri</smn>
+      <sme>Guoddoveiskáidi</sme>
+      <smn>Kuádduveiskäiđi</smn>
    </e>
    <e>
-      <sme>Njálmmebohki, -bogijeaggi, -bogivárri</sme>
-      <smn>Njälpovvááš, -povváájeggi, -povváávääri</smn>
+      <sme>Guođašjávri</sme>
+      <smn>Kuovđâšmjävri</smn>
    </e>
    <e>
-      <sme>Roavájávrrit ~ Roavvejávrrit, -johka ~ -ája</sme>
-      <smn>Ruáváájäävrih, -juuhâ, -vääri</smn>
+      <sme>Guođašvárri</sme>
+      <smn>Kuovđâšmvääri</smn>
+   </e>
+   <e>
+      <sme>Guoksajávri</sme>
+      <smn>Kuoksâjävri</smn>
+   </e>
+   <e>
+      <sme>Guoksajohka</sme>
+      <smn>Kuoksâjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Guoksavárri</sme>
+      <smn>Kuoksâvääri</smn>
+   </e>
+   <e>
+      <sme>Guottoveadji</sme>
+      <smn>Kuádduvei</smn>
+   </e>
+   <e>
+      <sme>Guottoveaijohka</sme>
+      <smn>Kuádduvei</smn>
+   </e>
+   <e>
+      <sme>Guottoveaičopma</sme>
+      <smn>Kuádduveičummâ</smn>
+   </e>
+   <e>
+      <sme>Guottoveaiskáidi</sme>
+      <smn>Kuádduveiskäiđi</smn>
+   </e>
+   <e>
+      <sme>Huikinjávrrit</sme>
+      <smn>Huikkemjäävrih</smn>
+   </e>
+   <e>
+      <sme>Huikinjohka</sme>
+      <smn>Huikkemjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Huikinvárri</sme>
+      <smn>Huikkemvääri</smn>
+   </e>
+   <e>
+      <sme>Huikinčohkka</sme>
+      <smn>Huikkemčukkâ</smn>
+   </e>
+   <e>
+      <sme>Jollanjávri</sme>
+      <smn>Juullâmjävri</smn>
+   </e>
+    <e>
+      <sme>Jollanoaivi</sme>
+      <smn>Juullâmuáivi</smn>
+   </e>
+  <e>
+      <sme>Juovvajávrrit</sme>
+      <smn>Juovâjávrááh</smn>
+   </e>
+  <e>
+      <sme>Juovvajárjohka</sme>
+      <smn>Juovâjävrjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Laksemuotkejohka</sme>
+      <smn>Läkseemyeđhijuuhâ</smn>
+   </e>
+   <e>
+      <sme>Laksevuohčču</sme>
+      <smn>Läkseemyeđhijuuhâ</smn>
+   </e>
+   <e>
+      <sme>Laksemuotkevárri</sme>
+      <smn>Läkseemyeđhivääri</smn>
+   </e>
+   <e>
+      <sme>Laksemuotkevuohččovárri</sme>
+      <smn>Läkseemyeđhivääri</smn>
+   </e>
+   <e>
+      <sme>Laksemuotkeguoika</sme>
+      <smn>Läkseemyeđhikuoškâ</smn>
+   </e>
+   <e>
+      <sme>Lavdnjegoahteluoppal</sme>
+      <smn>Lavŋekuátluobâl</smn>
+   </e>
+   <e>
+      <sme>Lavdnjegoahtevárri</sme>
+      <smn>Lavŋekuátvääri</smn>
+   </e>
+   <e>
+      <sme>Láikkesája</sme>
+      <smn>Läškisjuuvâš</smn>
+   </e>
+   <e>
+      <sme>Láikkesádjahpuolžâ</sme>
+      <smn>Läškisjuvviipuolžâ</smn>
+   </e>
+   <e>
+      <sme>Láikkesjávri</sme>
+      <smn>Läškisjáávráš</smn>
+   </e>
+   <e>
+      <sme>Lávvojávrráš</sme>
+      <smn>Lávujáávráš</smn>
+   </e>
+   <e>
+      <sme>Lávvojárája</sme>
+      <smn>Lávujávrááaajâ</smn>
+   </e>
+   <e>
+      <sme>Lávvojárvárri</sme>
+      <smn>Lávuvääri</smn>
+   </e>
+   <e>
+      <sme>Leaggojávri</sme>
+      <smn>Lággujävri</smn>
+   </e>
+   <e>
+      <sme>Leaggooaivi</sme>
+      <smn>Lágguuáivi</smn>
+   </e>
+   <e>
+      <sme>Leaibejávrrit</sme>
+      <smn>Leibijäävrih</smn>
+   </e>
+   <e>
+      <sme>Leaibejohka</sme>
+      <smn>Leibijuuvâš</smn>
+   </e>
+   <e>
+      <sme>Leaibejohluoppal</sme>
+      <smn>Leibiluobbâlâš</smn>
+   </e>
+   <e>
+      <sme>Muoddávárri</sme>
+      <smn>Spálččá</smn>
+   </e>
+   <e>
+      <sme>Muoddávárjávri</sme>
+      <smn>Spálččávááráájáávráš</smn>
+   </e>
+   <e>
+      <sme>Muoddávárjogaš</sme>
+      <smn>Spálččávááráájuuvâš</smn>
+   </e>
+   <e>
+      <sme>Nealgejávrrit</sme>
+      <smn>Nelgijäävrih</smn>
+   </e>
+   <e>
+      <sme>Nealgejohka</sme>
+      <smn>Nelgijuuhâ</smn>
+   </e>
+   <e>
+      <sme>Nihkolasjávri</sme>
+      <smn>Nikolâsjävri</smn>
+   </e>
+   <e>
+      <sme>Nihkolasjohka</sme>
+      <smn>Nikolâsjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Nihkolasluoppal</sme>
+      <smn>Nikolâsluobâl</smn>
+   </e>
+   <e>
+      <sme>Nihkolasluobbalrohtu</sme>
+      <smn>Nikolâsluobbâlroto</smn>
+   </e>
+   <e>
+      <sme>Njarčanjávrrit</sme>
+      <smn>Njarččâmjäävrih</smn>
+   </e>
+   <e>
+      <sme>Njarčanjohka</sme>
+      <smn>Njarččâmjuuhâ</smn>
+   </e>
+   <e>
+      <sme>Njarčanjeaggi</sme>
+      <smn>Njarččâmjeggi</smn>
+   </e>
+   <e>
+      <sme>Njarčanvárit</sme>
+      <smn>Njarččâmvääri</smn>
+   </e>
+   <e>
+      <sme>Njálmmebohki</sme>
+      <smn>Njälpovvááš</smn>
+   </e>
+   <e>
+      <sme>Njálmmebogijeaggi</sme>
+      <smn>Njälpovváájeggi</smn>
+   </e>
+   <e>
+      <sme>Njálmmebogivárri</sme>
+      <smn>Njälpovváávääri</smn>
+   </e>
+   <e>
+      <sme>Roavájávrrit</sme>
+      <smn>Ruáváájäävrih</smn>
+   </e>
+   <e>
+      <sme>Roavvejávrrit</sme>
+      <smn>Ruáváájäävrih</smn>
+   </e>
+   <e>
+      <sme>Roavájohka</sme>
+      <smn>Ruáváájuuhâ</smn>
+   </e>
+   <e>
+      <sme>Roaváája</sme>
+      <smn>Ruáváájuuhâ</smn>
    </e>
 </r>
