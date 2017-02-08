@@ -22527,16 +22527,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">glássa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="N">itse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">goahccevuovdi</l>
       </lg>
       <mg>
@@ -29047,31 +29037,11 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">láse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="N">itse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">láseliidni</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
             <t pos="N">lasâlijne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">láseráigi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="N">itse</t>
          </tg>
       </mg>
    </e>
@@ -61122,16 +61092,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="V">vuástálistiđ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="X"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="X">N</t>
          </tg>
       </mg>
    </e>
