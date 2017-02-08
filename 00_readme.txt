@@ -1,4 +1,8 @@
-link_check is a dir for a shallo evaluation of 
+=============
+TODO: check and mark smesmn entries it has been done for
+      smesma and smasme (date: 20170208)
+=============
+link_check is a dir for a shallow evaluation of 
 possible smesmn entries via fin.
 
 1. extract all t-elements from smefin/src
