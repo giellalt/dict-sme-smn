@@ -3747,16 +3747,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="A">láhkásaš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="A"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">láiki</l>
       </lg>
       <mg>
@@ -27537,16 +27527,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">kárra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="N"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kárta</l>
       </lg>
       <mg>
@@ -36762,16 +36742,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="N">suájá</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">soaggi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="N"></t>
          </tg>
       </mg>
    </e>
