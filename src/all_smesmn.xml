@@ -63964,6 +63964,66 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
+         <l pos="Pron">moai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Pron">muoi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">doai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Pron">tuoi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">soai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Pron">suoi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Pron">mij</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">dii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Pron">tij</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Pron">sij</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Pron">dat</l>
       </lg>
       <mg>
