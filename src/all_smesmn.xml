@@ -44163,7 +44163,14 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="smn">
+            <re>go vázzá</re>
             <t pos="N">lävkki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>šaddu</re>
+            <t pos="N">siipuul</t>
          </tg>
       </mg>
    </e>
