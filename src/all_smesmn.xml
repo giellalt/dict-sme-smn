@@ -62651,6 +62651,26 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
+   <e xpos="xxx">
+      <lg>
+         <l pos="Num">objeaka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">objekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e xpos="xxx">
+      <lg>
+         <l pos="Num">subjeaka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">subjekt</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="Num">čiežalogi</l>
